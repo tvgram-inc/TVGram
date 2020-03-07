@@ -1,0 +1,314 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 0,
+        "name": "Brasilian Channels",
+        "sub_name": "Channels",
+        "thumbnail_url": "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_27,h_20/https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-brazil_748057.png",
+        "sub": {
+          "sub_1": {
+            "id": 1,
+            "mode": "video",
+            "name": "Boa Vontade TV",
+            "sub_name": "",
+            "stream_video_url": "http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8",
+            "thumbnail_url": "https://i.imgur.com/zX5c4CG.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "video",
+            "name": "Canal Ricos",
+            "sub_name": "",
+            "stream_video_url": "http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/De6ty9h.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "video",
+            "name": "Canção Nova",
+            "sub_name": "",
+            "stream_video_url": "https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/chunklist_b1155072.m3u8",
+            "thumbnail_url": "https://i.imgur.com/zJSUbTM.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "video",
+            "name": "FM O Dia",
+            "sub_name": "",
+            "stream_video_url": "http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/sQ5BKun.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "video",
+            "name": "IMPD TV",
+            "sub_name": "",
+            "stream_video_url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS",
+            "thumbnail_url": "https://i.imgur.com/D15qpCm.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "video",
+            "name": "Itú TV",
+            "sub_name": "",
+            "stream_video_url": "http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8",
+            "thumbnail_url": "https://i.imgur.com/36EnRYI.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "video",
+            "name": "Novo Tempo",
+            "sub_name": "",
+            "stream_video_url": "http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8",
+            "thumbnail_url": "https://i.imgur.com/exdDHml.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "video",
+            "name": "RCI",
+            "sub_name": "",
+            "stream_video_url": "http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/sk2AKSC.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "video",
+            "name": "RecordTV",
+            "sub_name": "",
+            "stream_video_url": "http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8",
+            "thumbnail_url": "https://i.imgur.com/5REiGPt.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "video",
+            "name": "Rede Atividade",
+            "sub_name": "",
+            "stream_video_url": "http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/1dEOcli.jpg"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "video",
+            "name": "Rede Gospel",
+            "sub_name": "",
+            "stream_video_url": "http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8",
+            "thumbnail_url": "https://i.imgur.com/RCWyETb.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "video",
+            "name": "Rede Metropole",
+            "sub_name": "",
+            "stream_video_url": "http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/2WmdjU9.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "video",
+            "name": "Rede Século 21",
+            "sub_name": "",
+            "stream_video_url": "http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8",
+            "thumbnail_url": "https://i.imgur.com/vvrCWVo.jpg"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "video",
+            "name": "Rede Super",
+            "sub_name": "",
+            "stream_video_url": "http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE",
+            "thumbnail_url": "https://i.imgur.com/3ODbxcM.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "video",
+            "name": "Rede Vida",
+            "sub_name": "",
+            "stream_video_url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/h4WaIw5.jpg"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "video",
+            "name": "RedeTV!",
+            "sub_name": "",
+            "stream_video_url": "http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/cJC3PPk.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "video",
+            "name": "SBT",
+            "sub_name": "",
+            "stream_video_url": "http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/p1Q6udv.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "video",
+            "name": "Summer TV",
+            "sub_name": "",
+            "stream_video_url": "http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/YrBt8gZ.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "video",
+            "name": "TV Aparecida",
+            "sub_name": "",
+            "stream_video_url": "http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/xyYIdif.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "video",
+            "name": "TV BNO",
+            "sub_name": "",
+            "stream_video_url": "http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8",
+            "thumbnail_url": "https://i.imgur.com/ejp65zr.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "video",
+            "name": "TV Destak",
+            "sub_name": "",
+            "stream_video_url": "http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/jpEJYfT.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "video",
+            "name": "TV Digital Birigui",
+            "sub_name": "",
+            "stream_video_url": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/VqIzaFz.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "video",
+            "name": "TV Educativa de Porto Alegre",
+            "sub_name": "",
+            "stream_video_url": "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/XLD3GbZ.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "video",
+            "name": "TV Faap",
+            "sub_name": "",
+            "stream_video_url": "http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8",
+            "thumbnail_url": "https://i.imgur.com/b9q8rtn.jpg"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "video",
+            "name": "TV Gazeta",
+            "sub_name": "",
+            "stream_video_url": "http://api.new.livestream.com/accounts/5381476/events/gazeta-aovivo/live.m3u8",
+            "thumbnail_url": "https://i.imgur.com/ZKDc2V2.png"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "video",
+            "name": "TV Gidoes",
+            "sub_name": "",
+            "stream_video_url": "http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8",
+            "thumbnail_url": "https://i.imgur.com/z5HMLv9.png"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "video",
+            "name": "TV Louvar",
+            "sub_name": "",
+            "stream_video_url": "http://173.236.10.10:1935/renascer/renascer/live.m3u8",
+            "thumbnail_url": "https://i.imgur.com/0mlQZ8F.png"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "video",
+            "name": "TV MCJ",
+            "sub_name": "",
+            "stream_video_url": "http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/tEsqFyN.jpg"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "video",
+            "name": "TV Pampa",
+            "sub_name": "",
+            "stream_video_url": "https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/chunklist_w600062362.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/MWqAmxz.png"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "video",
+            "name": "TV Paraná",
+            "sub_name": "",
+            "stream_video_url": "http://200.189.113.201/hls/tve.m3u8",
+            "thumbnail_url": "https://i.imgur.com/pel3QRE.jpg"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "video",
+            "name": "TV Rio Preto",
+            "sub_name": "",
+            "stream_video_url": "http://186.227.165.118:1935/insatv/livestream/live.m3u8",
+            "thumbnail_url": "https://i.imgur.com/fpXh5aV.png"
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "video",
+            "name": "TV Transamérica",
+            "sub_name": "",
+            "stream_video_url": "http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/7bTT8mw.png"
+          },
+          "sub_33": {
+            "id": 33,
+            "mode": "video",
+            "name": "TV Verdes Campos",
+            "sub_name": "",
+            "stream_video_url": "https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/TYfIH55.png"
+          },
+          "sub_34": {
+            "id": 34,
+            "mode": "video",
+            "name": "TVCI",
+            "sub_name": "",
+            "stream_video_url": "http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8",
+            "thumbnail_url": "https://i.imgur.com/NlB8ioY.png"
+          },
+          "sub_35": {
+            "id": 35,
+            "mode": "video",
+            "name": "TVDS",
+            "sub_name": "",
+            "stream_video_url": "http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/uBntXf1.png"
+          },
+          "sub_36": {
+            "id": 36,
+            "mode": "video",
+            "name": "UAI",
+            "sub_name": "",
+            "stream_video_url": "http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8?LISTASDAGLAU",
+            "thumbnail_url": "https://i.imgur.com/n4Rdrj9.jpg"
+          },
+          "sub_37": {
+            "id": 37,
+            "mode": "video",
+            "name": "Web TV Minas",
+            "sub_name": "",
+            "stream_video_url": "http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8",
+            "thumbnail_url": "https://i.imgur.com/VFDVsWK.jpg"
+          }
+        }
+      }
+    }
+  }
+}

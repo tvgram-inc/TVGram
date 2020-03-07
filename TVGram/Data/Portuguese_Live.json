@@ -1,0 +1,162 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 3,
+        "name": "Portuguese Channels",
+        "sub_name": "Channels",
+        "thumbnail_url": "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_27,h_20/https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-portugal_748139.png",
+        "sub": {
+          "sub_1": {
+            "id": 1,
+            "mode": "video",
+            "name": "ARtv",
+            "sub_name": "",
+            "stream_video_url": "http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/ckOlmzt.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "video",
+            "name": "ARTV PT",
+            "sub_name": "",
+            "stream_video_url": "http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/ckOlmzt.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "video",
+            "name": "Caca Vision",
+            "sub_name": "",
+            "stream_video_url": "https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8",
+            "thumbnail_url": "https://i.imgur.com/3qB3JL7.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "video",
+            "name": "FM O Dia TV",
+            "sub_name": "",
+            "stream_video_url": "http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8",
+            "thumbnail_url": "https://i.imgur.com/kOnFXO1.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "video",
+            "name": "Kurakios TV",
+            "sub_name": "",
+            "stream_video_url": "http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8",
+            "thumbnail_url": "https://i.imgur.com/M5i4hfh.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "video",
+            "name": "Kuriakos Cine",
+            "sub_name": "",
+            "stream_video_url": "http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/GbQuvWG.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "video",
+            "name": "Kuriakos Kids",
+            "sub_name": "",
+            "stream_video_url": "http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/tfc2BYM.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "video",
+            "name": "Kuriakos Music",
+            "sub_name": "",
+            "stream_video_url": "http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/q6K4S0N.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "video",
+            "name": "RTP 1",
+            "sub_name": "",
+            "stream_video_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/Rdt24TC.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "video",
+            "name": "RTP 1 PT",
+            "sub_name": "",
+            "stream_video_url": "http://210.210.155.35/qwr9ew/s/s38/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/Rdt24TC.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "video",
+            "name": "RTP 2",
+            "sub_name": "",
+            "stream_video_url": "http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/XGDg1Qx.jpg"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "video",
+            "name": "RTP 3",
+            "sub_name": "",
+            "stream_video_url": "http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/Efczv24.jpg"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "video",
+            "name": "RTP Açores",
+            "sub_name": "",
+            "stream_video_url": "http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/GTDfAWR.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "video",
+            "name": "RTP Internacional",
+            "sub_name": "",
+            "stream_video_url": "http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8",
+            "thumbnail_url": "https://i.imgur.com/uS85Uoi.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "video",
+            "name": "RTP Madeira",
+            "sub_name": "",
+            "stream_video_url": "http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/hSgvlsx.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "video",
+            "name": "Sobrenatural TV",
+            "sub_name": "",
+            "stream_video_url": "http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w476474449.m3u8",
+            "thumbnail_url": "https://i.imgur.com/jYIf7Mz.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "video",
+            "name": "TV Fátima",
+            "sub_name": "",
+            "stream_video_url": "https://streamer-b02.videos.sapo.pt/live/santuario.stream/chunklist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/hCFVc5S.jpg"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "video",
+            "name": "TV Maná Córdoba",
+            "sub_name": "",
+            "stream_video_url": "http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/GVI8kkp.jpg"
+          }
+        }
+      }
+    }
+  }
+}
