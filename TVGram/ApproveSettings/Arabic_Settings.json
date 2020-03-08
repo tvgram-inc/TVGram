@@ -111,7 +111,7 @@
         "unity_ads": {
           "is_debug_mode": false,
           "is_test_mode": false,
-          "ads_app_id": "2997115",
+          "ads_app_id": "3499550",
           "ads_app_id1": "2994298",
           "banner_ad_unit_id": "banner",
           "interstitial_ad_unit_id": "interstitial",
@@ -200,7 +200,7 @@
         },
         "startapp_ads": {
           "ads_app_id1": "201571398",
-          "ads_app_id": "211764508",
+          "ads_app_id": "202770524",
           "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
