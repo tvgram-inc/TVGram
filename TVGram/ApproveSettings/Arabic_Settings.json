@@ -111,7 +111,7 @@
         "unity_ads": {
           "is_debug_mode": false,
           "is_test_mode": false,
-          "ads_app_id": "3499550",
+          "ads_app_id": "2997115",
           "ads_app_id1": "2994298",
           "banner_ad_unit_id": "banner",
           "interstitial_ad_unit_id": "interstitial",
@@ -200,7 +200,7 @@
         },
         "startapp_ads": {
           "ads_app_id1": "201571398",
-          "ads_app_id": "202770524",
+          "ads_app_id": "211764508",
           "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
@@ -282,7 +282,7 @@
         {
           "is_guide":true,
           "guide_title":"QR Code",
-          "guide_description":"You can open QR Code so your friends directly can scan this code and add same playlist by this feature."
+          "guide_description":"You can open QR Code so your frineds directly can scan this code and add same playlist by this feature."
         },
 
 
@@ -317,8 +317,8 @@
       {
         "is_override" : false,
 
-        "is_popup_dialog": false,
-        "is_update_require":false,
+        "is_popup_dialog": true,
+        "is_update_require":true,
 
         "package_id":"com.tvgram.arabiclivetv",
         "download_url":"",
@@ -341,10 +341,10 @@
         "class_name_all" : "com.allinone.purchase.MainActivity",
         "class_name" : "com.purchase.core.MainActivity",
         "purchase_package_id_all" : "com.allinone.purchase",
-        "purchase_package_id1" : "com.purchase.core",
-        "purchase_package_id" : "com.tvgram.arabiclivetv",
-        "download_url_all" : "https://github.com/tvgram-inc/TVGram/tree/master/TVGram/Common/All%20In%20One%20Purchase.apk",
-        "download_url_core" : "https://github.com/tvgram-inc/TVGram/tree/master/TVGram/Common/Purchase%20Core.apk",
+        "purchase_package_id" : "com.purchase.core",
+        "purchase_package_id1" : "com.tvgram.arabiclivetv",
+        "download_url_all" : "https://github.com/theantiqa/Pocket-TV/raw/Final-Apps/TVGram/Common/All%20In%20One%20Purchase.apk",
+        "download_url_core" : "https://github.com/theantiqa/Pocket-TV/raw/Final-Apps/TVGram/Common/Purchase%20Core.apk",
         "download_url" : "",
         "filename" : "Purchase_Core.apk",
         "purchase_title": "Purchase Core",
@@ -388,7 +388,7 @@
         "is_cast_session_free_support":false,
 
         "is_remove_ads_support":true,
-        "is_remove_ads_session_free_support":false,
+        "is_remove_ads_session_free_support":true,
 
         "is_purchase_restore_support":true
       },
@@ -401,7 +401,7 @@
         "inapp_other_player_sku" : "com.purchase.otherplayeroption",
         "inapp_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Arabic Live TV.",
 
-        "other_player_banner_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Common/Player-select.jpg",
+        "other_player_banner_url": "https://raw.githubusercontent.com/rutumaster/Pocket-TV/Final-Apps/COMMON/Images-PocketTV/Other/Player-select.jpg?alt=media&token=42a59563-69ca-4048-81de-96d82fb952b0",
 
         "success_other_player_message": "Congratulations!\nNow you can play video in outside player also."
       },
@@ -418,9 +418,9 @@
         "inapp_cast_sku" : "com.purchase.chromecast",
         "inapp_cast_message": "If you want to play video on you TV.\n\nThen you should purchase this service.\n\nYou will get chromecast support from Arabic Live TV.",
 
-        "cast_banner_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Common/Chromecast.jpg",
+        "cast_banner_url": "https://www.hyperlinkinfosystem.com/assets/uploads/banner/1479248554.png",
 
-        "initial_cast_message1": "Do you need Chromecast support then follow below steps :\n\n(1). Press \"SETUP\" button.\n(2). If It will ask for permission please allow.\n(3). It will open download dialog and please wait till download completion.\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n(5). After It will popup for installation screen and then \"INSTALL\" it.\n(6). After installation complete press \"DONE\" button.\n(7). Come back to Arabic Live TV and you will see your plugin activated.\n(9). If you can't setup then : <a href='https://github.com/tvgram-inc/TVGram/raw/master/TVGram/Common/ChromeCast.apk'>DOWNLOAD HERE</a>\n\n",
+        "initial_cast_message1": "Do you need Chromecast support then follow below steps :\n\n(1). Press \"SETUP\" button.\n(2). If It will ask for permission please allow.\n(3). It will open download dialog and please wait till download completion.\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n(5). After It will popup for installation screen and then \"INSTALL\" it.\n(6). After installation complete press \"DONE\" button.\n(7). Come back to Arabic Live TV and you will see your plugin activated.\n(9). If you can't setup then : <a href='https://github.com/rutumaster/Pocket-TV/raw/Final-Apps/COMMON/APKS/ChromeCast.apk'>DOWNLOAD HERE</a>\n\n",
         "initial_cast_message": "Do you need Chromecast support then press \"LINK\" button and install chromecast app from playstore.",
         "success_cast_message": "Now You can Chromecast Your Video From Player.",
 
@@ -440,7 +440,7 @@
         "inapp_remove_ads_sku" : "com.purchase.removeads",
         "inapp_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to remove ads for this session only then press \"SESSION FREE\" and share app to your friends.",
 
-        "remove_ads_banner_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Common/Ad-blocker.png",
+        "remove_ads_banner_url": "https://ads-blocker.com/wp-content/uploads/2015/02/ads-blocker-logo.png",
 
         "success_remove_ads_message": "Congratulations!\nNow Arabic Live TV is ADS FREE."
       },
@@ -460,7 +460,7 @@
         "is_disclaimer_app" : true,
         "is_force_approved": true,
         "disclaimer_title": "Disclaimer",
-        "disclaimer_message": "Arabic Live TV apps does not stream any of the channels included in its website/app, All the streaming links are from third parties available free on the internet. If any one founds that we are violating by broadcasting any copyright protected channel email us the channel name, based on your email request.\n\ntvgram.inc@gmail.com"
+        "disclaimer_message": "Arabic Live TV apps does not stream any of the channels included in its website/app, All the streaming links are from third parties available free on the internet. If any one founds that we are violating by broadcasting any copyright protected channel email us the channel name, based on your email request.\n\ntvgram.me@gmail.com"
       },
 
       "Playlist_Detail":
@@ -469,8 +469,8 @@
         "playlist_message": "Please contact your Arabic Live TV provider to get M3U, M3U8, PLS, RUTU or XSPF playlist with TV Channels",
         "is_system_browser": false,
         "playlist_web_search": "",
-        "default_playlist_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Data/Arabic_Live.json",
-        "default_playlist_url1": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Common/World_Live.json"
+        "default_playlist_url": "https://raw.githubusercontent.com/theantiqa/Pocket-TV/Final-Apps/TVGram/Data/Arabic_Live.json",
+        "default_playlist_url1": "https://raw.githubusercontent.com/theantiqa/Pocket-TV/Final-Apps/TVGram/Common/World_Live.json"
       },
 
       "About_App":
@@ -527,7 +527,7 @@
         "is_override" : false,
         "is_privacy_policy" : true,
         "is_system_browser": true,
-        "privacy_policy": "https://sites.google.com/view/arabic-live-tv/home"
+        "privacy_policy": "http://www.pocketiptv.com/privacy-policy"
       },
 
       "Splash_Screen":
@@ -560,10 +560,10 @@
       "Feedback_Support":
       {
         "is_override" : false,
-        "is_feedback" : false,
+        "is_feedback" : true,
 
         "cc_email_id": "",
-        "email_id": "tvgram.inc@gmail.com",
+        "email_id": "tvgram.me@gmail.com",
         "email_message": "Hi,\n\n\nYour Feedback Arabic Live TV Rocks! I would like to give you some feedback: ",
         "email_subject": "Feedback on Arabic Live TV",
 
@@ -574,10 +574,10 @@
       "Channel_Report_Support":
       {
         "is_override" : false,
-        "is_channel_report" : false,
+        "is_channel_report" : true,
 
         "cc_email_id": "",
-        "email_id": "tvgram.inc@gmail.com",
+        "email_id": "tvgram.me@gmail.com",
 
         "channel_report_title": "Channel Report"
       },
@@ -588,7 +588,7 @@
         "is_error_report" : true,
 
         "cc_email_id": "",
-        "email_id": "tvgram.inc@gmail.com"
+        "email_id": "tvgram.me@gmail.com"
       },
 
       "Social_Support":
