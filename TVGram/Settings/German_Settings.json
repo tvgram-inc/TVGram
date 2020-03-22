@@ -383,6 +383,10 @@
         "is_inapp_other_player_support":true,
         "is_other_player_session_free_support":false,
 
+        "is_original_thumb_icon":false,
+        "is_playlist_support":false,
+        "is_barcode_support":false,
+
         "is_cast_support":true,
         "is_inapp_cast_support":true,
         "is_cast_session_free_support":false,
@@ -629,9 +633,9 @@
       "Video_Player_Settings":
       {
         "is_override" : false,
-        "is_trial_version": false,
-        "trial_version_top_text": "TOP",
-        "trial_version_bottom_text": "BOTTOM",
+        "is_trial_version": true,
+        "trial_version_top_text": "",
+        "trial_version_bottom_text": "",
         "trial_version_height": 70,
         "trial_version_bg_color": "#000000",
         "trial_version_text_color": "#ffffff"

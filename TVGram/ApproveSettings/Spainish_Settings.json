@@ -122,7 +122,7 @@
           "is_banner_safety_layer_one_click_remove":false,
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
-          "is_ads": true,
+          "is_ads": false,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
@@ -168,13 +168,13 @@
             }
           }
         },
-        "is_banner_ads": true,
-        "is_interstitial_ads": true,
-        "is_stream_player_banner_ads": true,
-        "is_illegal_interstitial_ads": true,
-        "is_legal_interstitial_ads": true,
-        "is_illegal_banner_ads": true,
-        "is_legal_banner_ads": true,
+        "is_banner_ads": false,
+        "is_interstitial_ads": false,
+        "is_stream_player_banner_ads": false,
+        "is_illegal_interstitial_ads": false,
+        "is_legal_interstitial_ads": false,
+        "is_illegal_banner_ads": false,
+        "is_legal_banner_ads": false,
         "amazon_ads": {
           "ads_app_id": "ab2af0042c144a81a7edf1ffc14293a8",
           "ads_banner_clicks_per_duration_day" : 1,
@@ -201,7 +201,7 @@
         "startapp_ads": {
           "ads_app_id1": "201571398",
           "ads_app_id": "202770524",
-          "is_ads": true,
+          "is_ads": false,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
@@ -234,7 +234,7 @@
         {
           "is_guide":true,
           "guide_title":"Main Menu",
-          "guide_description":"You can get Brazil Live TV supports and features here."
+          "guide_description":"You can get Spainish Live TV supports and features here."
         },
         "guide_add_playlist":
         {
@@ -317,17 +317,17 @@
       {
         "is_override" : false,
 
-        "is_popup_dialog": true,
-        "is_update_require":true,
+        "is_popup_dialog": false,
+        "is_update_require":false,
 
-        "package_id":"com.tvgram.brazillivetv",
+        "package_id":"com.tvgram.spainishlivetv",
         "download_url":"",
-        "website_url":"https://play.google.com/store/apps/details?id=com.tvgram.brazillivetv",
+        "website_url":"https://play.google.com/store/apps/details?id=com.tvgram.spainishlivetv",
         "is_system_browser":true,
 
         "updated_version_code":1,
 
-        "filename":"Brazil_Live_TV.apk",
+        "filename":"Spainish_Live_TV.apk",
         "title":"App Update",
         "default_message":"Your App is Up to date.",
         "log_message":"- Now become more powerfull IPTV Player",
@@ -342,7 +342,7 @@
         "class_name" : "com.purchase.core.MainActivity",
         "purchase_package_id_all" : "com.allinone.purchase",
         "purchase_package_id1" : "com.purchase.core",
-        "purchase_package_id" : "com.tvgram.brazillivetv",
+        "purchase_package_id" : "com.tvgram.spainishlivetv",
         "download_url_all" : "https://github.com/tvgram-inc/TVGram/tree/master/TVGram/Common/All%20In%20One%20Purchase.apk",
         "download_url_core" : "https://github.com/tvgram-inc/TVGram/tree/master/TVGram/Common/Purchase%20Core.apk",
         "download_url" : "",
@@ -392,7 +392,7 @@
         "is_cast_session_free_support":false,
 
         "is_remove_ads_support":true,
-        "is_remove_ads_session_free_support":true,
+        "is_remove_ads_session_free_support":false,
 
         "is_purchase_restore_support":true
       },
@@ -403,7 +403,7 @@
         "other_player_title": "Other Player Support",
 
         "inapp_other_player_sku" : "com.purchase.otherplayeroption",
-        "inapp_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Brazil Live TV.",
+        "inapp_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Spainish Live TV.",
 
         "other_player_banner_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Common/Player-select.jpg",
 
@@ -420,11 +420,11 @@
         "cast_package_name": "com.instantbits.cast.webvideo",
 
         "inapp_cast_sku" : "com.purchase.chromecast",
-        "inapp_cast_message": "If you want to play video on you TV.\n\nThen you should purchase this service.\n\nYou will get chromecast support from Brazil Live TV.",
+        "inapp_cast_message": "If you want to play video on you TV.\n\nThen you should purchase this service.\n\nYou will get chromecast support from Spainish Live TV.",
 
         "cast_banner_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Common/Chromecast.jpg",
 
-        "initial_cast_message1": "Do you need Chromecast support then follow below steps :\n\n(1). Press \"SETUP\" button.\n(2). If It will ask for permission please allow.\n(3). It will open download dialog and please wait till download completion.\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n(5). After It will popup for installation screen and then \"INSTALL\" it.\n(6). After installation complete press \"DONE\" button.\n(7). Come back to Brazil Live TV and you will see your plugin activated.\n(9). If you can't setup then : <a href='https://github.com/tvgram-inc/TVGram/raw/master/TVGram/Common/ChromeCast.apk'>DOWNLOAD HERE</a>\n\n",
+        "initial_cast_message1": "Do you need Chromecast support then follow below steps :\n\n(1). Press \"SETUP\" button.\n(2). If It will ask for permission please allow.\n(3). It will open download dialog and please wait till download completion.\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n(5). After It will popup for installation screen and then \"INSTALL\" it.\n(6). After installation complete press \"DONE\" button.\n(7). Come back to Spainish Live TV and you will see your plugin activated.\n(9). If you can't setup then : <a href='https://github.com/tvgram-inc/TVGram/raw/master/TVGram/Common/ChromeCast.apk'>DOWNLOAD HERE</a>\n\n",
         "initial_cast_message": "Do you need Chromecast support then press \"LINK\" button and install chromecast app from playstore.",
         "success_cast_message": "Now You can Chromecast Your Video From Player.",
 
@@ -446,7 +446,7 @@
 
         "remove_ads_banner_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Common/Ad-blocker.png",
 
-        "success_remove_ads_message": "Congratulations!\nNow Brazil Live TV is ADS FREE."
+        "success_remove_ads_message": "Congratulations!\nNow Spainish Live TV is ADS FREE."
       },
 
       "Purchase_Restore_Support":
@@ -464,16 +464,16 @@
         "is_disclaimer_app" : true,
         "is_force_approved": true,
         "disclaimer_title": "Disclaimer",
-        "disclaimer_message": "Brazil Live TV apps does not stream any of the channels included in its website/app, All the streaming links are from third parties available free on the internet. If any one founds that we are violating by broadcasting any copyright protected channel email us the channel name, based on your email request.\n\ntvgram.inc@gmail.com"
+        "disclaimer_message": "Spainish Live TV apps does not stream any of the channels included in its website/app, All the streaming links are from third parties available free on the internet. If any one founds that we are violating by broadcasting any copyright protected channel email us the channel name, based on your email request.\n\ntvgram.inc@gmail.com"
       },
 
       "Playlist_Detail":
       {
         "is_override" : false,
-        "playlist_message": "Please contact your Brazil Live TV provider to get M3U, M3U8, PLS, RUTU or XSPF playlist with TV Channels",
+        "playlist_message": "Please contact your Spainish Live TV provider to get M3U, M3U8, PLS, RUTU or XSPF playlist with TV Channels",
         "is_system_browser": false,
         "playlist_web_search": "",
-        "default_playlist_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Data/Brazil_Live.json",
+        "default_playlist_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Data/Spainish_Live.json",
         "default_playlist_url1": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Common/World_Live.json"
       },
 
@@ -482,7 +482,7 @@
         "is_override" : false,
         "is_about_app" : true,
         "about_title": "About",
-        "about_message": "Brazil Live TV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Brazil Live TV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
+        "about_message": "Spainish Live TV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Spainish Live TV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
       },
 
       "Exit_Dialog":
@@ -496,8 +496,8 @@
       {
         "is_override" : false,
         "is_rate_app" : true,
-        "package_id" : "com.tvgram.brazillivetv",
-        "rate_app_url" : "https://play.google.com/store/apps/details?id=com.tvgram.brazillivetv",
+        "package_id" : "com.tvgram.spainishlivetv",
+        "rate_app_url" : "https://play.google.com/store/apps/details?id=com.tvgram.spainishlivetv",
         "rate_message" : "Please Rate us and promote us."
       },
 
@@ -513,8 +513,8 @@
       {
         "is_override" : false,
         "is_share_app" : true,
-        "share_message_app": "Are you looking best Brazil Live TV App In which you can see Live TV. then you hurry up and download Brazil Live TV from here : https://play.google.com/store/apps/details?id=com.tvgram.brazillivetv",
-        "share_message_iptv": "Share Brazil Live TV url : ",
+        "share_message_app": "Are you looking best Spainish Live TV App In which you can see Live TV. then you hurry up and download Spainish Live TV from here : https://play.google.com/store/apps/details?id=com.tvgram.spainishlivetv",
+        "share_message_iptv": "Share Spainish Live TV url : ",
         "share_message_link": "Share link url : "
       },
 
@@ -531,14 +531,14 @@
         "is_override" : false,
         "is_privacy_policy" : true,
         "is_system_browser": true,
-        "privacy_policy": "https://sites.google.com/view/brazil-live-tv/home"
+        "privacy_policy": "https://sites.google.com/view/spainish-live-tv/home"
       },
 
       "Splash_Screen":
       {
         "is_override" : false,
         "registration_detail1": "",
-        "registration_detail": "Brazil Live TV® 2018",
+        "registration_detail": "Spainish Live TV® 2018",
         "version_detail": "version : 1.0"
       },
 
@@ -564,12 +564,12 @@
       "Feedback_Support":
       {
         "is_override" : false,
-        "is_feedback" : true,
+        "is_feedback" : false,
 
         "cc_email_id": "",
         "email_id": "tvgram.inc@gmail.com",
-        "email_message": "Hi,\n\n\nYour Feedback Brazil Live TV Rocks! I would like to give you some feedback: ",
-        "email_subject": "Feedback on Brazil Live TV",
+        "email_message": "Hi,\n\n\nYour Feedback Spainish Live TV Rocks! I would like to give you some feedback: ",
+        "email_subject": "Feedback on Spainish Live TV",
 
         "feedback_title": "Send Feedback",
         "feedback_message": "If you have any kind of query, Then mail us.\nWe will resolve it."
@@ -578,7 +578,7 @@
       "Channel_Report_Support":
       {
         "is_override" : false,
-        "is_channel_report" : true,
+        "is_channel_report" : false,
 
         "cc_email_id": "",
         "email_id": "tvgram.inc@gmail.com",
