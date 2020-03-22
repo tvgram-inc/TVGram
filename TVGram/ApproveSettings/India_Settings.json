@@ -381,6 +381,7 @@
         "is_webview_player_support": true,
         "is_other_player_support":true,
         "is_inapp_other_player_support":true,
+        "is_original_thumb_icon":false,
         "is_other_player_session_free_support":false,
 
         "is_cast_support":true,
