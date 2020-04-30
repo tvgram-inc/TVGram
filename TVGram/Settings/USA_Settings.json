@@ -325,7 +325,7 @@
         "website_url":"https://play.google.com/store/apps/details?id=com.tvgram.usalivetv",
         "is_system_browser":true,
 
-        "updated_version_code":1,
+        "updated_version_code":2,
 
         "filename":"USA_Live_TV.apk",
         "title":"App Update",
@@ -539,7 +539,7 @@
         "is_override" : false,
         "registration_detail1": "",
         "registration_detail": "USA Live TV® 2018",
-        "version_detail": "version : 1.0"
+        "version_detail": "version : 2.0"
       },
 
       "Live_Support":
