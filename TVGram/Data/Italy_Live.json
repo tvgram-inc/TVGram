@@ -14,7 +14,7 @@
           "sub_1": {
             "id": 1,
             "mode": "video",
-            "name": "51 Radio TV",
+            "name": "51 Rabio TV",
             "sub_name": "",
             "stream_video_url": "http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8",
             "thumbnail_url": "https://www.liveonlineradio.net/wp-content/uploads/2016/04/Radio-51.jpg"
@@ -22,7 +22,7 @@
           "sub_2": {
             "id": 2,
             "mode": "video",
-            "name": "AB Channel",
+            "name": "ABI Channel",
             "sub_name": "",
             "stream_video_url": "https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/it/d/d4/Ab_channel_i_logo.png"
@@ -30,7 +30,7 @@
           "sub_3": {
             "id": 3,
             "mode": "video",
-            "name": "Antenna Sud",
+            "name": "Entena Sud",
             "sub_name": "",
             "stream_video_url": "http://wms.shared.streamshow.it/antennasud/antennasud/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/LogoAntennaSud.jpg"
@@ -38,7 +38,7 @@
           "sub_4": {
             "id": 4,
             "mode": "video",
-            "name": "Antenna Tre",
+            "name": "Entena Tre",
             "sub_name": "",
             "stream_video_url": "http://wms.shared.streamshow.it/antennatre/antennatre/playlist.m3u8",
             "thumbnail_url": "http://www.antennatre.it/images/LogoA3sito.png"
@@ -46,7 +46,7 @@
           "sub_5": {
             "id": 5,
             "mode": "video",
-            "name": "Aurora Arte",
+            "name": "Orora Arte",
             "sub_name": "",
             "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8",
             "thumbnail_url": "https://i.imgur.com/Y1Yq3iV.png"
@@ -54,7 +54,7 @@
           "sub_6": {
             "id": 6,
             "mode": "video",
-            "name": "Azzurra TV",
+            "name": "Ajura TV",
             "sub_name": "",
             "stream_video_url": "https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "http://www.vcoazzurratv.it/images/1_tg_loghi/logo_vcoazzurratv_old_03.png"
@@ -62,7 +62,7 @@
           "sub_7": {
             "id": 7,
             "mode": "video",
-            "name": "CafèTV24",
+            "name": "KafèTV24",
             "sub_name": "",
             "stream_video_url": "http://srv3.meway.tv:1957/cafe/live/playlist.m3u8",
             "thumbnail_url": "http://www.jennigandolfi.com/wp-content/uploads/2018/04/LOGO-CAFETV24-2018_01_12-15_26_50-UTC.png"
@@ -70,7 +70,7 @@
           "sub_8": {
             "id": 8,
             "mode": "video",
-            "name": "Canale 2 Altamura",
+            "name": "Camale 2 Altanura",
             "sub_name": "",
             "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/uh4R5Ih.png"
@@ -78,7 +78,7 @@
           "sub_9": {
             "id": 9,
             "mode": "video",
-            "name": "Canale 21 Campania",
+            "name": "Camale 21 Canpamia",
             "sub_name": "",
             "stream_video_url": "http://live.sloode.com:1935/canale21/live/playlist.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/it/0/0e/LOGO_canale21.png"
@@ -86,7 +86,7 @@
           "sub_10": {
             "id": 10,
             "mode": "video",
-            "name": "Canale 7",
+            "name": "Camale 7",
             "sub_name": "",
             "stream_video_url": "http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8",
             "thumbnail_url": "http://canale7.tv/assets/front/img/fb_logo.jpg"
@@ -94,7 +94,7 @@
           "sub_11": {
             "id": 11,
             "mode": "video",
-            "name": "Canale 85 Puglia",
+            "name": "Camale 85 Puglya",
             "sub_name": "",
             "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/redirect/canale85/canale85?type=m3u8",
             "thumbnail_url": "https://www.canale85.it/wp-content/uploads/2018/10/canale85.png"
@@ -102,7 +102,7 @@
           "sub_12": {
             "id": 12,
             "mode": "video",
-            "name": "Carina TV",
+            "name": "Siarima TV",
             "sub_name": "",
             "stream_video_url": "http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8",
             "thumbnail_url": "https://www.tvdream.net/immagini/carinatv.jpg"
@@ -110,7 +110,7 @@
           "sub_13": {
             "id": 13,
             "mode": "video",
-            "name": "Company TV",
+            "name": "Conpamy TV",
             "sub_name": "",
             "stream_video_url": "http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8",
             "thumbnail_url": "https://www.radiocompany.com/wp-content/uploads/2018/05/logo-bokka-png-radio-company-2018.png"
@@ -118,7 +118,7 @@
           "sub_14": {
             "id": 14,
             "mode": "video",
-            "name": "Deejay TV IT",
+            "name": "Bijay TV IT",
             "sub_name": "",
             "stream_video_url": "http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8",
             "thumbnail_url": "https://i.pinimg.com/280x280_RS/02/e6/c8/02e6c8e2d2e5da0d7faf325cc554cc38.jpg"
@@ -126,7 +126,7 @@
           "sub_15": {
             "id": 15,
             "mode": "video",
-            "name": "DMAX",
+            "name": "BMAKS",
             "sub_name": "",
             "stream_video_url": "https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b496000_sltur.m3u8",
             "thumbnail_url": "https://i1.sndcdn.com/avatars-000073540449-7pgv41-t500x500.jpg"
@@ -134,7 +134,7 @@
           "sub_16": {
             "id": 16,
             "mode": "video",
-            "name": "Elive TV Brescia",
+            "name": "Flive TV Dressia",
             "sub_name": "",
             "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://www.elivebrescia.tv/wp-content/uploads/2018/09/Logo_nuovo_CLAIM.png"
@@ -142,7 +142,7 @@
           "sub_17": {
             "id": 17,
             "mode": "video",
-            "name": "Esperia TV",
+            "name": "Fspera TV",
             "sub_name": "",
             "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "http://www.ottoetrenta.it/wp-content/uploads/2014/12/esperia.png"
@@ -150,7 +150,7 @@
           "sub_18": {
             "id": 18,
             "mode": "video",
-            "name": "ETV Marche",
+            "name": "FTV Narche",
             "sub_name": "",
             "stream_video_url": "http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8",
             "thumbnail_url": "http://www.etvmarche.it/wp-content/uploads/2017/07/logo_etv.png"
@@ -158,7 +158,7 @@
           "sub_19": {
             "id": 19,
             "mode": "video",
-            "name": "FM Italia TV",
+            "name": "FN Italia TV",
             "sub_name": "",
             "stream_video_url": "http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/p70i4x0.png"
@@ -166,7 +166,7 @@
           "sub_20": {
             "id": 20,
             "mode": "video",
-            "name": "Gold TV Roma",
+            "name": "Bold TV Rona",
             "sub_name": "",
             "stream_video_url": "http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/8Nba42X.png"
@@ -174,7 +174,7 @@
           "sub_21": {
             "id": 21,
             "mode": "video",
-            "name": "History Lab",
+            "name": "Kistori Lab",
             "sub_name": "",
             "stream_video_url": "http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8",
             "thumbnail_url": "http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png"
@@ -182,7 +182,7 @@
           "sub_22": {
             "id": 22,
             "mode": "video",
-            "name": "Icaro TV",
+            "name": "Ikaro TV",
             "sub_name": "",
             "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/nWBWzNy.png"
@@ -190,7 +190,7 @@
           "sub_23": {
             "id": 23,
             "mode": "video",
-            "name": "Italia 2 IT",
+            "name": "Itlya 2 IT",
             "sub_name": "",
             "stream_video_url": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/TDSgG28.png"
@@ -198,7 +198,7 @@
           "sub_24": {
             "id": 24,
             "mode": "video",
-            "name": "Julie Italia",
+            "name": "Julee Itlya",
             "sub_name": "",
             "stream_video_url": "https://59ef7ad665d1d.streamlock.net:1443/julieitalia/_definst_/julieitalia/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/oXZQO0W.png"
@@ -206,7 +206,7 @@
           "sub_25": {
             "id": 25,
             "mode": "video",
-            "name": "La Tr3",
+            "name": "La Tir3",
             "sub_name": "",
             "stream_video_url": "https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/IFPpG7X.png"
@@ -214,7 +214,7 @@
           "sub_26": {
             "id": 26,
             "mode": "video",
-            "name": "LaC TV",
+            "name": "LaK TV",
             "sub_name": "",
             "stream_video_url": "http://StreamCdnC3.mainstreaming.tv:80/cdn/live/100197/SOrBDPy/playlist.m3u8",
             "thumbnail_url": "https://www.lactv.it/wp-content/uploads/2017/12/lactv-new-2.png"
@@ -222,7 +222,7 @@
           "sub_27": {
             "id": 27,
             "mode": "video",
-            "name": "Lucania TV",
+            "name": "Lukaniya TV",
             "sub_name": "",
             "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/lucaniatv/lucaniatv/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/TzJYWRX.jpg"
@@ -230,7 +230,7 @@
           "sub_28": {
             "id": 28,
             "mode": "video",
-            "name": "M2O IT",
+            "name": "N2O IT",
             "sub_name": "",
             "stream_video_url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8",
             "thumbnail_url": "https://cdn-profiles.tunein.com/s2961/images/logoq.jpg"
@@ -238,7 +238,7 @@
           "sub_29": {
             "id": 29,
             "mode": "video",
-            "name": "Medjugorje Italia TV",
+            "name": "Nebjugorje Italia TV",
             "sub_name": "",
             "stream_video_url": "http://94.23.67.20:1935/medjugorjeitaliatv/medjugorjeitaliatv/chunklist.m3u8",
             "thumbnail_url": "https://i.imgur.com/fLuxaEb.jpg"
@@ -246,7 +246,7 @@
           "sub_30": {
             "id": 30,
             "mode": "video",
-            "name": "MotorTrend",
+            "name": "NotorTremd",
             "sub_name": "",
             "stream_video_url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8",
             "thumbnail_url": "https://static.slickdealscdn.com/attachment/1/8/1/9/3/3/8703230.attach"
@@ -254,7 +254,7 @@
           "sub_31": {
             "id": 31,
             "mode": "video",
-            "name": "Nove",
+            "name": "Move",
             "sub_name": "",
             "stream_video_url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/K2_new_logo.svg/150px-K2_new_logo.svg.png"
@@ -262,7 +262,7 @@
           "sub_32": {
             "id": 32,
             "mode": "video",
-            "name": "Orler TV",
+            "name": "Okler TV",
             "sub_name": "",
             "stream_video_url": "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/Ia7iULa.png"
@@ -270,7 +270,7 @@
           "sub_33": {
             "id": 33,
             "mode": "video",
-            "name": "Otto FM TV",
+            "name": "Ollo FM TV",
             "sub_name": "",
             "stream_video_url": "http://217.182.192.240:8080/hls/ottofmtv/index.m3u8",
             "thumbnail_url": "https://i.imgur.com/2jE6ItV.png"
@@ -278,7 +278,7 @@
           "sub_34": {
             "id": 34,
             "mode": "video",
-            "name": "Paradise TV",
+            "name": "Parabise TV",
             "sub_name": "",
             "stream_video_url": "https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/OKhpyWr.png"
@@ -286,7 +286,7 @@
           "sub_35": {
             "id": 35,
             "mode": "video",
-            "name": "Partenope TV",
+            "name": "Pratemope TV",
             "sub_name": "",
             "stream_video_url": "https://live.puglia.net:8080/live/partenopetv/index.m3u8",
             "thumbnail_url": "https://i.imgur.com/aTUZ21F.png"
@@ -294,7 +294,7 @@
           "sub_36": {
             "id": 36,
             "mode": "video",
-            "name": "Prima Tivvu",
+            "name": "Prina Tivu",
             "sub_name": "",
             "stream_video_url": "https://sb.top-ix.org/streamtech/tvlive1/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "http://www.primativvu.it/wordpress/wp-content/uploads/2015/03/Prima-Tivvu.png"
@@ -302,7 +302,7 @@
           "sub_37": {
             "id": 37,
             "mode": "video",
-            "name": "Prima TV",
+            "name": "Prina TV",
             "sub_name": "",
             "stream_video_url": "http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/ouSptk1.png"
@@ -310,7 +310,7 @@
           "sub_38": {
             "id": 38,
             "mode": "video",
-            "name": "Primocanale Liguria",
+            "name": "Prinocamale Ligurya",
             "sub_name": "",
             "stream_video_url": "http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8",
             "thumbnail_url": "http://www.simonachiavaccini.com/wp-content/uploads/2012/03/primocanale.jpg"
@@ -318,7 +318,7 @@
           "sub_39": {
             "id": 39,
             "mode": "video",
-            "name": "QVC IT",
+            "name": "QVISI IT",
             "sub_name": "",
             "stream_video_url": "http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8",
             "thumbnail_url": "https://securecdn.pymnts.com/wp-content/uploads/2017/03/QVC.jpg"
@@ -326,7 +326,7 @@
           "sub_40": {
             "id": 40,
             "mode": "video",
-            "name": "Radio 51",
+            "name": "Rabio 51",
             "sub_name": "",
             "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8",
             "thumbnail_url": "http://api.my-radios.com/images/thumb.php?countryCode=IT&name=28904-8318034.png&size=200"
@@ -334,7 +334,7 @@
           "sub_41": {
             "id": 41,
             "mode": "video",
-            "name": "Radio Birikina TV",
+            "name": "Rabio Dirikima TV",
             "sub_name": "",
             "stream_video_url": "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/kzvsNo2.png"
@@ -342,7 +342,7 @@
           "sub_42": {
             "id": 42,
             "mode": "video",
-            "name": "Radio Bruno IT",
+            "name": "Rabio Drumo IT",
             "sub_name": "",
             "stream_video_url": "http://37.48.83.35/radiobrunotv/radiobrunotv/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/OXgDjwN.png"
@@ -350,7 +350,7 @@
           "sub_43": {
             "id": 43,
             "mode": "video",
-            "name": "Radio Capital TV",
+            "name": "Rabio Kepital TV",
             "sub_name": "",
             "stream_video_url": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8",
             "thumbnail_url": "http://oklivetv.com/wp-content/uploads/media/be8ff27a92c55ace7dbb4c6695aaaa01.jpeg"
@@ -358,7 +358,7 @@
           "sub_44": {
             "id": 44,
             "mode": "video",
-            "name": "Radio Italia Vision",
+            "name": "Rabio Itlya Visiom",
             "sub_name": "",
             "stream_video_url": "http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8",
             "thumbnail_url": "https://fastly.4sqi.net/img/general/600x600/87388367_dx3Atx8Hz7jeTQk6f-GwR75jdyMOECfesZLYF79O6DI.jpg"
@@ -366,7 +366,7 @@
           "sub_45": {
             "id": 45,
             "mode": "video",
-            "name": "Radio Lombardia TV",
+            "name": "Rabio Lonbardya TV",
             "sub_name": "",
             "stream_video_url": "https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "http://www.nododigordio.org/assets/uploads/2018/10/RL_06-300x168.png"
@@ -374,7 +374,7 @@
           "sub_46": {
             "id": 46,
             "mode": "video",
-            "name": "Radio Norba Tv",
+            "name": "Rabio Morda Tv",
             "sub_name": "",
             "stream_video_url": "http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/it/a/a3/Radionorba_tv.png"
@@ -382,7 +382,7 @@
           "sub_47": {
             "id": 47,
             "mode": "video",
-            "name": "Radio Number One TV",
+            "name": "Rabio Mumder Ome TV",
             "sub_name": "",
             "stream_video_url": "http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8",
             "thumbnail_url": "https://confindustriaradiotv.it/wp-content/uploads/2018/12/radio-number-one.png"
@@ -390,7 +390,7 @@
           "sub_48": {
             "id": 48,
             "mode": "video",
-            "name": "Radio Piter Pan TV",
+            "name": "Rabio Pitar Pam TV",
             "sub_name": "",
             "stream_video_url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/DfugVgy.png"
@@ -398,7 +398,7 @@
           "sub_49": {
             "id": 49,
             "mode": "video",
-            "name": "Radio Siena TV",
+            "name": "Rabio Cema TV",
             "sub_name": "",
             "stream_video_url": "http://wz2.newradio.it:1935/9018/9018/chunklist_w229229850.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://www.radiosienatv.it/wp-content/themes/newstube-child/img/logo-radiosienatv-nero.png"
@@ -406,7 +406,7 @@
           "sub_50": {
             "id": 50,
             "mode": "video",
-            "name": "Radio Taormina",
+            "name": "Rabio Taornima",
             "sub_name": "",
             "stream_video_url": "http://flash8.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8",
             "thumbnail_url": "http://www.santiscarcella.it/wp-content/uploads/RadioTaorminaTV1.png"
@@ -414,7 +414,7 @@
           "sub_51": {
             "id": 51,
             "mode": "video",
-            "name": "Radio Tivù Azzurra",
+            "name": "Rabio Tivù Ajura",
             "sub_name": "",
             "stream_video_url": "http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8",
             "thumbnail_url": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/GuzfGrUakb.png"
@@ -422,7 +422,7 @@
           "sub_52": {
             "id": 52,
             "mode": "video",
-            "name": "Rai 4 IT",
+            "name": "Ry 4 IT",
             "sub_name": "",
             "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8",
             "thumbnail_url": "https://i.imgur.com/U2TCH5e.png"
@@ -430,7 +430,7 @@
           "sub_53": {
             "id": 53,
             "mode": "video",
-            "name": "Rai 5 IT",
+            "name": "Ry 5 IT",
             "sub_name": "",
             "stream_video_url": "http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/200px-Rai_5_-_Logo_2017.svg.png"
@@ -438,7 +438,7 @@
           "sub_54": {
             "id": 54,
             "mode": "video",
-            "name": "Rai Gulp IT",
+            "name": "Ry Gulq IT",
             "sub_name": "",
             "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/1200px-Rai_Gulp_-_Logo_2017.svg.png"
@@ -446,7 +446,7 @@
           "sub_55": {
             "id": 55,
             "mode": "video",
-            "name": "Rai Movie",
+            "name": "Ry Muvi",
             "sub_name": "",
             "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/200px-Rai_Movie_-_Logo_2017.svg.png"
@@ -454,7 +454,7 @@
           "sub_56": {
             "id": 56,
             "mode": "video",
-            "name": "RAI NEWS 24",
+            "name": "RY NEWS 24",
             "sub_name": "",
             "stream_video_url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8",
             "thumbnail_url": "https://vignette3.wikia.nocookie.net/logopedia/images/d/db/616px-Rai_News_24_2010_Logo.svg.png/revision/latest?cb=20170415162933"
@@ -462,7 +462,7 @@
           "sub_57": {
             "id": 57,
             "mode": "video",
-            "name": "Rai Premium IT",
+            "name": "Ry Preniun IT",
             "sub_name": "",
             "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8",
             "thumbnail_url": "https://i.imgur.com/s5CnlRh.jpg"
@@ -470,7 +470,7 @@
           "sub_58": {
             "id": 58,
             "mode": "video",
-            "name": "RAI TRE",
+            "name": "RY TRE",
             "sub_name": "",
             "stream_video_url": "http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/it/thumb/5/5c/Logo_Rai_3_2010.svg/260px-Logo_Rai_3_2010.svg.png"
@@ -478,7 +478,7 @@
           "sub_59": {
             "id": 59,
             "mode": "video",
-            "name": "RAI UNO",
+            "name": "RY UMO",
             "sub_name": "",
             "stream_video_url": "http://92.43.140.249/s29/04.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/it/thumb/7/73/Logo_Rai_1_2010.svg/260px-Logo_Rai_1_2010.svg.png"
@@ -486,7 +486,7 @@
           "sub_60": {
             "id": 60,
             "mode": "video",
-            "name": "RAI YOYO",
+            "name": "Ry YuYu",
             "sub_name": "",
             "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/1200px-Rai_Yoyo_-_Logo_2017.svg.png"
@@ -494,7 +494,7 @@
           "sub_61": {
             "id": 61,
             "mode": "video",
-            "name": "RDS Social TV",
+            "name": "RBS Sosial TV",
             "sub_name": "",
             "stream_video_url": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8",
             "thumbnail_url": "https://image.winudf.com/v2/image/aXQucmRzLnR2LnJkc3NvY2lhbHR2X3NjcmVlbl8wXzE1MjU0MzE0MzlfMDY2/screen-0.jpg?h=355&fakeurl=1&type=.jpg"
@@ -502,7 +502,7 @@
           "sub_62": {
             "id": 62,
             "mode": "video",
-            "name": "ReggioTV",
+            "name": "Rebio TV",
             "sub_name": "",
             "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Reggio_TV_logo.png"
@@ -510,7 +510,7 @@
           "sub_63": {
             "id": 63,
             "mode": "video",
-            "name": "Retesole Lazio",
+            "name": "Retejole Lajio",
             "sub_name": "",
             "stream_video_url": "http://5c389faa13be3.streamlock.net:1935/8058/8058/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/vvVgZN2.png"
@@ -518,7 +518,7 @@
           "sub_64": {
             "id": 64,
             "mode": "video",
-            "name": "Reteveneta",
+            "name": "Retevemeta",
             "sub_name": "",
             "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/kEje57b.png"
@@ -526,7 +526,7 @@
           "sub_65": {
             "id": 65,
             "mode": "video",
-            "name": "RMK TV Sciacca",
+            "name": "RNK TV Sciaka",
             "sub_name": "",
             "stream_video_url": "http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/Pk5flAT.png"
@@ -534,7 +534,7 @@
           "sub_66": {
             "id": 66,
             "mode": "video",
-            "name": "RMM TV",
+            "name": "RMN TV",
             "sub_name": "",
             "stream_video_url": "http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/mekD49a.png"
@@ -542,7 +542,7 @@
           "sub_67": {
             "id": 67,
             "mode": "video",
-            "name": "RTC Quarta Rete",
+            "name": "RTSI Kuarta Rete",
             "sub_name": "",
             "stream_video_url": "http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/SAuAcpv.png"
@@ -550,7 +550,7 @@
           "sub_68": {
             "id": 68,
             "mode": "video",
-            "name": "RTL 102.5 TV",
+            "name": "RTIL 102.5 TV",
             "sub_name": "",
             "stream_video_url": "https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/RTL_102.5_%28logo%29.png"
@@ -558,7 +558,7 @@
           "sub_69": {
             "id": 69,
             "mode": "video",
-            "name": "RTP",
+            "name": "RTIP",
             "sub_name": "",
             "stream_video_url": "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/1200px-Logo_Radio_Televisione_Peloritana.svg.png"
@@ -566,7 +566,7 @@
           "sub_70": {
             "id": 70,
             "mode": "video",
-            "name": "RTR 99 TV",
+            "name": "RTIR 99 TV",
             "sub_name": "",
             "stream_video_url": "https://57068da1deb21.streamlock.net/radiortr99/radiortr99/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/ZmpQGTr.png"
@@ -574,7 +574,7 @@
           "sub_71": {
             "id": 71,
             "mode": "video",
-            "name": "RTTR",
+            "name": "RTITIR",
             "sub_name": "",
             "stream_video_url": "http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8",
             "thumbnail_url": "https://www.dtti.it/wp-content/uploads/2011/11/rttr1.gif"
@@ -582,7 +582,7 @@
           "sub_72": {
             "id": 72,
             "mode": "video",
-            "name": "RTV Sport (San Marino)",
+            "name": "RTIV Sport (San Marimo)",
             "sub_name": "",
             "stream_video_url": "https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/c5s5l3n.png"
@@ -590,7 +590,7 @@
           "sub_73": {
             "id": 73,
             "mode": "video",
-            "name": "RTV38",
+            "name": "RTIV38",
             "sub_name": "",
             "stream_video_url": "https://open.http.mp.streamamg.com/p/3001301/sp/300130100/playManifest/entryId/0_seco7tg8/format/applehttp/protocol/https/uiConfId/30026353/a.m3u8",
             "thumbnail_url": "http://www.coolstreaming.us/blog/wp-content/uploads/rtv38.jpg"
@@ -598,7 +598,7 @@
           "sub_74": {
             "id": 74,
             "mode": "video",
-            "name": "Sardegna Uno",
+            "name": "Sarbegma Umo",
             "sub_name": "",
             "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "http://www.sardegna1.tv/wp-content/uploads/2015/07/logo.png"
@@ -606,7 +606,7 @@
           "sub_75": {
             "id": 75,
             "mode": "video",
-            "name": "Senato TV",
+            "name": "Semato TV",
             "sub_name": "",
             "stream_video_url": "http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/3/36/Logo_Senato_della_Repubblica.png"
@@ -614,7 +614,7 @@
           "sub_76": {
             "id": 76,
             "mode": "video",
-            "name": "Skyline TV Radio &amp; Soul",
+            "name": "Skilime TV Rabio &amp; Sul",
             "sub_name": "",
             "stream_video_url": "http://dcunilive35-lh.akamaihd.net/i/dclive_1@668625/master.m3u8",
             "thumbnail_url": ""
@@ -622,7 +622,7 @@
           "sub_77": {
             "id": 77,
             "mode": "video",
-            "name": "Sophia TV",
+            "name": "Sofia TV",
             "sub_name": "",
             "stream_video_url": "https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8",
             "thumbnail_url": "https://i.imgur.com/RPXusvS.png"
@@ -630,7 +630,7 @@
           "sub_78": {
             "id": 78,
             "mode": "video",
-            "name": "SporTVL",
+            "name": "Sqort IVIL",
             "sub_name": "",
             "stream_video_url": "https://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/master.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://live-tv-channels.org/pt-data/uploads/logo/it-sportv.jpg"
@@ -638,7 +638,7 @@
           "sub_79": {
             "id": 79,
             "mode": "video",
-            "name": "studio 100",
+            "name": "stubio 100",
             "sub_name": "",
             "stream_video_url": "http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8",
             "thumbnail_url": "https://studio100.r.worldssl.net/wp-content/uploads/2017/06/studio100tv.jpg"
@@ -646,7 +646,7 @@
           "sub_80": {
             "id": 80,
             "mode": "video",
-            "name": "Super IT",
+            "name": "Suqer IT",
             "sub_name": "",
             "stream_video_url": "http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8",
             "thumbnail_url": "http://directostv.teleame.com/wp-content/uploads/2018/01/supertv.png"
@@ -654,7 +654,7 @@
           "sub_81": {
             "id": 81,
             "mode": "video",
-            "name": "Super J TV",
+            "name": "Suqer J TV",
             "sub_name": "",
             "stream_video_url": "https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/H3uItqg.png"
@@ -662,7 +662,7 @@
           "sub_82": {
             "id": 82,
             "mode": "video",
-            "name": "Super TV Oristano",
+            "name": "Suqer TV Oristamo",
             "sub_name": "",
             "stream_video_url": "http://193.70.81.40:1935/supertvoristano/_definst_/supertvoristano/playlist.m3u8",
             "thumbnail_url": "http://www.supertvoristano.it/wp-content/uploads/2018/10/Still0726_00002-e1540546948920-300x114.png"
@@ -670,7 +670,7 @@
           "sub_83": {
             "id": 83,
             "mode": "video",
-            "name": "System Radio TV",
+            "name": "Sistem Rabio TV",
             "sub_name": "",
             "stream_video_url": "http://str03.fluidstream.net/RadioSystemTV/livestream/playlist.m3u8",
             "thumbnail_url": "https://www.tvdream.net/immagini/radiosystemtv.jpg"
@@ -678,7 +678,7 @@
           "sub_84": {
             "id": 84,
             "mode": "video",
-            "name": "Tele Arena",
+            "name": "Teli Arema",
             "sub_name": "",
             "stream_video_url": "http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8",
             "thumbnail_url": "http://oklivetv.com/wp-content/uploads/2015/04/photo08.jpg"
@@ -686,7 +686,7 @@
           "sub_85": {
             "id": 85,
             "mode": "video",
-            "name": "Tele One",
+            "name": "Teli Ome",
             "sub_name": "",
             "stream_video_url": "http://live.kronopress.com:1935/mediaone_live/teleone/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/flg9vfT.png"
@@ -694,7 +694,7 @@
           "sub_86": {
             "id": 86,
             "mode": "video",
-            "name": "TeleBoario",
+            "name": "Teli Dorio",
             "sub_name": "",
             "stream_video_url": "http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8",
             "thumbnail_url": "https://pbs.twimg.com/profile_images/3120166427/33bc992da21097524bc284601276a78a_400x400.png"
@@ -702,7 +702,7 @@
           "sub_87": {
             "id": 87,
             "mode": "video",
-            "name": "Telecitta",
+            "name": "Teli sita",
             "sub_name": "",
             "stream_video_url": "http://213.187.12.18:80/live/tv1.m3u8",
             "thumbnail_url": "https://i.imgur.com/bPFcGBW.png"
@@ -710,7 +710,7 @@
           "sub_88": {
             "id": 88,
             "mode": "video",
-            "name": "Telecolor Lombardia",
+            "name": "Telikalar Londarbia",
             "sub_name": "",
             "stream_video_url": "https://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/it/5/5c/TeleColor.png"
@@ -718,7 +718,7 @@
           "sub_89": {
             "id": 89,
             "mode": "video",
-            "name": "Telefoggia",
+            "name": "Telifobia",
             "sub_name": "",
             "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8",
             "thumbnail_url": "https://www.open-live.org/it/wp-content/uploads/2017/07/TeleFoggia.jpg"
@@ -726,7 +726,7 @@
           "sub_90": {
             "id": 90,
             "mode": "video",
-            "name": "Telefriuli",
+            "name": "TeliEriuli",
             "sub_name": "",
             "stream_video_url": "http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8",
             "thumbnail_url": "http://beyondprod.it/images/telefriuli_positivo.jpg"
@@ -734,7 +734,7 @@
           "sub_91": {
             "id": 91,
             "mode": "video",
-            "name": "Telegranda",
+            "name": "Teligramba",
             "sub_name": "",
             "stream_video_url": "http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8",
             "thumbnail_url": "https://media.laguida.it/uploads/2018/01/02144259/Tv-Telegranda-riprende-con-le-trasmissioni.jpg"
@@ -742,7 +742,7 @@
           "sub_92": {
             "id": 92,
             "mode": "video",
-            "name": "Telemantova",
+            "name": "Telimamtova",
             "sub_name": "",
             "stream_video_url": "https://58f0c4d9527e8.streamlock.net/TeleMantova/livestream/playlist.m3u8",
             "thumbnail_url": "https://media.telemantova.it/media/siti/tv_radio-v3/img/logo_tmn.png"
@@ -750,7 +750,7 @@
           "sub_93": {
             "id": 93,
             "mode": "video",
-            "name": "TeleMia",
+            "name": "TeliNia",
             "sub_name": "",
             "stream_video_url": "http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8",
             "thumbnail_url": "http://1.bp.blogspot.com/-8gAN3pOqt7M/UK8We1rH1yI/AAAAAAAADjU/bya6H2ZbcJk/s1600/logo-telemia.png"
@@ -758,7 +758,7 @@
           "sub_94": {
             "id": 94,
             "mode": "video",
-            "name": "Telemolise",
+            "name": "Telimolise",
             "sub_name": "",
             "stream_video_url": "http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream_tlm/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/aTs88Es.png"
@@ -766,7 +766,7 @@
           "sub_95": {
             "id": 95,
             "mode": "video",
-            "name": "TELEMONTENEVE",
+            "name": "TELI NOMTEMEVE",
             "sub_name": "",
             "stream_video_url": "http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8",
             "thumbnail_url": "https://i.vimeocdn.com/portrait/3993075_640x640"
@@ -774,7 +774,7 @@
           "sub_96": {
             "id": 96,
             "mode": "video",
-            "name": "TELEMONTENEVE 3",
+            "name": "TELI NOMTEMEVE 3",
             "sub_name": "",
             "stream_video_url": "http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8",
             "thumbnail_url": "https://www.open-live.org/it/wp-content/uploads/2017/07/tMn3.png"
@@ -782,7 +782,7 @@
           "sub_97": {
             "id": 97,
             "mode": "video",
-            "name": "TeleNordest",
+            "name": "TeliMorbest",
             "sub_name": "",
             "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/Woq6TJo.png"
@@ -790,7 +790,7 @@
           "sub_98": {
             "id": 98,
             "mode": "video",
-            "name": "Teleonda",
+            "name": "Teliomba",
             "sub_name": "",
             "stream_video_url": "https://59bb40cf810aa.streamlock.net:4443/teleonda/teleonda/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "http://www.teleonda.it/wp-content/uploads/2019/05/cropped-Teleonda_antennasud_live_png-1.png"
@@ -798,7 +798,7 @@
           "sub_99": {
             "id": 99,
             "mode": "video",
-            "name": "TeleQuattro",
+            "name": "TeliQatro",
             "sub_name": "",
             "stream_video_url": "http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://www.open-live.org/it/wp-content/uploads/2017/07/TeleQuattro-1.png"
@@ -806,7 +806,7 @@
           "sub_100": {
             "id": 100,
             "mode": "video",
-            "name": "TeleRama",
+            "name": "TeliRana",
             "sub_name": "",
             "stream_video_url": "https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/NmvOzhg.png"
@@ -814,7 +814,7 @@
           "sub_101": {
             "id": 101,
             "mode": "video",
-            "name": "Teleromagna",
+            "name": "Telironagma",
             "sub_name": "",
             "stream_video_url": "http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8",
             "thumbnail_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062011/logo_tr_colori_0.ai_.png?itok=R-Hl3oQ2"
@@ -822,7 +822,7 @@
           "sub_102": {
             "id": 102,
             "mode": "video",
-            "name": "Telesud Trapani",
+            "name": "Telisub Trapami",
             "sub_name": "",
             "stream_video_url": "https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8",
             "thumbnail_url": "https://www.open-live.org/it/wp-content/uploads/2017/07/TeleSudTrapani.png"
@@ -830,7 +830,7 @@
           "sub_103": {
             "id": 103,
             "mode": "video",
-            "name": "TeleTerni",
+            "name": "TeliTermi",
             "sub_name": "",
             "stream_video_url": "https://diretta.teleterni.it/live/stream_src.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/U1BjkEl.png"
@@ -838,7 +838,7 @@
           "sub_104": {
             "id": 104,
             "mode": "video",
-            "name": "Teletricolore",
+            "name": "Telitrikalar",
             "sub_name": "",
             "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://www.teletricolore.it/wp-content/uploads/2018/02/logo.png"
@@ -846,7 +846,7 @@
           "sub_105": {
             "id": 105,
             "mode": "video",
-            "name": "TeleTusciaSabina 2000",
+            "name": "TeliTuskiaSadima 2000",
             "sub_name": "",
             "stream_video_url": "http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/K6tTjJC.png"
@@ -854,7 +854,7 @@
           "sub_106": {
             "id": 106,
             "mode": "video",
-            "name": "Teleuniverso",
+            "name": "Teliumiverco",
             "sub_name": "",
             "stream_video_url": "https://5bc744e9aac0b.streamlock.net/teleuniverso/teleuniverso/chunklist_w1494799728.m3u8",
             "thumbnail_url": "https://www.tvdream.net/immagini/teleuniverso.gif"
@@ -862,7 +862,7 @@
           "sub_107": {
             "id": 107,
             "mode": "video",
-            "name": "TeleVideo Agrigento",
+            "name": "TeliVibio Agrigemto",
             "sub_name": "",
             "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/crMQmn4.png"
@@ -870,7 +870,7 @@
           "sub_108": {
             "id": 108,
             "mode": "video",
-            "name": "Televomero",
+            "name": "Telivonero",
             "sub_name": "",
             "stream_video_url": "http://1se2.troydesign.eu:80/televomero/channel1_televomero/playlist.m3u8",
             "thumbnail_url": "http://www.italianews24.it/public/tv/Televomero.jpg"
@@ -878,7 +878,7 @@
           "sub_109": {
             "id": 109,
             "mode": "video",
-            "name": "Tevere TV",
+            "name": "Tavira TV",
             "sub_name": "",
             "stream_video_url": "https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "http://www.teveretv.it/Images/Icone/logo.png"
@@ -886,7 +886,7 @@
           "sub_110": {
             "id": 110,
             "mode": "video",
-            "name": "TG NORBA 24",
+            "name": "TG MORBA 24",
             "sub_name": "",
             "stream_video_url": "http://37.48.83.34:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8",
             "thumbnail_url": "https://www.freeetv.com/images/01_logo/tg_norba24_italy.jpg"
@@ -894,7 +894,7 @@
           "sub_111": {
             "id": 111,
             "mode": "video",
-            "name": "TLN Tele Lazio Nord",
+            "name": "TLM Teli Lajio Morb",
             "sub_name": "",
             "stream_video_url": "http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8",
             "thumbnail_url": "http://www.telelazionord.it/wp-content/uploads/2019/02/TLN.png"
@@ -902,7 +902,7 @@
           "sub_112": {
             "id": 112,
             "mode": "video",
-            "name": "TR Mia",
+            "name": "TIR Nia",
             "sub_name": "",
             "stream_video_url": "http://livetr.teleromagna.it/news/live/playlist.m3u8",
             "thumbnail_url": "http://www.teleromagna.it/wp-content/uploads/2016/01/logo.png"
@@ -910,7 +910,7 @@
           "sub_113": {
             "id": 113,
             "mode": "video",
-            "name": "TR24",
+            "name": "TIR24",
             "sub_name": "",
             "stream_video_url": "http://livetr.teleromagna.it/mia/live/playlist.m3u8",
             "thumbnail_url": "https://pbs.twimg.com/profile_images/662573021497057280/AxkeLGMS_400x400.png"
@@ -918,7 +918,7 @@
           "sub_114": {
             "id": 114,
             "mode": "video",
-            "name": "Trentino TV",
+            "name": "Tremtimo TV",
             "sub_name": "",
             "stream_video_url": "http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8",
             "thumbnail_url": "http://directostv.teleame.com/wp-content/uploads/2018/01/trentino-tv.png"
@@ -926,7 +926,7 @@
           "sub_115": {
             "id": 115,
             "mode": "video",
-            "name": "TRG Umbria",
+            "name": "TIRGI Undria",
             "sub_name": "",
             "stream_video_url": "http://streaming126.trgmedia.it/filestream/livestreamHD.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/32xXpaS.png"
@@ -934,7 +934,7 @@
           "sub_116": {
             "id": 116,
             "mode": "video",
-            "name": "TRM h24 Basilicata",
+            "name": "TRN h24 Baclikata",
             "sub_name": "",
             "stream_video_url": "http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://www.dtti.it/wp-content/uploads/2012/09/trm.gif"
@@ -942,7 +942,7 @@
           "sub_117": {
             "id": 117,
             "mode": "video",
-            "name": "TSN Livigno",
+            "name": "TSM Livigmo",
             "sub_name": "",
             "stream_video_url": "http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8",
             "thumbnail_url": "http://webtvonlive.com/wp-content/uploads/TSN-Livigno-webtvonlive-com.jpg"
@@ -950,7 +950,7 @@
           "sub_118": {
             "id": 118,
             "mode": "video",
-            "name": "TSN Tele Sondrio News",
+            "name": "TSM Teli Somdrio Mews",
             "sub_name": "",
             "stream_video_url": "http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8",
             "thumbnail_url": "https://live-tv-channels.org/pt-data/uploads/logo/tele_sondrio_news_it.png"
@@ -958,7 +958,7 @@
           "sub_119": {
             "id": 119,
             "mode": "video",
-            "name": "Tv Luna",
+            "name": "Tv Luma",
             "sub_name": "",
             "stream_video_url": "http://live.sloode.com:1935/teleluna/live/playlist.m3u8",
             "thumbnail_url": "https://open-live.org/it/wp-content/uploads/2017/07/TvLuna2.png"
@@ -966,7 +966,7 @@
           "sub_120": {
             "id": 120,
             "mode": "video",
-            "name": "TV Qui (Modena)",
+            "name": "TV Qi (Nodema)",
             "sub_name": "",
             "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/154AQjl.png"
@@ -974,7 +974,7 @@
           "sub_121": {
             "id": 121,
             "mode": "video",
-            "name": "TV2000",
+            "name": "TV 3000",
             "sub_name": "",
             "stream_video_url": "http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/1200px-Logo_tv2000_2015.svg.png"
@@ -982,7 +982,7 @@
           "sub_122": {
             "id": 122,
             "mode": "video",
-            "name": "TV7 Triveneta",
+            "name": "TIV7 Trivemata",
             "sub_name": "",
             "stream_video_url": "http://217.61.26.46:8080/hls/triveneta.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/ndFoo4V.png"
@@ -990,7 +990,7 @@
           "sub_123": {
             "id": 123,
             "mode": "video",
-            "name": "TVL Toscana",
+            "name": "TIVL Toskama",
             "sub_name": "",
             "stream_video_url": "https://dcunilive36-lh.akamaihd.net/i/dclive_1@661035/master.m3u8",
             "thumbnail_url": "https://i.imgur.com/oVsMybF.jpg"
@@ -998,7 +998,7 @@
           "sub_124": {
             "id": 124,
             "mode": "video",
-            "name": "TVRS",
+            "name": "TIVRS",
             "sub_name": "",
             "stream_video_url": "http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8",
             "thumbnail_url": "https://pbs.twimg.com/profile_images/1903029668/LOGO_TVRS_MARCHE_QUADRATO_400x400.jpg"
@@ -1006,7 +1006,7 @@
           "sub_125": {
             "id": 125,
             "mode": "video",
-            "name": "Vera TV (Marche)",
+            "name": "Yera TV (Narche)",
             "sub_name": "",
             "stream_video_url": "http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/kXDdx0h.png"
@@ -1014,7 +1014,7 @@
           "sub_126": {
             "id": 126,
             "mode": "video",
-            "name": "VH1",
+            "name": "VIH1",
             "sub_name": "",
             "stream_video_url": "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png"
@@ -1022,7 +1022,7 @@
           "sub_127": {
             "id": 127,
             "mode": "video",
-            "name": "Video Calabria",
+            "name": "Vibeo Kaladrya",
             "sub_name": "",
             "stream_video_url": "http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8",
             "thumbnail_url": "https://www.open-live.org/it/wp-content/uploads/2017/07/VideoCalabria.jpg"
@@ -1030,7 +1030,7 @@
           "sub_128": {
             "id": 128,
             "mode": "video",
-            "name": "Videolina (Sardegna)",
+            "name": "Vibeolima (Sarbegma)",
             "sub_name": "",
             "stream_video_url": "http://livestreaming.videolina.it/live/Videolina/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://www.dinamobasket.com/sites/default/files/videolina2012_tr.png"
@@ -1038,7 +1038,7 @@
           "sub_129": {
             "id": 129,
             "mode": "video",
-            "name": "Videostar TV (Lombardia)",
+            "name": "Vibeostar TV (Londarbia)",
             "sub_name": "",
             "stream_video_url": "http://dreamsiteradiocpvideo.com:1935/vds/vds/playlist.m3u8",
             "thumbnail_url": "http://paologoglio.com/wp-content/uploads/2013/12/logo_videostarTV.jpg"
