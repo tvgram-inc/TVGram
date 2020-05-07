@@ -82,9 +82,9 @@
         },
         "google_ads": {
           "ads_app_id": "ca-app-pub-5004393487171509~6685526148",
-          "banner_ad_unit_id1": "ca-app-pub-5004393487171509/9283769324",
+          "banner_ad_unit_id1": "ca-app-pub-9464849294744852/4741604607",
           "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
-          "interstitial_ad_unit_id1": "ca-app-pub-5004393487171509/1417598032",
+          "interstitial_ad_unit_id1": "ca-app-pub-9464849294744852/5285078821",
           "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
           "ads_banner_clicks_per_duration_day" : 2,
           "ads_interstitial_clicks_per_duration_day" : -1,
