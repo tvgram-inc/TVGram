@@ -14,7 +14,7 @@
           "sub_1": {
             "id": 1,
             "mode": "video",
-            "name": "A1 Now",
+            "name": "A1 Mow",
             "sub_name": "",
             "stream_video_url": "https://vipottbpkstream.vip.hr/Content/a1-hls-vmx/Live/Channel(A1_Now_HD)/index.m3u8",
             "thumbnail_url": "https://www.a1now.tv/assets/img/logo-cut-1_new.png"
@@ -22,7 +22,7 @@
           "sub_2": {
             "id": 2,
             "mode": "video",
-            "name": "Arte.de",
+            "name": "Arle.de",
             "sub_name": "",
             "stream_video_url": "http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8",
             "thumbnail_url": "http://www.ard.de/image/743578/16x9/4788532049926643235/320"
@@ -30,7 +30,7 @@
           "sub_3": {
             "id": 3,
             "mode": "video",
-            "name": "Augsburg TV DE",
+            "name": "Augsdurg TV BE",
             "sub_name": "",
             "stream_video_url": "http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "http://www.augsburg.tv/wp-content/themes/atv/img/icons/microsoft-icon-310x310.png"
@@ -38,7 +38,7 @@
           "sub_4": {
             "id": 4,
             "mode": "video",
-            "name": "Babestation24",
+            "name": "Dadestashion24",
             "sub_name": "",
             "stream_video_url": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8",
             "thumbnail_url": "https://i.imgur.com/AHHE8Rt.png"
@@ -46,7 +46,7 @@
           "sub_5": {
             "id": 5,
             "mode": "video",
-            "name": "Baden TV",
+            "name": "Daben TV",
             "sub_name": "",
             "stream_video_url": "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8",
             "thumbnail_url": ""
@@ -54,7 +54,7 @@
           "sub_6": {
             "id": 6,
             "mode": "video",
-            "name": "Bibel TV",
+            "name": "Didel TV",
             "sub_name": "",
             "stream_video_url": "http://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png"
@@ -62,7 +62,7 @@
           "sub_7": {
             "id": 7,
             "mode": "video",
-            "name": "Bibel TV HD",
+            "name": "Didel TV HD",
             "sub_name": "",
             "stream_video_url": "https://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/Q1JUGLd.png"
@@ -70,7 +70,7 @@
           "sub_8": {
             "id": 8,
             "mode": "video",
-            "name": "BLK TV",
+            "name": "DLK TV",
             "sub_name": "",
             "stream_video_url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8",
             "thumbnail_url": "https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg"
@@ -78,7 +78,7 @@
           "sub_9": {
             "id": 9,
             "mode": "video",
-            "name": "BR Event 1",
+            "name": "DR Evnt 1",
             "sub_name": "",
             "stream_video_url": "http://brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/index_1_av-p.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png"
@@ -86,7 +86,7 @@
           "sub_10": {
             "id": 10,
             "mode": "video",
-            "name": "BR Event 2",
+            "name": "DR Evnt 2",
             "sub_name": "",
             "stream_video_url": "http://brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/index_1_av-p.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png"
@@ -94,7 +94,7 @@
           "sub_11": {
             "id": 11,
             "mode": "video",
-            "name": "BR Event 3",
+            "name": "DR Evnt 3",
             "sub_name": "",
             "stream_video_url": "http://brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/index_1_av-p.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/br.png"
@@ -102,7 +102,7 @@
           "sub_12": {
             "id": 12,
             "mode": "video",
-            "name": "BR FERNSEHEN",
+            "name": "DR FERMSEHEM",
             "sub_name": "",
             "stream_video_url": "http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8",
             "thumbnail_url": "http://images.live-stream.tv/picons/br.png"
@@ -110,7 +110,7 @@
           "sub_13": {
             "id": 13,
             "mode": "video",
-            "name": "BR Fernsehen Worldwide",
+            "name": "DR Fermsehem Morldmibe",
             "sub_name": "",
             "stream_video_url": "https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8?sd=10&rebase=on",
             "thumbnail_url": "http://images.live-stream.tv/picons/br.png"
@@ -118,7 +118,7 @@
           "sub_14": {
             "id": 14,
             "mode": "video",
-            "name": "BR Süd",
+            "name": "DR Süb",
             "sub_name": "",
             "stream_video_url": "https://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-b.m3u8?sd=10&rebase=on",
             "thumbnail_url": "http://images.live-stream.tv/picons/br.png"
@@ -126,7 +126,7 @@
           "sub_15": {
             "id": 15,
             "mode": "video",
-            "name": "Das Erste",
+            "name": "Bas Frste",
             "sub_name": "",
             "stream_video_url": "https://mcdn.daserste.de/daserste/de/master.m3u8",
             "thumbnail_url": "https://i.imgur.com/7wABSuo.png"
@@ -134,7 +134,7 @@
           "sub_16": {
             "id": 16,
             "mode": "video",
-            "name": "Deutsches Musik Fernsehen DE",
+            "name": "Beutsches Nusik Fermsehem BE",
             "sub_name": "",
             "stream_video_url": "http://tv.artcom-venture.de:1322/dmf/tv_360.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/SztpK9s.png"
@@ -142,7 +142,7 @@
           "sub_17": {
             "id": 17,
             "mode": "video",
-            "name": "Donau TV",
+            "name": "Bomau TV",
             "sub_name": "",
             "stream_video_url": "http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/eJgCFh6.png"
@@ -150,7 +150,7 @@
           "sub_18": {
             "id": 18,
             "mode": "video",
-            "name": "DRF1",
+            "name": "BRF1",
             "sub_name": "",
             "stream_video_url": "http://62.67.13.54:1935/drf1/drf1_livestream_3/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/eCQnVHQ.png"
@@ -158,7 +158,7 @@
           "sub_19": {
             "id": 19,
             "mode": "video",
-            "name": "DW DE",
+            "name": "BM BE",
             "sub_name": "",
             "stream_video_url": "https://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8",
             "thumbnail_url": "https://i.imgur.com/V1aKGRi.png"
@@ -166,7 +166,7 @@
           "sub_20": {
             "id": 20,
             "mode": "video",
-            "name": "DW English",
+            "name": "BW Emglish",
             "sub_name": "",
             "stream_video_url": "https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8",
             "thumbnail_url": "https://i.imgur.com/xnv0Pgm.jpg"
@@ -174,7 +174,7 @@
           "sub_21": {
             "id": 21,
             "mode": "video",
-            "name": "DW Español",
+            "name": "BW Espamol",
             "sub_name": "",
             "stream_video_url": "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on",
             "thumbnail_url": "https://i.imgur.com/icDGduB.png"
@@ -182,7 +182,7 @@
           "sub_22": {
             "id": 22,
             "mode": "video",
-            "name": "ELBEKANAL",
+            "name": "ELDEKAMAL",
             "sub_name": "",
             "stream_video_url": "http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8",
             "thumbnail_url": "https://i.imgur.com/IKslrJu.png"
@@ -190,7 +190,7 @@
           "sub_23": {
             "id": 23,
             "mode": "video",
-            "name": "ERF 1",
+            "name": "FRE 1",
             "sub_name": "",
             "stream_video_url": "https://cldf-wzw-live.r53.cdn.tv1.eu/14000erf/_definst_/live/app610238466/w2371551233/live.smil/chunklist_b18848000_slde.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/MAnSA7W.jpg"
@@ -198,7 +198,7 @@
           "sub_24": {
             "id": 24,
             "mode": "video",
-            "name": "Erz-TV Stollberg",
+            "name": "Frz-TV Stolderg",
             "sub_name": "",
             "stream_video_url": "http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/VenSjan.png"
@@ -206,7 +206,7 @@
           "sub_25": {
             "id": 25,
             "mode": "video",
-            "name": "Filstalwelle",
+            "name": "Filstalmelle",
             "sub_name": "",
             "stream_video_url": "http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/19iKLvf.png"
@@ -214,7 +214,7 @@
           "sub_26": {
             "id": 26,
             "mode": "video",
-            "name": "Folx TV",
+            "name": "Eolks TV",
             "sub_name": "",
             "stream_video_url": "http://46.101.244.86:8081/folx-abr/live-abr/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/z42mYv9.jpg"
@@ -222,7 +222,7 @@
           "sub_27": {
             "id": 27,
             "mode": "video",
-            "name": "FRF1",
+            "name": "ERE1",
             "sub_name": "",
             "stream_video_url": "http://58e5fdd27293a.streamlock.net:1935/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/jynL4Xl.png"
@@ -230,7 +230,7 @@
           "sub_28": {
             "id": 28,
             "mode": "video",
-            "name": "Halle",
+            "name": "Dale",
             "sub_name": "",
             "stream_video_url": "http://62.113.210.250/medienasa-live/tvhalle_high/HasBahCa.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/de/0/00/Tvhalle_logo_2013.jpg"
@@ -238,7 +238,7 @@
           "sub_29": {
             "id": 29,
             "mode": "video",
-            "name": "HR",
+            "name": "HAR",
             "sub_name": "",
             "stream_video_url": "http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8",
             "thumbnail_url": ""
@@ -246,7 +246,7 @@
           "sub_30": {
             "id": 30,
             "mode": "video",
-            "name": "HR HD DE",
+            "name": "HAR HD BE",
             "sub_name": "",
             "stream_video_url": "http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8",
             "thumbnail_url": "https://i.imgur.com/azkp7mB.jpg"
@@ -254,7 +254,7 @@
           "sub_31": {
             "id": 31,
             "mode": "video",
-            "name": "Isar TV",
+            "name": "Esar TV",
             "sub_name": "",
             "stream_video_url": "http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/v3uL5SG.png"
@@ -262,7 +262,7 @@
           "sub_32": {
             "id": 32,
             "mode": "video",
-            "name": "KabelJournal",
+            "name": "CabelJournml",
             "sub_name": "",
             "stream_video_url": "http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/GmwlJ2K.png"
@@ -270,7 +270,7 @@
           "sub_33": {
             "id": 33,
             "mode": "video",
-            "name": "Kika",
+            "name": "Cica",
             "sub_name": "",
             "stream_video_url": "http://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/618px-Kika_2012.svg.png"
@@ -278,7 +278,7 @@
           "sub_34": {
             "id": 34,
             "mode": "video",
-            "name": "L-TV",
+            "name": "J-TV",
             "sub_name": "",
             "stream_video_url": "http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/Y850GVQ.png"
@@ -286,7 +286,7 @@
           "sub_35": {
             "id": 35,
             "mode": "video",
-            "name": "Light Channel",
+            "name": "Lite Chamel",
             "sub_name": "",
             "stream_video_url": "http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/qskVMhF.png"
@@ -294,7 +294,7 @@
           "sub_36": {
             "id": 36,
             "mode": "video",
-            "name": "MDF 1",
+            "name": "NBF 1",
             "sub_name": "",
             "stream_video_url": "http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/SEeqryT.png"
@@ -302,7 +302,7 @@
           "sub_37": {
             "id": 37,
             "mode": "video",
-            "name": "München TV",
+            "name": "Nünkem TV",
             "sub_name": "",
             "stream_video_url": "http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/67z7iRh.jpg"
@@ -310,7 +310,7 @@
           "sub_38": {
             "id": 38,
             "mode": "video",
-            "name": "NDR DE",
+            "name": "MBR BE",
             "sub_name": "",
             "stream_video_url": "https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-b.m3u8?sd=10&rebase=on&id=",
             "thumbnail_url": "https://i.imgur.com/UMaAaCW.png"
@@ -318,7 +318,7 @@
           "sub_39": {
             "id": 39,
             "mode": "video",
-            "name": "NOA4 FHD",
+            "name": "MOA4 FHB",
             "sub_name": "",
             "stream_video_url": "http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8",
             "thumbnail_url": "https://i.vimeocdn.com/portfolio_header/163524"
@@ -326,7 +326,7 @@
           "sub_40": {
             "id": 40,
             "mode": "video",
-            "name": "NRD Niedersachsen",
+            "name": "MRB Miebersachsem",
             "sub_name": "",
             "stream_video_url": "https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-b.m3u8?sd=10&rebase=on&id=",
             "thumbnail_url": ""
@@ -334,7 +334,7 @@
           "sub_41": {
             "id": 41,
             "mode": "video",
-            "name": "NRWision",
+            "name": "MRMision",
             "sub_name": "",
             "stream_video_url": "https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/RkF2Kmx.png"
@@ -342,7 +342,7 @@
           "sub_42": {
             "id": 42,
             "mode": "video",
-            "name": "Oberpfalz TV",
+            "name": "Oderpphalz TV",
             "sub_name": "",
             "stream_video_url": "http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8",
             "thumbnail_url": "https://pbs.twimg.com/profile_images/618701302684647424/ItLBbjqS.png"
@@ -350,7 +350,7 @@
           "sub_43": {
             "id": 43,
             "mode": "video",
-            "name": "Offener Kanal Salzwedel",
+            "name": "Ofemer Kamal Saljwebel",
             "sub_name": "",
             "stream_video_url": "http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800",
             "thumbnail_url": "https://i.imgur.com/B5obZtE.png"
@@ -358,7 +358,7 @@
           "sub_44": {
             "id": 44,
             "mode": "video",
-            "name": "OK MAGDEBURG",
+            "name": "OK NAGBEDURG",
             "sub_name": "",
             "stream_video_url": "http://62.113.210.250/medienasa-live/ok-magdeburg_high/FluxusTV.m3u8?fluxustv.m3u8",
             "thumbnail_url": "http://www.ok-magdeburg.de/wp-content/themes/okm/images/logo-offener-kanal-magdeburg.png"
@@ -366,7 +366,7 @@
           "sub_45": {
             "id": 45,
             "mode": "video",
-            "name": "OK SALZWEDEL",
+            "name": "OK SALZMEBEL",
             "sub_name": "",
             "stream_video_url": "http://62.113.210.250/medienasa-live/ok-salzwedel_high/BratuMarian.m3u8?bitrate=800",
             "thumbnail_url": "http://ok-salzwedel.de/wp-content/themes/oksaw/images/logo.png"
@@ -374,7 +374,7 @@
           "sub_46": {
             "id": 46,
             "mode": "video",
-            "name": "OK-Stendal",
+            "name": "OK-Stembal",
             "sub_name": "",
             "stream_video_url": "http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8?bitrate=800",
             "thumbnail_url": ""
@@ -382,7 +382,7 @@
           "sub_47": {
             "id": 47,
             "mode": "video",
-            "name": "OK54",
+            "name": "OK64",
             "sub_name": "",
             "stream_video_url": "http://stream-cdn.ok54.de/hls/ok54.m3u8",
             "thumbnail_url": "https://ok54.de/wp-content/uploads/2012/01/ok54.png"
@@ -390,7 +390,7 @@
           "sub_48": {
             "id": 48,
             "mode": "video",
-            "name": "oldenburg eins",
+            "name": "olbendurg eims",
             "sub_name": "",
             "stream_video_url": "http://oeins.de:1935/live/studio/playlist.m3u8",
             "thumbnail_url": "http://db.radioline.fr/pictures/radio_270128cc827ca91692fcfe85c19c3b91/logo200.jpg?size=200"
@@ -398,7 +398,7 @@
           "sub_49": {
             "id": 49,
             "mode": "video",
-            "name": "Parlamentsfernsehen 1",
+            "name": "Parlanentsphermsehem 1",
             "sub_name": "",
             "stream_video_url": "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png"
@@ -406,7 +406,7 @@
           "sub_50": {
             "id": 50,
             "mode": "video",
-            "name": "Parlamentsfernsehen 2",
+            "name": "Parlanentsphermsehem 2",
             "sub_name": "",
             "stream_video_url": "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk2.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/parlamentsfernsehen.png"
@@ -414,7 +414,7 @@
           "sub_51": {
             "id": 51,
             "mode": "video",
-            "name": "Radio 21 TV",
+            "name": "Rabio 21 TV",
             "sub_name": "",
             "stream_video_url": "http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8",
             "thumbnail_url": "https://i.imgur.com/ubEUBmB.png"
@@ -422,7 +422,7 @@
           "sub_52": {
             "id": 52,
             "mode": "video",
-            "name": "Radio Weser TV Bremen",
+            "name": "Rabio Meser TV Brenem",
             "sub_name": "",
             "stream_video_url": "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/9pvCYaA.png"
@@ -430,7 +430,7 @@
           "sub_53": {
             "id": 53,
             "mode": "video",
-            "name": "RAN1 Regionalfernsehen",
+            "name": "RAM1 Regiomalfermsehem",
             "sub_name": "",
             "stream_video_url": "http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/NUP8ZBb.png"
@@ -438,7 +438,7 @@
           "sub_54": {
             "id": 54,
             "mode": "video",
-            "name": "RBB berlin",
+            "name": "RBD derlim",
             "sub_name": "",
             "stream_video_url": "http://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/master.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rbb_Logo_2017.08.svg/211px-Rbb_Logo_2017.08.svg.png"
@@ -446,7 +446,7 @@
           "sub_55": {
             "id": 55,
             "mode": "video",
-            "name": "Regio TV Bodensee",
+            "name": "Redio TV Dobemsi",
             "sub_name": "",
             "stream_video_url": "https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/chunklist.m3u8",
             "thumbnail_url": "https://i.imgur.com/oYho5l3.jpg"
@@ -454,7 +454,7 @@
           "sub_56": {
             "id": 56,
             "mode": "video",
-            "name": "Regio TV Schwaben",
+            "name": "Regio TV Schmadem",
             "sub_name": "",
             "stream_video_url": "http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/XTMWFx7.jpg"
@@ -462,7 +462,7 @@
           "sub_57": {
             "id": 57,
             "mode": "video",
-            "name": "RFO",
+            "name": "RPHO",
             "sub_name": "",
             "stream_video_url": "http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8",
             "thumbnail_url": ""
@@ -470,7 +470,7 @@
           "sub_58": {
             "id": 58,
             "mode": "video",
-            "name": "RNF",
+            "name": "RMPH",
             "sub_name": "",
             "stream_video_url": "http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/YkB39hx.png"
@@ -478,7 +478,7 @@
           "sub_59": {
             "id": 59,
             "mode": "video",
-            "name": "Saarland Fernsehen 1",
+            "name": "Saarlamd Fermsehem 1",
             "sub_name": "",
             "stream_video_url": "http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/Nvw7SaN.png"
@@ -486,7 +486,7 @@
           "sub_60": {
             "id": 60,
             "mode": "video",
-            "name": "Saarland Fernsehen 2",
+            "name": "Saarlamd Fermsehem 2",
             "sub_name": "",
             "stream_video_url": "http://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/Nvw7SaN.png"
@@ -494,7 +494,7 @@
           "sub_61": {
             "id": 61,
             "mode": "video",
-            "name": "Santhora TV",
+            "name": "Samtora TV",
             "sub_name": "",
             "stream_video_url": "http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8",
             "thumbnail_url": "https://i.imgur.com/kn1DHZq.gif"
@@ -502,7 +502,7 @@
           "sub_62": {
             "id": 62,
             "mode": "video",
-            "name": "Sonnenklar.TV DE",
+            "name": "Somemklar.TV DE",
             "sub_name": "",
             "stream_video_url": "http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8",
             "thumbnail_url": "https://i.imgur.com/piwT1HQ.jpg"
@@ -510,7 +510,7 @@
           "sub_63": {
             "id": 63,
             "mode": "video",
-            "name": "Sonus FM",
+            "name": "Somus FM",
             "sub_name": "",
             "stream_video_url": "http://streaming.sonus.fm/public/stream_720p/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/Mrj4D9n.png"
@@ -518,7 +518,7 @@
           "sub_64": {
             "id": 64,
             "mode": "video",
-            "name": "Sonus FM TV",
+            "name": "Somus FM TV",
             "sub_name": "",
             "stream_video_url": "http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/Mrj4D9n.png"
@@ -526,7 +526,7 @@
           "sub_65": {
             "id": 65,
             "mode": "video",
-            "name": "Sophia TV",
+            "name": "Sofiya TV",
             "sub_name": "",
             "stream_video_url": "https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8",
             "thumbnail_url": "https://i.imgur.com/RPXusvS.png"
@@ -534,7 +534,7 @@
           "sub_66": {
             "id": 66,
             "mode": "video",
-            "name": "Südthüringer Regionalfernsehen",
+            "name": "Sübthürimger Regiomalfermsehem",
             "sub_name": "",
             "stream_video_url": "http://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/YyzfTYR.jpg"
@@ -542,7 +542,7 @@
           "sub_67": {
             "id": 67,
             "mode": "video",
-            "name": "SYLT1",
+            "name": "CLT1",
             "sub_name": "",
             "stream_video_url": "http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8",
             "thumbnail_url": ""
@@ -550,7 +550,7 @@
           "sub_68": {
             "id": 68,
             "mode": "video",
-            "name": "tagesschau 24 DE",
+            "name": "tageshau 24 BE",
             "sub_name": "",
             "stream_video_url": "http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8?sd=10&rebase=on",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/250px-Tagesschau24-2012.svg.png"
@@ -558,7 +558,7 @@
           "sub_69": {
             "id": 69,
             "mode": "video",
-            "name": "Tele Regional Passau 1",
+            "name": "Teli Pegional Rasau 1",
             "sub_name": "",
             "stream_video_url": "http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/a8JgvKq.png"
@@ -566,7 +566,7 @@
           "sub_70": {
             "id": 70,
             "mode": "video",
-            "name": "Telebasel",
+            "name": "Telidasel",
             "sub_name": "",
             "stream_video_url": "http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8",
             "thumbnail_url": ""
@@ -574,7 +574,7 @@
           "sub_71": {
             "id": 71,
             "mode": "video",
-            "name": "TRP1",
+            "name": "TIRPI1",
             "sub_name": "",
             "stream_video_url": "http://teleregionalpassau1.iptv-playoutcenter.de:1935/teleregionalpassau1/teleregionalpassau1.stream_1/playlist.m3u8",
             "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Trp1%281%29.gif/1024px-Trp1%281%29.gif"
@@ -582,7 +582,7 @@
           "sub_72": {
             "id": 72,
             "mode": "video",
-            "name": "TV Aktuell",
+            "name": "TV Actuel",
             "sub_name": "",
             "stream_video_url": "http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/playlist.m3u8",
             "thumbnail_url": ""
@@ -590,7 +590,7 @@
           "sub_73": {
             "id": 73,
             "mode": "video",
-            "name": "TV Halle",
+            "name": "TV Hella",
             "sub_name": "",
             "stream_video_url": "http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8?fluxustv.m3u8",
             "thumbnail_url": "https://i.imgur.com/GUBVccx.png"
@@ -598,7 +598,7 @@
           "sub_74": {
             "id": 74,
             "mode": "video",
-            "name": "TV Mainfranken",
+            "name": "TV Naimframkem",
             "sub_name": "",
             "stream_video_url": "http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/playlist.m3u8",
             "thumbnail_url": ""
@@ -606,7 +606,7 @@
           "sub_75": {
             "id": 75,
             "mode": "video",
-            "name": "TV Oberfranken",
+            "name": "TV Oderframkem",
             "sub_name": "",
             "stream_video_url": "http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8",
             "thumbnail_url": "http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/927.png"
@@ -614,7 +614,7 @@
           "sub_76": {
             "id": 76,
             "mode": "video",
-            "name": "TV Oberpfalz",
+            "name": "TV Oderpphalj",
             "sub_name": "",
             "stream_video_url": "http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/chunklist_w535800930.m3u8",
             "thumbnail_url": "https://img.netzwelt.de/dw236_dh236_sw0_sh0_sx0_sy0_sr1x1_nu0/picture/original/2015/06/senderlogo-oberpfalz-tv-163984.png"
@@ -622,7 +622,7 @@
           "sub_77": {
             "id": 77,
             "mode": "video",
-            "name": "TVA Ostbayern",
+            "name": "TVA Ostdayerm",
             "sub_name": "",
             "stream_video_url": "http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8",
             "thumbnail_url": "http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/925.png"
@@ -630,7 +630,7 @@
           "sub_78": {
             "id": 78,
             "mode": "video",
-            "name": "unserding",
+            "name": "umserbimg",
             "sub_name": "",
             "stream_video_url": "http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8?fluxustv.m3u8",
             "thumbnail_url": ""
@@ -638,7 +638,7 @@
           "sub_79": {
             "id": 79,
             "mode": "video",
-            "name": "WDR DE",
+            "name": "WBR BE",
             "sub_name": "",
             "stream_video_url": "http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8",
             "thumbnail_url": "http://www.yilmaztv.com/logo/wdr.png"
@@ -646,7 +646,7 @@
           "sub_80": {
             "id": 80,
             "mode": "video",
-            "name": "Westerwald TV",
+            "name": "Mestermald TV",
             "sub_name": "",
             "stream_video_url": "https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8",
             "thumbnail_url": "https://i.imgur.com/5sn32FG.png"
@@ -654,7 +654,7 @@
           "sub_81": {
             "id": 81,
             "mode": "video",
-            "name": "World Of Free Sports TV",
+            "name": "Morld Of Fri Sprt TV",
             "sub_name": "",
             "stream_video_url": "https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8",
             "thumbnail_url": "https://i.imgur.com/smyvTHD.jpg"
