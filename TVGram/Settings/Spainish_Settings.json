@@ -383,7 +383,7 @@
         "is_inapp_other_player_support":true,
         "is_other_player_session_free_support":false,
 
-        "is_original_thumb_icon":false,
+        "is_original_thumb_icon":true,
         "is_playlist_support":false,
         "is_barcode_support":false,
 
