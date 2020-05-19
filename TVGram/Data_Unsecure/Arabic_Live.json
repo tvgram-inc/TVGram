@@ -1,0 +1,274 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 11,
+        "name": "Arabic Channels",
+        "sub_name": "Channels",
+        "thumbnail_url": "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_27,h_20/https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-saudi-arabia_748010.png",
+        "sub": {
+          "sub_1": {
+            "id": 1,
+            "mode": "video",
+            "name": "Abu Dhabi Drama ARB",
+            "sub_name": "",
+            "stream_video_url": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama",
+            "thumbnail_url": "https://i.imgur.com/7Bx66K7.jpg"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "video",
+            "name": "Abu Dhabi Sports 2 ARB",
+            "sub_name": "",
+            "stream_video_url": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2",
+            "thumbnail_url": "https://i.imgur.com/9q8gFsq.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "video",
+            "name": "Abu Dhabi Sports 3 ARB",
+            "sub_name": "",
+            "stream_video_url": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3",
+            "thumbnail_url": "https://i.imgur.com/U6XDpXY.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "video",
+            "name": "Abu Dhabi Sports 4 ARB",
+            "sub_name": "",
+            "stream_video_url": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4",
+            "thumbnail_url": "https://i.imgur.com/8VqomZ5.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "video",
+            "name": "Abu Dhabi Sports ARB",
+            "sub_name": "",
+            "stream_video_url": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1",
+            "thumbnail_url": "https://i.imgur.com/lKl2wZH.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "video",
+            "name": "Abu Dhabi TV ARB",
+            "sub_name": "",
+            "stream_video_url": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula",
+            "thumbnail_url": "https://i.imgur.com/oExmYqk.jpg"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "video",
+            "name": "Ajman TV ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8",
+            "thumbnail_url": "https://i.imgur.com/l6FT7yx.jpg"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "video",
+            "name": "Al Emarat TV ARB",
+            "sub_name": "",
+            "stream_video_url": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat",
+            "thumbnail_url": "https://i.imgur.com/5S2ci8p.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "video",
+            "name": "B4U Aflam ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8",
+            "thumbnail_url": "https://i.imgur.com/IvIdaGB.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "video",
+            "name": "B4U Plus ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8",
+            "thumbnail_url": "https://i.imgur.com/KnpCnyh.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "video",
+            "name": "Cinema 1 ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/lNhSZ9N.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "video",
+            "name": "Dubai One ARB",
+            "sub_name": "",
+            "stream_video_url": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione",
+            "thumbnail_url": "https://i.imgur.com/WjJ8MHC.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "video",
+            "name": "Dubai Racing ARB",
+            "sub_name": "",
+            "stream_video_url": "http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/eytrf0Y.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "video",
+            "name": "Dubai Sports 1 ARB",
+            "sub_name": "",
+            "stream_video_url": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports",
+            "thumbnail_url": "https://i.imgur.com/iYgHR5D.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "video",
+            "name": "Etisalat Dubai Zaman TV ARB",
+            "sub_name": "",
+            "stream_video_url": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman",
+            "thumbnail_url": "https://i.imgur.com/F5U9qpf.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "video",
+            "name": "MBC 1 ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on",
+            "thumbnail_url": "https://i.imgur.com/eKBXOKd.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "video",
+            "name": "MBC 2 ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh3.tvanywhere.ae:80/hls/mbc2/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/KXuzL1u.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "video",
+            "name": "MBC 3 ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on",
+            "thumbnail_url": "https://i.imgur.com/FVNVC73.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "video",
+            "name": "MBC 4 ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/pfF61uH.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "video",
+            "name": "MBC Action ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/n3TgfP0.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "video",
+            "name": "MBC Bollywood ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/fMjhK06.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "video",
+            "name": "MBC Drama ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/F5ER0we.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "video",
+            "name": "MBC Masr 1 ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8",
+            "thumbnail_url": "https://i.imgur.com/SrvZduL.jpg"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "video",
+            "name": "MBC Max ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/X6EliFm.png"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "video",
+            "name": "Music Now ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/KABKzdl.png"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "video",
+            "name": "Noor Dubai ARB",
+            "sub_name": "",
+            "stream_video_url": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv",
+            "thumbnail_url": "https://i.imgur.com/FP2yHkl.png"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "video",
+            "name": "Sama Dubai ARB",
+            "sub_name": "",
+            "stream_video_url": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai",
+            "thumbnail_url": "https://i.imgur.com/bF6I3N1.jpg"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "video",
+            "name": "Sharqiya from Kalba ARB",
+            "sub_name": "",
+            "stream_video_url": "http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/6Er1lh6.png"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "video",
+            "name": "Space Toon Arabic ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/L42Ouau.png"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "video",
+            "name": "Star Movies ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/DQ1RfUa.png"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "video",
+            "name": "Star World ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8",
+            "thumbnail_url": "https://i.imgur.com/9c316dr.png"
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "video",
+            "name": "Wanasah ARB",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8",
+            "thumbnail_url": "https://i.imgur.com/GmgibYW.jpg"
+          }
+        }
+      }
+    }
+  }
+}

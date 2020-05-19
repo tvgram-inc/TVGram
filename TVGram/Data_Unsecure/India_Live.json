@@ -1,0 +1,1239 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 9,
+        "name": "Indian Channels",
+        "sub_name": "Channels",
+        "thumbnail_url": "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_27,h_20/https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-india_748132.png",
+        "sub": {
+          "sub_1": {
+            "id": 1,
+            "mode": "video",
+            "name": "Five ab TV",
+            "sub_name": "",
+            "stream_video_url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
+            "thumbnail_url": "https://lh3.googleusercontent.com/9rIHF38xQi6WGjQ1696Pxp_Jf5anTdMIcoFuPT6bOTChVdoNpgNpO69-yFLHTBwP1JE=w300"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "video",
+            "name": "ABiP Ananda",
+            "sub_name": "",
+            "stream_video_url": "https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8",
+            "thumbnail_url": "https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "video",
+            "name": "ABiP Asmeeta",
+            "sub_name": "",
+            "stream_video_url": "https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/c/c1/ABP_Majha_logo.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "video",
+            "name": "ABiP Majha",
+            "sub_name": "",
+            "stream_video_url": "https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/c/c1/ABP_Majha_logo.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "video",
+            "name": "ABiP News",
+            "sub_name": "",
+            "stream_video_url": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8",
+            "thumbnail_url": "https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "video",
+            "name": "ACiV",
+            "sub_name": "",
+            "stream_video_url": "https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8",
+            "thumbnail_url": "http://www.asianetmobiletv.com/channels/ACV.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "video",
+            "name": "ACiV News",
+            "sub_name": "",
+            "stream_video_url": "https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8",
+            "thumbnail_url": "http://www.malayalitimes.com/media/channels/1481255877/340X280/acv-news.jpg"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "video",
+            "name": "Akal TV",
+            "sub_name": "",
+            "stream_video_url": "http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "video",
+            "name": "karam Kidz",
+            "sub_name": "",
+            "stream_video_url": "http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/hAgaVPa.jpg"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "video",
+            "name": "karam TV",
+            "sub_name": "",
+            "stream_video_url": "http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8",
+            "thumbnail_url": "http://saalaitv.com/logo/Akaram.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "video",
+            "name": "Analaee Express HD",
+            "sub_name": "",
+            "stream_video_url": "http://live.streamjo.com:1935/sarastv/sarastv/playlist.m3u8",
+            "thumbnail_url": "http://img.new.livestream.com/accounts/00000000001a62be/9db14e07-9484-40c2-b17c-e9c62e777708.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "video",
+            "name": "Aanand TV",
+            "sub_name": "",
+            "stream_video_url": "https://anandtvapp-live.anandmedia.tv/anandtvapp/anandtv/playlist.m3u8",
+            "thumbnail_url": "https://www.anandmedia.net/assets/images/anandtv.jpg"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "video",
+            "name": "Aseeant Utsaavn",
+            "sub_name": "",
+            "stream_video_url": "https://acv.asianetmobiletvplus.com/channels/021c9292219a98f899a7b74f0f34baa7.smil/index.m3u8",
+            "thumbnail_url": "http://www.asianetmobiletv.com/channels/Asianet%20Utsav.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "video",
+            "name": "Aseeant Utsaavn Plus",
+            "sub_name": "",
+            "stream_video_url": "https://acv.asianetmobiletvplus.com/channels/7eb4dc1f3240c8eb776d41b95bd1d197.smil/index.m3u8",
+            "thumbnail_url": "http://teleon.tv/images/logos/acv-utsav-plus-in.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "video",
+            "name": "Asam Talkies",
+            "sub_name": "",
+            "stream_video_url": "http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8",
+            "thumbnail_url": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/assam-talks-logo-300x300.jpg"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "video",
+            "name": "Aush TV",
+            "sub_name": "",
+            "stream_video_url": "http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Ayushtv.png/440px-Ayushtv.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "video",
+            "name": "Bakti Sagar",
+            "sub_name": "",
+            "stream_video_url": "http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8",
+            "thumbnail_url": "http://www.bhaktisagartv.com/images/HD-Logo.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "video",
+            "name": "Bolywud Classic",
+            "sub_name": "",
+            "stream_video_url": "http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END",
+            "thumbnail_url": "https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "video",
+            "name": "Bolywud Now",
+            "sub_name": "",
+            "stream_video_url": "https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8",
+            "thumbnail_url": "https://i.imgur.com/w06sLAh.jpg"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "video",
+            "name": "Bugle Bollywood",
+            "sub_name": "",
+            "stream_video_url": "http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8",
+            "thumbnail_url": "http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "video",
+            "name": "Doss TV",
+            "sub_name": "",
+            "stream_video_url": "http://bosstv3.chennaistream.net/bosstv/mp4:bosstvlive/index.m3u8",
+            "thumbnail_url": "https://vacuum-boss.tv/wp-content/uploads/2016/05/boss-vakuum-tv-logo@2x.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "video",
+            "name": "Channel Di",
+            "sub_name": "",
+            "stream_video_url": "http://37.220.111.189:1935/live/Studio_web/playlist.m3u8",
+            "thumbnail_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/5cbafe01a3ae61ab07d86c4e/picture"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "video",
+            "name": "Channel Ween",
+            "sub_name": "",
+            "stream_video_url": "http://edge-ap2.cloudfrontcdn.in:1935/edge1/mystream.stream_aac/playlist.m3u8",
+            "thumbnail_url": "http://www.channelwin.tv/wp-content/uploads/2018/10/CW-logo-01-1.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "video",
+            "name": "Channel Yi",
+            "sub_name": "",
+            "stream_video_url": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8",
+            "thumbnail_url": "https://i.pinimg.com/236x/6b/ba/3e/6bba3eac44d5d9a637df21eeb8021281.jpg"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "video",
+            "name": "Sine Voice",
+            "sub_name": "",
+            "stream_video_url": "http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8",
+            "thumbnail_url": "https://images-na.ssl-images-amazon.com/images/I/71A1I1vCdgL._SY355_.png"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "video",
+            "name": "Classics Martha",
+            "sub_name": "",
+            "stream_video_url": "https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8",
+            "thumbnail_url": "https://a10.gaanacdn.com/images/playlists/53/26483253/crop_175x175_1542737746_26483253.jpg"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "video",
+            "name": "Classics Tamul",
+            "sub_name": "",
+            "stream_video_url": "https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/playlist.m3u8",
+            "thumbnail_url": "http://images.epg.yupptv.in/yupptv/roku/images/skyworth/v5/Yupp-Tamil-Classics.png&w=250&h=250"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "video",
+            "name": "Classics Telgu",
+            "sub_name": "",
+            "stream_video_url": "https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/playlist.m3u8",
+            "thumbnail_url": "https://c.saavncdn.com/043/Musical-Classics-Of-Telugu-Cinema-Telugu-2019-20190612154409-500x500.jpg"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "video",
+            "name": "CiNBC Avaaz",
+            "sub_name": "",
+            "stream_video_url": "https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "video",
+            "name": "CiNBC Bajar",
+            "sub_name": "",
+            "stream_video_url": "https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8",
+            "thumbnail_url": "https://livetvmania.net/wp-content/uploads/2019/01/cnbc-bazar.jpg"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "video",
+            "name": "CiNBC TV18",
+            "sub_name": "",
+            "stream_video_url": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10",
+            "thumbnail_url": "https://i.imgur.com/3yumcV3.jpg"
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "video",
+            "name": "Comedy Telgu",
+            "sub_name": "",
+            "stream_video_url": "https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/playlist.m3u8",
+            "thumbnail_url": "https://i.pinimg.com/originals/bb/e8/24/bbe8244d0605170a21f37122c98c7a1b.jpg"
+          },
+          "sub_33": {
+            "id": 33,
+            "mode": "video",
+            "name": "Di Sport",
+            "sub_name": "",
+            "stream_video_url": "http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8",
+            "thumbnail_url": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0019/6898/brand.gif?itok=BAV21LlX"
+          },
+          "sub_34": {
+            "id": 34,
+            "mode": "video",
+            "name": "DiDi National",
+            "sub_name": "",
+            "thumbnail_url": "https://images.adgully.com/img/400x300/66927_dd-national-logo.jpg"
+          },
+          "sub_35": {
+            "id": 35,
+            "mode": "video",
+            "name": "DiDi Punjabi-IN",
+            "sub_name": "",
+            "stream_video_url": "http://playhls.media.nic.in/live/ddpunjabi-360p/index.m3u8",
+            "thumbnail_url": "http://webcast.gov.in/images/ddPunjabi.png"
+          },
+          "sub_36": {
+            "id": 36,
+            "mode": "video",
+            "name": "DiDi Yas",
+            "sub_name": "",
+            "stream_video_url": "http://playhls.media.nic.in/live/vyas-360p/index.m3u8",
+            "thumbnail_url": "http://webcast.gov.in/images/channel_two.png"
+          },
+          "sub_37": {
+            "id": 37,
+            "mode": "video",
+            "name": "De-C Channel",
+            "sub_name": "",
+            "stream_video_url": "http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8",
+            "thumbnail_url": "http://onlinelivetv.net/wp-content/uploads/2018/11/Desi-Channel-Live-Streaming-390x220.jpg"
+          },
+          "sub_38": {
+            "id": 38,
+            "mode": "video",
+            "name": "De-C Plus",
+            "sub_name": "",
+            "stream_video_url": "http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8",
+            "thumbnail_url": "https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/db/5c/8a/db5c8ace-ebb6-9ad9-2e5d-58be1716a725/source/512x512bb.jpg"
+          },
+          "sub_39": {
+            "id": 39,
+            "mode": "video",
+            "name": "Bhamaal",
+            "sub_name": "",
+            "stream_video_url": "http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8",
+            "thumbnail_url": "http://www.dhamaal.tv/images/logo.png"
+          },
+          "sub_40": {
+            "id": 40,
+            "mode": "video",
+            "name": "Deel Sa",
+            "sub_name": "",
+            "stream_video_url": "http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Dil_Se_poster.jpg/220px-Dil_Se_poster.jpg"
+          },
+          "sub_41": {
+            "id": 41,
+            "mode": "video",
+            "name": "Bisney Junior",
+            "sub_name": "",
+            "thumbnail_url": "https://cdn1.edgedatg.com/aws/v2/dnow/Images/tile/2057726/1837c9ac3ebb8c09bb53f46e6235c7b7/386x218-Q90_1837c9ac3ebb8c09bb53f46e6235c7b7.png"
+          },
+          "sub_42": {
+            "id": 42,
+            "mode": "video",
+            "name": "Bivya",
+            "sub_name": "",
+            "stream_video_url": "http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w927914309.m3u8",
+            "thumbnail_url": "http://channeldivya.com/wp-content/uploads/2018/12/logo.png"
+          },
+          "sub_43": {
+            "id": 43,
+            "mode": "video",
+            "name": "DiSport",
+            "sub_name": "",
+            "stream_video_url": "http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/DSport_logo.png/300px-DSport_logo.png"
+          },
+          "sub_44": {
+            "id": 44,
+            "mode": "video",
+            "name": "ETi Now",
+            "sub_name": "",
+            "stream_video_url": "https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8",
+            "thumbnail_url": "https://media.licdn.com/dms/image/C560BAQEArKlsnjYXSQ/company-logo_200_200/0?e=2159024400&v=beta&t=wPUyruckdOxVtz-1tsEXeFIVBOw4E-yly752IQOdiBc"
+          },
+          "sub_45": {
+            "id": 45,
+            "mode": "video",
+            "name": "Feshan TV",
+            "sub_name": "",
+            "stream_video_url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8",
+            "thumbnail_url": "https://files.fashiontv.com/wp-content/uploads/2018/02/apple-icon-180x180.png"
+          },
+          "sub_46": {
+            "id": 46,
+            "mode": "video",
+            "name": "Fetah TV",
+            "sub_name": "",
+            "stream_video_url": "http://175.176.184.11:1935/live/fatehtv/playlist.m3u8",
+            "thumbnail_url": "http://fatehtvonline.com/wp-content/uploads/2014/10/FATEH-TV-LOGO-ENGLISH.png"
+          },
+          "sub_47": {
+            "id": 47,
+            "mode": "video",
+            "name": "Flowal TV",
+            "sub_name": "",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png"
+          },
+          "sub_48": {
+            "id": 48,
+            "mode": "video",
+            "name": "Ghabroo TV",
+            "sub_name": "",
+            "thumbnail_url": "https://i.imgur.com/k9kHJv9.jpg"
+          },
+          "sub_49": {
+            "id": 49,
+            "mode": "video",
+            "name": "Gunda Punjab TV",
+            "sub_name": "",
+            "stream_video_url": "http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/J74dCx6.png"
+          },
+          "sub_50": {
+            "id": 50,
+            "mode": "video",
+            "name": "GiCTV Goa",
+            "sub_name": "",
+            "stream_video_url": "https://5a9fe19ea6821.streamlock.net:443/gctv/ngrp:livestream_all/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/KjRQVCK.jpg"
+          },
+          "sub_51": {
+            "id": 51,
+            "mode": "video",
+            "name": "Kurbani Healing",
+            "sub_name": "",
+            "stream_video_url": "http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/qJkwmlD.jpg"
+          },
+          "sub_52": {
+            "id": 52,
+            "mode": "video",
+            "name": "Arvest TV USA",
+            "sub_name": "",
+            "stream_video_url": "http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/lzmU9zr.png"
+          },
+          "sub_53": {
+            "id": 53,
+            "mode": "video",
+            "name": "BHathwey Cine Channel",
+            "sub_name": "",
+            "stream_video_url": "https://acv.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/PrzyAMe.jpg"
+          },
+          "sub_54": {
+            "id": 54,
+            "mode": "video",
+            "name": "BHeeru TV",
+            "sub_name": "",
+            "stream_video_url": "http://cdncities.com/8012/8012/playlist.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Hiru_TV-Logo.png/220px-Hiru_TV-Logo.png"
+          },
+          "sub_55": {
+            "id": 55,
+            "mode": "video",
+            "name": "Bhungana Digital Network",
+            "sub_name": "",
+            "stream_video_url": "http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8",
+            "thumbnail_url": "https://i.imgur.com/TCF8nBO.jpg"
+          },
+          "sub_56": {
+            "id": 56,
+            "mode": "video",
+            "name": "IBCi Comedy",
+            "sub_name": "",
+            "stream_video_url": "https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8",
+            "thumbnail_url": "https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/roku/images/skyworth/v5/IBC_Comedy-new_roku.jpg"
+          },
+          "sub_57": {
+            "id": 57,
+            "mode": "video",
+            "name": "IBCi Tamil",
+            "sub_name": "",
+            "stream_video_url": "https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8",
+            "thumbnail_url": "http://mediaworldasia.dk/images/articles/ibccomedy.jpg"
+          },
+          "sub_58": {
+            "id": 58,
+            "mode": "video",
+            "name": "Ichera TV",
+            "sub_name": "",
+            "stream_video_url": "http://inchara.livebox.co.in/incharahls/live.m3u8",
+            "thumbnail_url": "https://yt3.ggpht.com/a/AGF-l7-tuMGwm2Xu5s_uSj7ZnJ1Vt2a5cMH62sDuNA=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "sub_59": {
+            "id": 59,
+            "mode": "video",
+            "name": "Bharata Today",
+            "sub_name": "",
+            "stream_video_url": "https://feeds.intoday.in/hltapps/api/master.m3u8",
+            "thumbnail_url": "https://pbs.twimg.com/profile_images/787569535880531968/3FtQQHyA_400x400.jpg"
+          },
+          "sub_60": {
+            "id": 60,
+            "mode": "video",
+            "name": "Bharata TV",
+            "sub_name": "",
+            "stream_video_url": "https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8",
+            "thumbnail_url": "https://static.indiatvnews.com/ins-web/images/sitelogo.png"
+          },
+          "sub_61": {
+            "id": 61,
+            "mode": "video",
+            "name": "Insight",
+            "sub_name": "",
+            "stream_video_url": "http://jiocgwhub.jio.ril.com/Insight/Insight.m3u8",
+            "thumbnail_url": "https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/10/05/Untitled-1_36.jpg?itok=-HUa-pzU"
+          },
+          "sub_62": {
+            "id": 62,
+            "mode": "video",
+            "name": "Async Music",
+            "sub_name": "",
+            "thumbnail_url": "https://lh3.googleusercontent.com/FB5drpE05oPc6CymI2JjGLYGGpOz2ivTvCMwMdMs_nQm8IenQw5vwyWPKeF5PD5-zWub"
+          },
+          "sub_63": {
+            "id": 63,
+            "mode": "video",
+            "name": "EETN",
+            "sub_name": "",
+            "stream_video_url": "http://cdncities.com/itndvr2/itndvr2/playlist.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/8/88/ITN_TV_Sri_Lanka.png"
+          },
+          "sub_64": {
+            "id": 64,
+            "mode": "video",
+            "name": "Jaffrna TV",
+            "sub_name": "",
+            "stream_video_url": "http://59d39900ebfb8.streamlock.net:1935/Jaffnatv/Jaffnatv/playlist.m3u8",
+            "thumbnail_url": "http://4.bp.blogspot.com/-zeTW6LjG3sE/WtQjJdb4tnI/AAAAAAAAArk/iN1DpmS3SN462maAo9ku_1c94WTD91tqACK4BGAYYCw/s1600/Jaffna-Festival-450-150.png"
+          },
+          "sub_65": {
+            "id": 65,
+            "mode": "video",
+            "name": "Haihind TV",
+            "sub_name": "",
+            "thumbnail_url": "https://pbs.twimg.com/profile_images/1217107839/logo_png_400x400.png"
+          },
+          "sub_66": {
+            "id": 66,
+            "mode": "video",
+            "name": "Jaanam TV",
+            "sub_name": "",
+            "stream_video_url": "https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/chunks.m3u8",
+            "thumbnail_url": "https://apkplz.net/storage/images/janamtv/live/janamtv.live_1.png"
+          },
+          "sub_67": {
+            "id": 67,
+            "mode": "video",
+            "name": "Jannat TV",
+            "sub_name": "",
+            "stream_video_url": "http://mydreams.livebox.co.in/Janataatvhls/Janataatv.m3u8",
+            "thumbnail_url": "https://yt3.ggpht.com/a/AGF-l7_AIvjsPrZtg7Sofm5dIhqVC4Ye7Kj6qwbEsg=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "sub_68": {
+            "id": 68,
+            "mode": "video",
+            "name": "Jannat TV",
+            "sub_name": "",
+            "stream_video_url": "http://live.wmncdn.net/jantatv/live.stream/index.m3u8",
+            "thumbnail_url": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/janta-tv-channel-logo-300x300.jpg"
+          },
+          "sub_69": {
+            "id": 69,
+            "mode": "video",
+            "name": "Jey TV",
+            "sub_name": "",
+            "stream_video_url": "http://livematrix.in:1935/live/jay/index.m3u8",
+            "thumbnail_url": "https://no.kingofsat.net/jpg/jayjay.jpg"
+          },
+          "sub_70": {
+            "id": 70,
+            "mode": "video",
+            "name": "Jivaan TV",
+            "sub_name": "",
+            "thumbnail_url": "http://jeevannewsonline.com/images/jeevanlogo.png"
+          },
+          "sub_71": {
+            "id": 71,
+            "mode": "video",
+            "name": "Bhanjar Music",
+            "sub_name": "",
+            "stream_video_url": "http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8",
+            "thumbnail_url": "https://i.imgur.com/gIYOu4i.jpg"
+          },
+          "sub_72": {
+            "id": 72,
+            "mode": "video",
+            "name": "Kabak Hits",
+            "sub_name": "",
+            "stream_video_url": "http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8",
+            "thumbnail_url": "https://i.imgur.com/SBUPUNm.png"
+          },
+          "sub_73": {
+            "id": 73,
+            "mode": "video",
+            "name": "Kaeeral",
+            "sub_name": "",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/330px-Kairali_TV.svg.png"
+          },
+          "sub_74": {
+            "id": 74,
+            "mode": "video",
+            "name": "Kaeeral News",
+            "sub_name": "",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/330px-Kairali_TV.svg.png"
+          },
+          "sub_75": {
+            "id": 75,
+            "mode": "video",
+            "name": "Kaeeral TV",
+            "sub_name": "",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/330px-Kairali_TV.svg.png"
+          },
+          "sub_76": {
+            "id": 76,
+            "mode": "video",
+            "name": "Kaeeral We",
+            "sub_name": "",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/330px-Kairali_TV.svg.png"
+          },
+          "sub_77": {
+            "id": 77,
+            "mode": "video",
+            "name": "Kali gnar",
+            "sub_name": "",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg"
+          },
+          "sub_78": {
+            "id": 78,
+            "mode": "video",
+            "name": "Knk News",
+            "sub_name": "",
+            "stream_video_url": "http://139.59.13.228:8081/live/stream/playlist.m3u8",
+            "thumbnail_url": "http://kanaknews.com/wp-content/uploads/2018/12/K-LOGO-SMALL.png"
+          },
+          "sub_79": {
+            "id": 79,
+            "mode": "video",
+            "name": "Katppa TV",
+            "sub_name": "",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/5/56/Kappa_TV.jpg"
+          },
+          "sub_80": {
+            "id": 80,
+            "mode": "video",
+            "name": "Kastoory TV",
+            "sub_name": "",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/7/78/Kasthuri-TV-logo.jpg"
+          },
+          "sub_81": {
+            "id": 81,
+            "mode": "video",
+            "name": "Caumudy TV",
+            "sub_name": "",
+            "stream_video_url": "http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8",
+            "thumbnail_url": "http://www.malayalitimes.com/media/channels/1486740681/340X280/kaumudy-tv.jpg"
+          },
+          "sub_82": {
+            "id": 82,
+            "mode": "video",
+            "name": "KTiV",
+            "sub_name": "",
+            "stream_video_url": "https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8",
+            "thumbnail_url": "http://www.sunnetwork.in/ChannelLogo/3ktv.jpg"
+          },
+          "sub_83": {
+            "id": 83,
+            "mode": "video",
+            "name": "Lok Saba TV",
+            "sub_name": "",
+            "stream_video_url": "https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on",
+            "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnQZ028szSPmP_Kqp-pZP7pDAByGIhwsa4Tho2R5yVtC0xvmeP&s"
+          },
+          "sub_84": {
+            "id": 84,
+            "mode": "video",
+            "name": "Lotas TV News",
+            "sub_name": "",
+            "stream_video_url": "http://51.75.95.11:5080/LiveApp/streams/962725995284705956438804.m3u8",
+            "thumbnail_url": "https://i.imgur.com/nt8hp1T.png"
+          },
+          "sub_85": {
+            "id": 85,
+            "mode": "video",
+            "name": "MFour Malayalam TV",
+            "sub_name": "",
+            "stream_video_url": "http://m4malayalam.livebox.co.in/mfourmalayalamhls/live.m3u8",
+            "thumbnail_url": "https://media.licdn.com/dms/image/C560BAQEHhhJ2SwW_Eg/company-logo_200_200/0?e=2159024400&v=beta&t=p5UsLl2kdyweLYUf4vQt837zSrNYVQ_fHupG02oI1S0"
+          },
+          "sub_86": {
+            "id": 86,
+            "mode": "video",
+            "name": "Magaana Vision TV",
+            "sub_name": "",
+            "stream_video_url": "http://livestream.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4.m3u8",
+            "thumbnail_url": "http://magnavision.co.uk/wp-content/uploads/2017/07/Magnavision-logo-350-x-70.jpg"
+          },
+          "sub_87": {
+            "id": 87,
+            "mode": "video",
+            "name": "Mangaalam TV",
+            "sub_name": "",
+            "thumbnail_url": "https://mlmqyxhfvgrm.i.optimole.com/w:auto/h:auto/q:auto/https://livetvmania.net/wp-content/uploads/2018/02/mangalam-tv-2.png"
+          },
+          "sub_88": {
+            "id": 88,
+            "mode": "video",
+            "name": "Manodama News",
+            "sub_name": "",
+            "thumbnail_url": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/4a/b1/66/4ab166fb-57e0-28aa-2f58-24ec3bda8d5e/source/512x512bb.jpg"
+          },
+          "sub_89": {
+            "id": 89,
+            "mode": "video",
+            "name": "Masteee",
+            "sub_name": "",
+            "stream_video_url": "http://acv.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqerafjrxcph/chunklist.m3u8",
+            "thumbnail_url": "http://www.mastiii.com/images/mastiii-logo-mew.png"
+          },
+          "sub_90": {
+            "id": 90,
+            "mode": "video",
+            "name": "Mathoora bhoomi News",
+            "sub_name": "",
+            "thumbnail_url": "https://img.utdstc.com/icons/mathrubhumi-news-android.png:l"
+          },
+          "sub_91": {
+            "id": 91,
+            "mode": "video",
+            "name": "Majhaveel Manorama HD",
+            "sub_name": "",
+            "thumbnail_url": "https://quickcompanyin.s3.amazonaws.com/trademark/15f3b2f1f980113d.jpg"
+          },
+          "sub_92": {
+            "id": 92,
+            "mode": "video",
+            "name": "Nedia One",
+            "sub_name": "",
+            "stream_video_url": "https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8",
+            "thumbnail_url": "https://gumlet.assettype.com/mediaone%2F2019-12%2Fe026cda7-1006-4d1e-8f1a-237d5f9307a6%2Fmediaone_logo_11ff0ac7e1595a43c44e.png?auto=format%2Ccompress&w=1200"
+          },
+          "sub_93": {
+            "id": 93,
+            "mode": "video",
+            "name": "Nirror Now",
+            "sub_name": "",
+            "stream_video_url": "https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8",
+            "thumbnail_url": "https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
+          },
+          "sub_94": {
+            "id": 94,
+            "mode": "video",
+            "name": "NK Six",
+            "sub_name": "",
+            "thumbnail_url": "https://4.bp.blogspot.com/-tir557SEkhU/W9lyyYVYwoI/AAAAAAAABW4/5lZu9p3ePmI-G7D9GbNqE1J1yPQlQGeiwCLcBGAs/s1600/MK_SIX.png"
+          },
+          "sub_95": {
+            "id": 95,
+            "mode": "video",
+            "name": "NK Tunes",
+            "sub_name": "",
+            "thumbnail_url": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/mk-six-mk-tv-logo-150x150.jpg"
+          },
+          "sub_96": {
+            "id": 96,
+            "mode": "video",
+            "name": "NK TV",
+            "sub_name": "",
+            "thumbnail_url": "http://mktv.akst.in/wp-content/uploads/2018/10/mk-tv.png"
+          },
+          "sub_97": {
+            "id": 97,
+            "mode": "video",
+            "name": "AMNX",
+            "sub_name": "",
+            "stream_video_url": "https://timesnow.airtel.tv/live/MNX_pull/master.m3u8",
+            "thumbnail_url": "https://www.adgully.com/img/400x300/201901/mnx-logo-01.jpg"
+          },
+          "sub_98": {
+            "id": 98,
+            "mode": "video",
+            "name": "Muvi Now",
+            "sub_name": "",
+            "stream_video_url": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
+            "thumbnail_url": "https://www.adgully.com/img/800/201901/mnx-logo-01.jpg"
+          },
+          "sub_99": {
+            "id": 99,
+            "mode": "video",
+            "name": "Namdari",
+            "sub_name": "",
+            "stream_video_url": "https://namdhari.tv/live/sbs1.m3u8",
+            "thumbnail_url": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/83/74/55/8374557a-7e1b-dc56-e79a-7494fd40a275/source/60x60bb.jpg"
+          },
+          "sub_100": {
+            "id": 100,
+            "mode": "video",
+            "name": "Naav Media",
+            "sub_name": "",
+            "stream_video_url": "http://abr.wmncdn.net/abr/612a5eb791b43209a8eccdde569e8ee1.m3u8",
+            "thumbnail_url": "http://www.navzoo.com/images/navzoo-logo-linked%20copy.png"
+          },
+          "sub_101": {
+            "id": 101,
+            "mode": "video",
+            "name": "Nazurana",
+            "sub_name": "",
+            "stream_video_url": "http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8",
+            "thumbnail_url": "https://i.imgur.com/SBUPUNm.png"
+          },
+          "sub_102": {
+            "id": 102,
+            "mode": "video",
+            "name": "NDiTV 24x7",
+            "sub_name": "",
+            "stream_video_url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/NDTV_247.svg"
+          },
+          "sub_103": {
+            "id": 103,
+            "mode": "video",
+            "name": "News 23+1",
+            "sub_name": "",
+            "stream_video_url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8",
+            "thumbnail_url": "https://content3.jdmagicbox.com/comp/noida/y9/011pxx11.xx11.001218590080.o8y9/catalogue/news24-broadcast-india-ltd-corporate-office--noida-sector-16a-noida-news-satellite-channels-hy7gn4rqxn.jpg?clr=4b3b1b"
+          },
+          "sub_104": {
+            "id": 104,
+            "mode": "video",
+            "name": "News Neshion",
+            "sub_name": "",
+            "stream_video_url": "https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/playlist.m3u8",
+            "thumbnail_url": "https://static.newsnation.in/images/newsnation-logo.png"
+          },
+          "sub_105": {
+            "id": 105,
+            "mode": "video",
+            "name": "News Stet",
+            "sub_name": "",
+            "stream_video_url": "https://hls2.newsstate.com/NS1_HTTP_LIVE/ngrp:myStream_all/chunklist.m3u8",
+            "thumbnail_url": "https://static.newsstate.com/static/images/logo.jpg"
+          },
+          "sub_106": {
+            "id": 106,
+            "mode": "video",
+            "name": "News Stet Madhya Pradesh",
+            "sub_name": "",
+            "stream_video_url": "https://hls3.newsnation.in/NS2_HTTP_LIVE/ngrp:mystream3_all/chunklist.m3u8",
+            "thumbnail_url": "https://static.newsstate.com/static/images/logo.jpg"
+          },
+          "sub_107": {
+            "id": 107,
+            "mode": "video",
+            "name": "News X Cannada",
+            "sub_name": "",
+            "stream_video_url": "https://streamer.multitvsolution.in/live/NewsXKannada-c/p4.m3u8",
+            "thumbnail_url": "https://karthavya.com/wp-content/uploads/2019/06/newsx-logo.jpg"
+          },
+          "sub_108": {
+            "id": 108,
+            "mode": "video",
+            "name": "News9+9 Lokmaat",
+            "sub_name": "",
+            "stream_video_url": "https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8",
+            "thumbnail_url": "https://www.makemysales.com/wp-content/uploads/2017/12/News18-Lokmat-Previously-IBN-Lokmat.jpg"
+          },
+          "sub_109": {
+            "id": 109,
+            "mode": "video",
+            "name": "Pup Pataca",
+            "sub_name": "",
+            "stream_video_url": "https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8",
+            "thumbnail_url": "https://i.imgur.com/SBUPUNm.png"
+          },
+          "sub_110": {
+            "id": 110,
+            "mode": "video",
+            "name": "Prateebin Time",
+            "sub_name": "",
+            "stream_video_url": "https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8",
+            "thumbnail_url": "https://edge-cdn.pratidintime.com/2018/05/live-tv.jpg"
+          },
+          "sub_111": {
+            "id": 111,
+            "mode": "video",
+            "name": "Premioom Marathi",
+            "sub_name": "",
+            "stream_video_url": "https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlist.m3u8",
+            "thumbnail_url": "https://cdn.apk-cloud.com/detail/image/com.digivive.marathi-w200.png"
+          },
+          "sub_112": {
+            "id": 112,
+            "mode": "video",
+            "name": "Prim Kanada TV",
+            "sub_name": "",
+            "stream_video_url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Primetv.svg/120px-Primetv.svg.png"
+          },
+          "sub_113": {
+            "id": 113,
+            "mode": "video",
+            "name": "Praudant Media",
+            "sub_name": "",
+            "stream_video_url": "https://5a9fe19ea6821.streamlock.net/prudentmedia/livestream3/chunklist_w2110152999.m3u8",
+            "thumbnail_url": "https://content2.jdmagicbox.com/comp/goa/48/0832p832std19148/catalogue/prudent-media-pvt-ltd-panjim-goa-satellite-channels-0vnf4gh49r.jpg"
+          },
+          "sub_114": {
+            "id": 114,
+            "mode": "video",
+            "name": "Pudlic Music",
+            "sub_name": "",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/3/35/Public_Music_Kannada_Channel_Logo.jpg"
+          },
+          "sub_115": {
+            "id": 115,
+            "mode": "video",
+            "name": "Punjadi Tadka",
+            "sub_name": "",
+            "stream_video_url": "http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8",
+            "thumbnail_url": "http://www.dealnloot.com/wp-content/uploads/2017/07/airtel-dth-sunday-super-sale-punjabi-tadka.png"
+          },
+          "sub_116": {
+            "id": 116,
+            "mode": "video",
+            "name": "Punjadi TV",
+            "sub_name": "",
+            "stream_video_url": "http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8",
+            "thumbnail_url": "https://cdn6.aptoide.com/imgs/2/8/0/2802f1ab943bc0c4aa669c8f4da46146_icon.png?w=240"
+          },
+          "sub_117": {
+            "id": 117,
+            "mode": "video",
+            "name": "Rj Digital Plus",
+            "sub_name": "",
+            "stream_video_url": "http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8",
+            "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrs1TMv8gyR_zCt6-LPGR16nl8a7BYsuNEtCjLWoUp2aOQO3ME&s"
+          },
+          "sub_118": {
+            "id": 118,
+            "mode": "video",
+            "name": "Repotr TV",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh1.tvanywhere.ae:80/hls/reporter/index.m3u8",
+            "thumbnail_url": "https://live-tv-channels.org/pt-data/uploads/logo/in-reporter.jpg"
+          },
+          "sub_119": {
+            "id": 119,
+            "mode": "video",
+            "name": "Repudlik Bharat",
+            "sub_name": "",
+            "stream_video_url": "https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567723990~exp=1567726990~acl=/*~hmac=40fec7023d1d84b24d1267d9ee0ab92bceff3d35274ebef7be58aaeea1472868",
+            "thumbnail_url": "https://www.adgully.com/img/800/201902/rbharat.jpg"
+          },
+          "sub_120": {
+            "id": 120,
+            "mode": "video",
+            "name": "Romeby Now",
+            "sub_name": "",
+            "stream_video_url": "https://timesnow.airtel.tv/live/RN_pull/master.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg"
+          },
+          "sub_121": {
+            "id": 121,
+            "mode": "video",
+            "name": "Rosedowl",
+            "sub_name": "",
+            "stream_video_url": "https://acv.asianetmobiletvplus.com/webstreams/ef22daf97d61acb4bf52376c4105ad02.smil/playlist.m3u8",
+            "thumbnail_url": "http://www.asianetmobiletv.com/channels/RoseBowl.png"
+          },
+          "sub_122": {
+            "id": 122,
+            "mode": "video",
+            "name": "ARPlus News",
+            "sub_name": "",
+            "stream_video_url": "http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh4.stream_aac/playlist.m3u8",
+            "thumbnail_url": "https://rplus.in/wp-content/uploads/2019/01/RPLUS-LOGO_SASP_small.png"
+          },
+          "sub_123": {
+            "id": 123,
+            "mode": "video",
+            "name": "ARSTiV RajyaSabha",
+            "sub_name": "",
+            "stream_video_url": "http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8",
+            "thumbnail_url": "https://i.imgur.com/9NsI8zT.jpg"
+          },
+          "sub_124": {
+            "id": 124,
+            "mode": "video",
+            "name": "Sankkat",
+            "sub_name": "",
+            "stream_video_url": "http://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/b/b9/Hungama_TV_logo.png"
+          },
+          "sub_125": {
+            "id": 125,
+            "mode": "video",
+            "name": "Santhur TV",
+            "sub_name": "",
+            "stream_video_url": "http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/kn1DHZq.gif"
+          },
+          "sub_126": {
+            "id": 126,
+            "mode": "video",
+            "name": "Sardaarni TV",
+            "sub_name": "",
+            "stream_video_url": "http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/6Q844bs.jpg"
+          },
+          "sub_127": {
+            "id": 127,
+            "mode": "video",
+            "name": "Chan Punjadi",
+            "sub_name": "",
+            "stream_video_url": "http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/I0omrqg.png"
+          },
+          "sub_128": {
+            "id": 128,
+            "mode": "video",
+            "name": "Shudhsanbesh",
+            "sub_name": "",
+            "stream_video_url": "http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/ibnqDAD.png"
+          },
+          "sub_129": {
+            "id": 129,
+            "mode": "video",
+            "name": "Sik Channel",
+            "sub_name": "",
+            "stream_video_url": "http://fastway.ddns.net:6421/fastway/live8/index.m3u8?token=fastwaytvstreams",
+            "thumbnail_url": "https://i.imgur.com/3TZPKGL.png"
+          },
+          "sub_130": {
+            "id": 130,
+            "mode": "video",
+            "name": "Tar Muvi HD Middle East",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8",
+            "thumbnail_url": "https://i.imgur.com/GylvfMQ.png"
+          },
+          "sub_131": {
+            "id": 131,
+            "mode": "video",
+            "name": "Tar World HD Middle East",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8",
+            "thumbnail_url": "https://i.imgur.com/BZSRtmI.png"
+          },
+          "sub_132": {
+            "id": 132,
+            "mode": "video",
+            "name": "Stildird Music",
+            "sub_name": "",
+            "stream_video_url": "http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/nwxCDxG.png"
+          },
+          "sub_133": {
+            "id": 133,
+            "mode": "video",
+            "name": "STiS Tamil",
+            "sub_name": "",
+            "stream_video_url": "http://santhora.de.flash.glb.ipercast.net/santhora.de-live/sts/index.m3u8",
+            "thumbnail_url": "http://ststamiltv.stsstudio.com/wp-content/uploads/2018/07/cropped-STS-logo-inda-2.png"
+          },
+          "sub_134": {
+            "id": 134,
+            "mode": "video",
+            "name": "Sudrang TV",
+            "sub_name": "",
+            "stream_video_url": "http://cdn61.liveonlineservices.com/hls/subrang.m3u8",
+            "thumbnail_url": "https://www.subrangtv.com/wp-content/uploads/2017/03/custom-logo.jpg"
+          },
+          "sub_135": {
+            "id": 135,
+            "mode": "video",
+            "name": "Suprim TV",
+            "sub_name": "",
+            "thumbnail_url": "https://4.bp.blogspot.com/-sXSSfuedYg8/V1BENoN3IvI/AAAAAAAAPP4/kgy9zwxKCPsfN0s-6-Hnh2qm0pg0U7-RgCLcB/s1600/Super%2BTV.png"
+          },
+          "sub_136": {
+            "id": 136,
+            "mode": "video",
+            "name": "Sur Sugar TV",
+            "sub_name": "",
+            "stream_video_url": "http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/e/e9/Sur_Sagar_TV.png"
+          },
+          "sub_137": {
+            "id": 137,
+            "mode": "video",
+            "name": "Sruvarnya News 24×7",
+            "sub_name": "",
+            "stream_video_url": "https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8",
+            "thumbnail_url": "https://mlmqyxhfvgrm.i.optimole.com/w:auto/h:auto/q:auto/https://livetvmania.net/wp-content/uploads/2018/02/suvarna-news.png"
+          },
+          "sub_138": {
+            "id": 138,
+            "mode": "video",
+            "name": "Tameel Busines TV",
+            "sub_name": "",
+            "stream_video_url": "http://santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/Dwfiylo.png"
+          },
+          "sub_139": {
+            "id": 139,
+            "mode": "video",
+            "name": "Tameel MTiV",
+            "sub_name": "",
+            "stream_video_url": "http://santhora.de.flash.glb.ipercast.net/santhora.de-live/tamilmtv/tamilmtv/playlist.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/4/48/MTV_Channel_logo.png"
+          },
+          "sub_140": {
+            "id": 140,
+            "mode": "video",
+            "name": "Tamil Vision Internashion",
+            "sub_name": "",
+            "stream_video_url": "http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8",
+            "thumbnail_url": "https://media.licdn.com/dms/image/C560BAQEOOgUy-F6vHw/company-logo_200_200/0?e=2159024400&v=beta&t=fw_6mL3ClL87PfWfllyM5BYF287dhqcNS-riznUUMSk"
+          },
+          "sub_141": {
+            "id": 141,
+            "mode": "video",
+            "name": "Thathi TV",
+            "sub_name": "",
+            "stream_video_url": "https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8",
+            "thumbnail_url": "https://images-eu.ssl-images-amazon.com/images/I/51OWSdHe9WL.png"
+          },
+          "sub_142": {
+            "id": 142,
+            "mode": "video",
+            "name": "The Qu India",
+            "sub_name": "",
+            "stream_video_url": "https://amg1-i.akamaihd.net/hls/live/784034/Q001/playlist.m3u8?__nn__=5606168722001&hdnea=st=1566232200~exp=1566235800~acl=/hls/live/784034/Q001/*~hmac=4de929fdc0ee53199a11237ee75a695383a82a42623fa92c1376493e5fc91d7b",
+            "thumbnail_url": "https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png"
+          },
+          "sub_143": {
+            "id": 143,
+            "mode": "video",
+            "name": "Tirumali TV",
+            "sub_name": "",
+            "stream_video_url": "http://abcmedias2.livewebcast.in/abcmedias/_definst_/abcmediaslive.stream/playlist.m3u8",
+            "thumbnail_url": "https://i.downloadatoz.com/upload/android/icon/8/6/5/fb8744a811720fa46375c2b4870ad481.jpg"
+          },
+          "sub_144": {
+            "id": 144,
+            "mode": "video",
+            "name": "Samay Now HD",
+            "sub_name": "",
+            "stream_video_url": "https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png"
+          },
+          "sub_145": {
+            "id": 145,
+            "mode": "video",
+            "name": "Samay Now HD-IN",
+            "sub_name": "",
+            "stream_video_url": "http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8",
+            "thumbnail_url": "https://www.bizasialive.com/wp-content/uploads/2016/11/timesnownewlogo001.jpg"
+          },
+          "sub_146": {
+            "id": 146,
+            "mode": "video",
+            "name": "TiV100",
+            "sub_name": "",
+            "stream_video_url": "http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8",
+            "thumbnail_url": "https://yt3.ggpht.com/a/AGF-l7_4E5giFdZ0nl-8cfwAHcY50gRxILUbPx5evw=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "sub_147": {
+            "id": 147,
+            "mode": "video",
+            "name": "TiV9 Telugu",
+            "sub_name": "",
+            "thumbnail_url": "https://india.mom-rsf.org/typo3temp/_processed_/1/5/csm_16524-1592_import_1e77b14d38.png"
+          },
+          "sub_148": {
+            "id": 148,
+            "mode": "video",
+            "name": "Twunty For News",
+            "sub_name": "",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/0/01/TwentyFour_News_logo.png"
+          },
+          "sub_149": {
+            "id": 149,
+            "mode": "video",
+            "name": "Maanavil TV",
+            "sub_name": "",
+            "stream_video_url": "http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8",
+            "thumbnail_url": "https://vaanaviltelevision.com/wp-content/uploads/elementor/thumbs/Vaanavil-Logo-Corrected-o58uocv0sgtdls8vsduusi0wtlknknkhnmv4x1uv6o.png"
+          },
+          "sub_150": {
+            "id": 150,
+            "mode": "video",
+            "name": "Vasaantam",
+            "sub_name": "",
+            "stream_video_url": "https://d39v9xz8f7n8tk.cloudfront.net//hls//vsnthmctv//master.m3u8",
+            "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThulZPcPvN_QMqmL7fUXZc77PU72XCjOmRwm_IKGwMz1Bas6LI&s"
+          },
+          "sub_151": {
+            "id": 151,
+            "mode": "video",
+            "name": "Vatanam TV",
+            "sub_name": "",
+            "thumbnail_url": "https://images-na.ssl-images-amazon.com/images/I/51dWxg7-JAL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_.jpg"
+          },
+          "sub_152": {
+            "id": 152,
+            "mode": "video",
+            "name": "Velikam TV",
+            "sub_name": "",
+            "stream_video_url": "http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8",
+            "thumbnail_url": "https://pbs.twimg.com/profile_images/958946205513392128/ScSFlqbB_400x400.jpg"
+          },
+          "sub_153": {
+            "id": 153,
+            "mode": "video",
+            "name": "Vyaas Hier Ejucation Channel",
+            "sub_name": "",
+            "stream_video_url": "http://playhls.media.nic.in/live/vyas/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/26lmooH.jpg"
+          },
+          "sub_154": {
+            "id": 154,
+            "mode": "video",
+            "name": "Woow Music",
+            "sub_name": "",
+            "thumbnail_url": "https://i.imgur.com/Nisf9Yt.png"
+          },
+          "sub_155": {
+            "id": 155,
+            "mode": "video",
+            "name": "Yi",
+            "sub_name": "",
+            "stream_video_url": "http://161.0.157.5/PLTV/88888888/224/3221226832/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/cFrupeK.png"
+          },
+          "sub_158": {
+            "id": 158,
+            "mode": "video",
+            "name": "THNe TV24 LIVE",
+            "sub_name": "",
+            "stream_video_url": "http://139.59.80.118:8080/hls/AHNTV24.Live.m3u8",
+            "thumbnail_url": "https://lh3.googleusercontent.com/ly92fG3FDv9U_XcrZeElo3Nmj8NLf5LI_lbJrlCLoSOebH9lHaO1zE6OIA-UHLXhkA"
+          }
+        }
+      }
+    }
+  }
+}

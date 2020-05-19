@@ -1,0 +1,330 @@
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 5,
+        "name": "French Channels",
+        "sub_name": "Channels",
+        "thumbnail_url": "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_27,h_20/https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-france_748130.png",
+        "sub": {
+          "sub_1": {
+            "id": 1,
+            "mode": "video",
+            "name": "Alsace 20",
+            "sub_name": "",
+            "stream_video_url": "http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/150px-Alsace_20_logo_2013.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "video",
+            "name": "Arte France",
+            "sub_name": "",
+            "stream_video_url": "https://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/341px-Arte-Logo.svg.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "video",
+            "name": "BFM TV",
+            "sub_name": "",
+            "stream_video_url": "https://s1.tntendirect.com/bmftv/live/playlist.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/BFM_TV.svg/langfr-170px-BFM_TV.svg.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "video",
+            "name": "D5 TV",
+            "sub_name": "",
+            "stream_video_url": "https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8",
+            "thumbnail_url": "https://i.imgur.com/cThInij.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "video",
+            "name": "Fashion TV L'Original",
+            "sub_name": "",
+            "stream_video_url": "https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8",
+            "thumbnail_url": "https://i.imgur.com/E38ZhCz.jpg"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "video",
+            "name": "Fashion TV Midnite Secrets",
+            "sub_name": "",
+            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/auHH1Ig.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "video",
+            "name": "Fashion TV Paris",
+            "sub_name": "",
+            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/yvNu4Rm.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "video",
+            "name": "Fashion TV PG13",
+            "sub_name": "",
+            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/n6owIqv.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "video",
+            "name": "Fashion TV PG16",
+            "sub_name": "",
+            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/E38ZhCz.jpg"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "video",
+            "name": "France 24 Arabic",
+            "sub_name": "",
+            "stream_video_url": "http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/61MSiq9.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "video",
+            "name": "FRANCE 24 English",
+            "sub_name": "",
+            "stream_video_url": "http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8",
+            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/200px-FRANCE_24_logo.svg.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "video",
+            "name": "France 24 French",
+            "sub_name": "",
+            "stream_video_url": "http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/61MSiq9.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "video",
+            "name": "Francophonie",
+            "sub_name": "",
+            "stream_video_url": "http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8",
+            "thumbnail_url": "https://i.imgur.com/lvrvwtm.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "video",
+            "name": "Grand Lille TV",
+            "sub_name": "",
+            "stream_video_url": "https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/ZEA3az8.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "video",
+            "name": "Holygod TV Europe & Middle East",
+            "sub_name": "",
+            "stream_video_url": "https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebase=on",
+            "thumbnail_url": "https://i.imgur.com/tzurFum.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "video",
+            "name": "i24 News",
+            "sub_name": "",
+            "stream_video_url": "https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/pA3oGAU.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "video",
+            "name": "ILTV",
+            "sub_name": "",
+            "stream_video_url": "http://str81.creacast.com:80/iltv/high/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/gGhCEmJ.jpg"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "video",
+            "name": "KTO FR",
+            "sub_name": "",
+            "stream_video_url": "http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8",
+            "thumbnail_url": "https://i.imgur.com/LvbXFUy.jpg"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "video",
+            "name": "MYComedy",
+            "sub_name": "",
+            "stream_video_url": "http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8",
+            "thumbnail_url": "https://i.imgur.com/EgSC2QT.jpg"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "video",
+            "name": "Radio Contact",
+            "sub_name": "",
+            "stream_video_url": "http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on",
+            "thumbnail_url": "https://i.imgur.com/ekRMtra.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "video",
+            "name": "RMC",
+            "sub_name": "",
+            "stream_video_url": "https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on",
+            "thumbnail_url": "https://i.imgur.com/5Ky4Yyx.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "video",
+            "name": "RT France",
+            "sub_name": "",
+            "stream_video_url": "http://rt-france.secure.footprint.net/1107.m3u8?streamType=live",
+            "thumbnail_url": "https://i.imgur.com/gVedXRh.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "video",
+            "name": "Trace Africa",
+            "sub_name": "",
+            "stream_video_url": "https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/SUhmboG.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "video",
+            "name": "Trace Mziki",
+            "sub_name": "",
+            "stream_video_url": "http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/UOG2hKQ.png"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "video",
+            "name": "Trace Naija",
+            "sub_name": "",
+            "stream_video_url": "https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/BUQA8VB.png"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "video",
+            "name": "Trace Toca",
+            "sub_name": "",
+            "stream_video_url": "https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/vJZIrJ0.png"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "video",
+            "name": "Trace Tropical",
+            "sub_name": "",
+            "stream_video_url": "https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://i.imgur.com/MoqoYvL.png"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "video",
+            "name": "Trace Urban",
+            "sub_name": "",
+            "stream_video_url": "https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/qMYXsMH.png"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "video",
+            "name": "TV3V",
+            "sub_name": "",
+            "stream_video_url": "https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8",
+            "thumbnail_url": "https://i.imgur.com/05RMwlR.png"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "video",
+            "name": "TV5 monde",
+            "sub_name": "",
+            "stream_video_url": "http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/teamblue65/LOGO/master/TV5MONDE.png"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "video",
+            "name": "TV5 Style",
+            "sub_name": "",
+            "stream_video_url": "https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8",
+            "thumbnail_url": "https://i.imgur.com/FRP03WJ.jpg"
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "video",
+            "name": "TV5Monde Info",
+            "sub_name": "",
+            "stream_video_url": "http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8",
+            "thumbnail_url": "https://i.imgur.com/AJx5Fy2.png"
+          },
+          "sub_33": {
+            "id": 33,
+            "mode": "video",
+            "name": "TV5Monde Maghreb-Orient",
+            "sub_name": "",
+            "stream_video_url": "http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/j6ZDQAw.jpg"
+          },
+          "sub_34": {
+            "id": 34,
+            "mode": "video",
+            "name": "TV5Monde Pacifique",
+            "sub_name": "",
+            "stream_video_url": "https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8",
+            "thumbnail_url": "https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png"
+          },
+          "sub_35": {
+            "id": 35,
+            "mode": "video",
+            "name": "TV7 Colmar",
+            "sub_name": "",
+            "stream_video_url": "http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/RuFISFk.png"
+          },
+          "sub_36": {
+            "id": 36,
+            "mode": "video",
+            "name": "TV8 Montblanc FR",
+            "sub_name": "",
+            "stream_video_url": "http://www.digiclic-streaming.com:8134/hls-live/livepkgr/_definst_/liveevent/tv82.m3u8",
+            "thumbnail_url": "https://i.imgur.com/bQ0qIxF.jpg"
+          },
+          "sub_37": {
+            "id": 37,
+            "mode": "video",
+            "name": "TVPI",
+            "sub_name": "",
+            "stream_video_url": "http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8",
+            "thumbnail_url": "https://i.imgur.com/RT3pz5L.png"
+          },
+          "sub_38": {
+            "id": 38,
+            "mode": "video",
+            "name": "TVR",
+            "sub_name": "",
+            "stream_video_url": "https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8",
+            "thumbnail_url": "https://i.imgur.com/GMp9M5A.jpg"
+          },
+          "sub_39": {
+            "id": 39,
+            "mode": "video",
+            "name": "viàVosges",
+            "sub_name": "",
+            "stream_video_url": "https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8",
+            "thumbnail_url": "https://i.imgur.com/803evgT.png"
+          }
+        }
+      }
+    }
+  }
+}
