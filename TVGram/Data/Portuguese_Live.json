@@ -1,1 +1,144 @@
-{"TV_Data": {"Channel_List": {"is_channel_list": true, "is_override": true, "thumb_width": 150, "all_Channels_Tab_Name": "", "main": {"id": 0, "name": "Portuguese Channels", "sub_name": "Channels", "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-portugal_748139.png", "sub": {"sub_0": {"id": 0, "mode": "video", "name": "1 Portuguese", "sub_name": "", "stream_video_url": "https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/caca_vision_img_2833.png"}, "sub_1": {"id": 1, "mode": "video", "name": "2 Portuguese", "sub_name": "", "stream_video_url": "https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/caca_vision_img_2833.png"}, "sub_2": {"id": 2, "mode": "video", "name": "3 Portuguese", "sub_name": "", "stream_video_url": "https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/caca_vision_img_2833.png"}, "sub_3": {"id": 3, "mode": "video", "name": "4 Portuguese", "sub_name": "", "stream_video_url": "http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/kurakios_tv_img_278.png"}, "sub_4": {"id": 4, "mode": "video", "name": "5 Portuguese", "sub_name": "", "stream_video_url": "http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/kurakios_tv_img_278.png"}, "sub_5": {"id": 5, "mode": "video", "name": "6 Portuguese", "sub_name": "", "stream_video_url": "http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/kuriakos_cine_img_2835.png"}, "sub_6": {"id": 6, "mode": "video", "name": "7 Portuguese", "sub_name": "", "stream_video_url": "http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/kuriakos_kids_img_2836.png"}, "sub_7": {"id": 7, "mode": "video", "name": "8 Portuguese", "sub_name": "", "stream_video_url": "http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/kuriakos_music_img_2837.png"}, "sub_8": {"id": 8, "mode": "video", "name": "9 Portuguese", "sub_name": "", "stream_video_url": "http://210.210.155.35/qwr9ew/s/s38/index.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rtp_1_pt_img_308.png"}, "sub_9": {"id": 9, "mode": "video", "name": "10 Portuguese", "sub_name": "", "stream_video_url": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/sobrenatural_tv_img_2844.png"}, "sub_10": {"id": 10, "mode": "video", "name": "11 Portuguese", "sub_name": "", "stream_video_url": "http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w476474449.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/sobrenatural_tv_img_2844.png"}, "sub_11": {"id": 11, "mode": "video", "name": "12 Portuguese", "sub_name": "", "stream_video_url": "http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_12": {"id": 12, "mode": "video", "name": "13 Portuguese", "sub_name": "", "stream_video_url": "https://streamer-b02.videos.sapo.pt/live/santuario.stream/chunklist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_13": {"id": 13, "mode": "video", "name": "14 Portuguese", "sub_name": "", "stream_video_url": "http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}}}}}}
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 0,
+        "name": "Portuguese Channels",
+        "sub_name": "Channels",
+        "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-portugal_748139.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "video",
+            "name": "Channel 1",
+            "sub_name": "",
+            "stream_video_url": "https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/caca_vision_img_2833.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "video",
+            "name": "Channel 2",
+            "sub_name": "",
+            "stream_video_url": "https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/caca_vision_img_2833.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "video",
+            "name": "Channel 3",
+            "sub_name": "",
+            "stream_video_url": "https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/caca_vision_img_2833.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "video",
+            "name": "Channel 4",
+            "sub_name": "",
+            "stream_video_url": "http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/kurakios_tv_img_278.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "video",
+            "name": "Channel 5",
+            "sub_name": "",
+            "stream_video_url": "http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/kurakios_tv_img_278.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "video",
+            "name": "Channel 6",
+            "sub_name": "",
+            "stream_video_url": "http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/kuriakos_cine_img_2835.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "video",
+            "name": "Channel 7",
+            "sub_name": "",
+            "stream_video_url": "http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/kuriakos_kids_img_2836.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "video",
+            "name": "Channel 8",
+            "sub_name": "",
+            "stream_video_url": "http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/kuriakos_music_img_2837.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "video",
+            "name": "Channel 9",
+            "sub_name": "",
+            "stream_video_url": "http://210.210.155.35/qwr9ew/s/s38/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rtp_1_pt_img_308.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "video",
+            "name": "Channel 10",
+            "sub_name": "",
+            "stream_video_url": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/sobrenatural_tv_img_2844.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "video",
+            "name": "Channel 11",
+            "sub_name": "",
+            "stream_video_url": "http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w476474449.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/sobrenatural_tv_img_2844.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "video",
+            "name": "Channel 12",
+            "sub_name": "",
+            "stream_video_url": "http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "video",
+            "name": "Channel 13",
+            "sub_name": "",
+            "stream_video_url": "https://streamer-b02.videos.sapo.pt/live/santuario.stream/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "video",
+            "name": "Channel 14",
+            "sub_name": "",
+            "stream_video_url": "http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          }
+        }
+      }
+    }
+  }
+}

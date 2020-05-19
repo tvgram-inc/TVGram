@@ -1,1 +1,1440 @@
-{"TV_Data": {"Channel_List": {"is_channel_list": true, "is_override": true, "thumb_width": 150, "all_Channels_Tab_Name": "", "main": {"id": 0, "name": "Italian Channels", "sub_name": "Channels", "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-italy_748049.png", "sub": {"sub_0": {"id": 0, "mode": "video", "name": "1 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/51_radio_tv_img_1941.png"}, "sub_1": {"id": 1, "mode": "video", "name": "2 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it/antennasud/antennasud/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/antenna_sud_img_252.png"}, "sub_2": {"id": 2, "mode": "video", "name": "3 Italian", "sub_name": "", "stream_video_url": "https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/azzurra_tv_img_1923.png"}, "sub_3": {"id": 3, "mode": "video", "name": "4 Italian", "sub_name": "", "stream_video_url": "http://srv3.meway.tv:1957/cafe/live/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/caf\u00e8tv24_img_1924.png"}, "sub_4": {"id": 4, "mode": "video", "name": "5 Italian", "sub_name": "", "stream_video_url": "http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/canale_10_img_1925.png"}, "sub_5": {"id": 5, "mode": "video", "name": "6 Italian", "sub_name": "", "stream_video_url": "http://37.187.142.147:1935/ch10live/high.stream/live.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/canale_10_img_1925.png"}, "sub_6": {"id": 6, "mode": "video", "name": "7 Italian", "sub_name": "", "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/canale_2_altamura_img_1926.png"}, "sub_7": {"id": 7, "mode": "video", "name": "8 Italian", "sub_name": "", "stream_video_url": "http://live.sloode.com:1935/canale21/live/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/canale_21_campania_img_1961.png"}, "sub_8": {"id": 8, "mode": "video", "name": "9 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/canale_7_img_125.png"}, "sub_9": {"id": 9, "mode": "video", "name": "10 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/canale_7_img_125.png"}, "sub_10": {"id": 10, "mode": "video", "name": "11 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/carina_tv_img_1965.png"}, "sub_11": {"id": 11, "mode": "video", "name": "12 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/carina_tv_img_1965.png"}, "sub_12": {"id": 12, "mode": "video", "name": "13 Italian", "sub_name": "", "stream_video_url": "http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/company_tv_img_1966.png"}, "sub_13": {"id": 13, "mode": "video", "name": "14 Italian", "sub_name": "", "stream_video_url": "http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/company_tv_img_1966.png"}, "sub_14": {"id": 14, "mode": "video", "name": "15 Italian", "sub_name": "", "stream_video_url": "http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/deejay_tv_it_img_545.png"}, "sub_15": {"id": 15, "mode": "video", "name": "16 Italian", "sub_name": "", "stream_video_url": "http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/deejay_tv_it_img_545.png"}, "sub_16": {"id": 16, "mode": "video", "name": "17 Italian", "sub_name": "", "stream_video_url": "https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/dmax_img_1967.png"}, "sub_17": {"id": 17, "mode": "video", "name": "18 Italian", "sub_name": "", "stream_video_url": "https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/dmax_img_1967.png"}, "sub_18": {"id": 18, "mode": "video", "name": "19 Italian", "sub_name": "", "stream_video_url": "https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b496000_sltur.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/dmax_img_1967.png"}, "sub_19": {"id": 19, "mode": "video", "name": "20 Italian", "sub_name": "", "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/elive_tv_brescia_img_1968.png"}, "sub_20": {"id": 20, "mode": "video", "name": "21 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/esperia_tv_img_1969.png"}, "sub_21": {"id": 21, "mode": "video", "name": "22 Italian", "sub_name": "", "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/esperia_tv_img_1969.png"}, "sub_22": {"id": 22, "mode": "video", "name": "23 Italian", "sub_name": "", "stream_video_url": "http://live.sloode.com:1935/etvmarche_live/_definst_/etvmarche/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/etv_marche_img_1970.png"}, "sub_23": {"id": 23, "mode": "video", "name": "24 Italian", "sub_name": "", "stream_video_url": "http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/etv_marche_img_1970.png"}, "sub_24": {"id": 24, "mode": "video", "name": "25 Italian", "sub_name": "", "stream_video_url": "http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/etv_marche_img_1970.png"}, "sub_25": {"id": 25, "mode": "video", "name": "26 Italian", "sub_name": "", "stream_video_url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/euro_indie_music_chart_tv_img_1971.png"}, "sub_26": {"id": 26, "mode": "video", "name": "27 Italian", "sub_name": "", "stream_video_url": "http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/gold_tv_roma_img_1973.png"}, "sub_27": {"id": 27, "mode": "video", "name": "28 Italian", "sub_name": "", "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/icaro_tv_img_1975.png"}, "sub_28": {"id": 28, "mode": "video", "name": "29 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/italia_2_it_img_542.png"}, "sub_29": {"id": 29, "mode": "video", "name": "30 Italian", "sub_name": "", "stream_video_url": "https://59ef7ad665d1d.streamlock.net:1443/julieitalia/_definst_/julieitalia/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/julie_italia_img_1977.png"}, "sub_30": {"id": 30, "mode": "video", "name": "31 Italian", "sub_name": "", "stream_video_url": "https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/la_tr3_img_1978.png"}, "sub_31": {"id": 31, "mode": "video", "name": "32 Italian", "sub_name": "", "stream_video_url": "http://StreamCdnC3.mainstreaming.tv:80/cdn/live/100197/SOrBDPy/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/lac_tv_img_1980.png"}, "sub_32": {"id": 32, "mode": "video", "name": "33 Italian", "sub_name": "", "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/lucaniatv/lucaniatv/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/lucania_tv_img_1981.png"}, "sub_33": {"id": 33, "mode": "video", "name": "34 Italian", "sub_name": "", "stream_video_url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/m2o_it_img_302.png"}, "sub_34": {"id": 34, "mode": "video", "name": "35 Italian", "sub_name": "", "stream_video_url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/m2o_it_img_302.png"}, "sub_35": {"id": 35, "mode": "video", "name": "36 Italian", "sub_name": "", "stream_video_url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/m2o_it_img_302.png"}, "sub_36": {"id": 36, "mode": "video", "name": "37 Italian", "sub_name": "", "stream_video_url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?GrupoTopIptv", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/m2o_it_img_302.png"}, "sub_37": {"id": 37, "mode": "video", "name": "38 Italian", "sub_name": "", "stream_video_url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/m2o_it_img_302.png"}, "sub_38": {"id": 38, "mode": "video", "name": "39 Italian", "sub_name": "", "stream_video_url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/m2o_it_img_302.png"}, "sub_39": {"id": 39, "mode": "video", "name": "40 Italian", "sub_name": "", "stream_video_url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/m2o_it_img_302.png"}, "sub_40": {"id": 40, "mode": "video", "name": "41 Italian", "sub_name": "", "stream_video_url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/motortrend_img_1983.png"}, "sub_41": {"id": 41, "mode": "video", "name": "42 Italian", "sub_name": "", "stream_video_url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/nove_img_1984.png"}, "sub_42": {"id": 42, "mode": "video", "name": "43 Italian", "sub_name": "", "stream_video_url": "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/orler_tv_img_1985.png"}, "sub_43": {"id": 43, "mode": "video", "name": "44 Italian", "sub_name": "", "stream_video_url": "http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/otto_fm_tv_img_1986.png"}, "sub_44": {"id": 44, "mode": "video", "name": "45 Italian", "sub_name": "", "stream_video_url": "http://217.182.192.240:8080/hls/ottofmtv/index.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/otto_fm_tv_img_1986.png"}, "sub_45": {"id": 45, "mode": "video", "name": "46 Italian", "sub_name": "", "stream_video_url": "https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/padre_pio_tv_img_1987.png"}, "sub_46": {"id": 46, "mode": "video", "name": "47 Italian", "sub_name": "", "stream_video_url": "https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/paradise_tv_img_1988.png"}, "sub_47": {"id": 47, "mode": "video", "name": "48 Italian", "sub_name": "", "stream_video_url": "http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/pescara_tv_img_1990.png"}, "sub_48": {"id": 48, "mode": "video", "name": "49 Italian", "sub_name": "", "stream_video_url": "https://sb.top-ix.org/streamtech/tvlive1/chunklist_w921110763.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/prima_tivvu_img_1991.png"}, "sub_49": {"id": 49, "mode": "video", "name": "50 Italian", "sub_name": "", "stream_video_url": "https://sb.top-ix.org/streamtech/tvlive1/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/prima_tivvu_img_1991.png"}, "sub_50": {"id": 50, "mode": "video", "name": "51 Italian", "sub_name": "", "stream_video_url": "http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_51": {"id": 51, "mode": "video", "name": "52 Italian", "sub_name": "", "stream_video_url": "http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/qvc_it_img_541.png"}, "sub_52": {"id": 52, "mode": "video", "name": "53 Italian", "sub_name": "", "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/radio_51_img_1994.png"}, "sub_53": {"id": 53, "mode": "video", "name": "54 Italian", "sub_name": "", "stream_video_url": "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/radio_birikina_tv_img_1995.png"}, "sub_54": {"id": 54, "mode": "video", "name": "55 Italian", "sub_name": "", "stream_video_url": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?sd=10&rebase=on", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_55": {"id": 55, "mode": "video", "name": "56 Italian", "sub_name": "", "stream_video_url": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_56": {"id": 56, "mode": "video", "name": "57 Italian", "sub_name": "", "stream_video_url": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_57": {"id": 57, "mode": "video", "name": "58 Italian", "sub_name": "", "stream_video_url": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_58": {"id": 58, "mode": "video", "name": "59 Italian", "sub_name": "", "stream_video_url": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_59": {"id": 59, "mode": "video", "name": "60 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/radio_iglesias_img_53.png"}, "sub_60": {"id": 60, "mode": "video", "name": "61 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/radio_iglesias_img_53.png"}, "sub_61": {"id": 61, "mode": "video", "name": "62 Italian", "sub_name": "", "stream_video_url": "http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/radio_italia_tv_img_301.png"}, "sub_62": {"id": 62, "mode": "video", "name": "63 Italian", "sub_name": "", "stream_video_url": "http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/radio_italia_vision_img_1997.png"}, "sub_63": {"id": 63, "mode": "video", "name": "64 Italian", "sub_name": "", "stream_video_url": "https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_64": {"id": 64, "mode": "video", "name": "65 Italian", "sub_name": "", "stream_video_url": "http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/radio_norba_tv_img_271.png"}, "sub_65": {"id": 65, "mode": "video", "name": "66 Italian", "sub_name": "", "stream_video_url": "http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/radio_number_one_tv_img_2000.png"}, "sub_66": {"id": 66, "mode": "video", "name": "67 Italian", "sub_name": "", "stream_video_url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/radio_piter_pan_tv_img_2001.png"}, "sub_67": {"id": 67, "mode": "video", "name": "68 Italian", "sub_name": "", "stream_video_url": "http://wz2.newradio.it:1935/9018/9018/chunklist_w229229850.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/radio_siena_tv_img_2002.png"}, "sub_68": {"id": 68, "mode": "video", "name": "69 Italian", "sub_name": "", "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rai_4_it_img_298.png"}, "sub_69": {"id": 69, "mode": "video", "name": "70 Italian", "sub_name": "", "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rai_4_it_img_298.png"}, "sub_70": {"id": 70, "mode": "video", "name": "71 Italian", "sub_name": "", "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rai_5_it_img_299.png"}, "sub_71": {"id": 71, "mode": "video", "name": "72 Italian", "sub_name": "", "stream_video_url": "http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rai_5_it_img_299.png"}, "sub_72": {"id": 72, "mode": "video", "name": "73 Italian", "sub_name": "", "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rai_gulp_it_img_297.png"}, "sub_73": {"id": 73, "mode": "video", "name": "74 Italian", "sub_name": "", "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rai_movie_img_128.png"}, "sub_74": {"id": 74, "mode": "video", "name": "75 Italian", "sub_name": "", "stream_video_url": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rai_news_24_img_23.png"}, "sub_75": {"id": 75, "mode": "video", "name": "76 Italian", "sub_name": "", "stream_video_url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rai_news_24_img_23.png"}, "sub_76": {"id": 76, "mode": "video", "name": "77 Italian", "sub_name": "", "stream_video_url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rai_news_24_img_23.png"}, "sub_77": {"id": 77, "mode": "video", "name": "78 Italian", "sub_name": "", "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rai_premium_it_img_295.png"}, "sub_78": {"id": 78, "mode": "video", "name": "79 Italian", "sub_name": "", "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rai_premium_it_img_295.png"}, "sub_79": {"id": 79, "mode": "video", "name": "80 Italian", "sub_name": "", "stream_video_url": "http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rai_tre_img_3.png"}, "sub_80": {"id": 80, "mode": "video", "name": "81 Italian", "sub_name": "", "stream_video_url": "http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rai_tre_img_3.png"}, "sub_81": {"id": 81, "mode": "video", "name": "82 Italian", "sub_name": "", "stream_video_url": "http://ott-cdn.ucom.am/s29/index.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rai_uno_img_1.png"}, "sub_82": {"id": 82, "mode": "video", "name": "83 Italian", "sub_name": "", "stream_video_url": "http://92.43.140.249/s29/04.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rai_uno_img_1.png"}, "sub_83": {"id": 83, "mode": "video", "name": "84 Italian", "sub_name": "", "stream_video_url": "http://ott-cdn.ucom.am:80/s29/04.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rai_uno_img_1.png"}, "sub_84": {"id": 84, "mode": "video", "name": "85 Italian", "sub_name": "", "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rai_yoyo_img_22.png"}, "sub_85": {"id": 85, "mode": "video", "name": "86 Italian", "sub_name": "", "stream_video_url": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_86": {"id": 86, "mode": "video", "name": "87 Italian", "sub_name": "", "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/reggiotv_img_2007.png"}, "sub_87": {"id": 87, "mode": "video", "name": "88 Italian", "sub_name": "", "stream_video_url": "http://5c389faa13be3.streamlock.net:1935/8058/8058/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/retesole_lazio_img_2008.png"}, "sub_88": {"id": 88, "mode": "video", "name": "89 Italian", "sub_name": "", "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/reteveneta_img_2009.png"}, "sub_89": {"id": 89, "mode": "video", "name": "90 Italian", "sub_name": "", "stream_video_url": "http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rmk_tv_sciacca_img_2010.png"}, "sub_90": {"id": 90, "mode": "video", "name": "91 Italian", "sub_name": "", "stream_video_url": "http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rmm_tv_img_2011.png"}, "sub_91": {"id": 91, "mode": "video", "name": "92 Italian", "sub_name": "", "stream_video_url": "http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rtc_quarta_rete_img_2012.png"}, "sub_92": {"id": 92, "mode": "video", "name": "93 Italian", "sub_name": "", "stream_video_url": "http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rtc_telecalabria_img_3111.png"}, "sub_93": {"id": 93, "mode": "video", "name": "94 Italian", "sub_name": "", "stream_video_url": "https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rtc_telecalabria_img_3111.png"}, "sub_94": {"id": 94, "mode": "video", "name": "95 Italian", "sub_name": "", "stream_video_url": "http://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rtl_102.5_tv_img_2013.png"}, "sub_95": {"id": 95, "mode": "video", "name": "96 Italian", "sub_name": "", "stream_video_url": "http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rtl_102.5_tv_img_2013.png"}, "sub_96": {"id": 96, "mode": "video", "name": "97 Italian", "sub_name": "", "stream_video_url": "https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rtl_102.5_tv_img_2013.png"}, "sub_97": {"id": 97, "mode": "video", "name": "98 Italian", "sub_name": "", "stream_video_url": "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rtp_img_2014.png"}, "sub_98": {"id": 98, "mode": "video", "name": "99 Italian", "sub_name": "", "stream_video_url": "http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rttr_img_2016.png"}, "sub_99": {"id": 99, "mode": "video", "name": "100 Italian", "sub_name": "", "stream_video_url": "https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rtv_sport_(san_marino)_img_2017.png"}, "sub_100": {"id": 100, "mode": "video", "name": "101 Italian", "sub_name": "", "stream_video_url": "https://open.http.mp.streamamg.com/p/3001301/sp/300130100/playManifest/entryId/0_seco7tg8/format/applehttp/protocol/https/uiConfId/30026353/a.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/rtv38_img_2018.png"}, "sub_101": {"id": 101, "mode": "video", "name": "102 Italian", "sub_name": "", "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/sardegna_uno_img_2019.png"}, "sub_102": {"id": 102, "mode": "video", "name": "103 Italian", "sub_name": "", "stream_video_url": "http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/senato_tv_img_174.png"}, "sub_103": {"id": 103, "mode": "video", "name": "104 Italian", "sub_name": "", "stream_video_url": "http://dcunilive35-lh.akamaihd.net/i/dclive_1@668625/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_104": {"id": 104, "mode": "video", "name": "105 Italian", "sub_name": "", "stream_video_url": "https://www.onairport.live/sophiatv-it-live/livestream_low/chunklist_w217998957.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/sophia_tv_img_2021.png"}, "sub_105": {"id": 105, "mode": "video", "name": "106 Italian", "sub_name": "", "stream_video_url": "https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/sophia_tv_img_2021.png"}, "sub_106": {"id": 106, "mode": "video", "name": "107 Italian", "sub_name": "", "stream_video_url": "https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/sophia_tv_img_2021.png"}, "sub_107": {"id": 107, "mode": "video", "name": "108 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_108": {"id": 108, "mode": "video", "name": "109 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/super_it_img_294.png"}, "sub_109": {"id": 109, "mode": "video", "name": "110 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/super_it_img_294.png"}, "sub_110": {"id": 110, "mode": "video", "name": "111 Italian", "sub_name": "", "stream_video_url": "https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/super_j_tv_img_2023.png"}, "sub_111": {"id": 111, "mode": "video", "name": "112 Italian", "sub_name": "", "stream_video_url": "http://193.70.81.40:1935/supertvoristano/_definst_/supertvoristano/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/super_tv_oristano_img_2024.png"}, "sub_112": {"id": 112, "mode": "video", "name": "113 Italian", "sub_name": "", "stream_video_url": "http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_113": {"id": 113, "mode": "video", "name": "114 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_114": {"id": 114, "mode": "video", "name": "115 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it/telemonteneve3/mp4:telemonteneve3/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_115": {"id": 115, "mode": "video", "name": "116 Italian", "sub_name": "", "stream_video_url": "http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/teleboario_img_2029.png"}, "sub_116": {"id": 116, "mode": "video", "name": "117 Italian", "sub_name": "", "stream_video_url": "http://213.187.12.18/live/tv1.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/telecitta_img_2031.png"}, "sub_117": {"id": 117, "mode": "video", "name": "118 Italian", "sub_name": "", "stream_video_url": "http://213.187.12.18:80/live/tv1.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/telecitta_img_2031.png"}, "sub_118": {"id": 118, "mode": "video", "name": "119 Italian", "sub_name": "", "stream_video_url": "https://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/telecolor_lombardia_img_2032.png"}, "sub_119": {"id": 119, "mode": "video", "name": "120 Italian", "sub_name": "", "stream_video_url": "http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/telefriuli_img_2034.png"}, "sub_120": {"id": 120, "mode": "video", "name": "121 Italian", "sub_name": "", "stream_video_url": "http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/telegranda_img_2035.png"}, "sub_121": {"id": 121, "mode": "video", "name": "122 Italian", "sub_name": "", "stream_video_url": "https://58f0c4d9527e8.streamlock.net/TeleMantova/livestream/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/telemantova_img_2036.png"}, "sub_122": {"id": 122, "mode": "video", "name": "123 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/telemia_img_2037.png"}, "sub_123": {"id": 123, "mode": "video", "name": "124 Italian", "sub_name": "", "stream_video_url": "http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream_tlm/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/telemolise_img_2038.png"}, "sub_124": {"id": 124, "mode": "video", "name": "125 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/telemonteneve_img_84.png"}, "sub_125": {"id": 125, "mode": "video", "name": "126 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/telemonteneve_3_img_83.png"}, "sub_126": {"id": 126, "mode": "video", "name": "127 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it/telenord/telenord/chunklist_w299272332.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/telenordest_img_2039.png"}, "sub_127": {"id": 127, "mode": "video", "name": "128 Italian", "sub_name": "", "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/telenordest_img_2039.png"}, "sub_128": {"id": 128, "mode": "video", "name": "129 Italian", "sub_name": "", "stream_video_url": "https://59bb40cf810aa.streamlock.net:4443/teleonda/teleonda/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/teleonda_img_2040.png"}, "sub_129": {"id": 129, "mode": "video", "name": "130 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/telequattro_img_2041.png"}, "sub_130": {"id": 130, "mode": "video", "name": "131 Italian", "sub_name": "", "stream_video_url": "https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/telerama_img_2042.png"}, "sub_131": {"id": 131, "mode": "video", "name": "132 Italian", "sub_name": "", "stream_video_url": "http://livetr.teleromagna.it/sport/live/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/teleromagna_img_2043.png"}, "sub_132": {"id": 132, "mode": "video", "name": "133 Italian", "sub_name": "", "stream_video_url": "http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/teleromagna_img_2043.png"}, "sub_133": {"id": 133, "mode": "video", "name": "134 Italian", "sub_name": "", "stream_video_url": "https://diretta.teleterni.it/live/stream_src.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/teleterni_img_2045.png"}, "sub_134": {"id": 134, "mode": "video", "name": "135 Italian", "sub_name": "", "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/teletricolore_img_2046.png"}, "sub_135": {"id": 135, "mode": "video", "name": "136 Italian", "sub_name": "", "stream_video_url": "http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/teletusciasabina_2000_img_2047.png"}, "sub_136": {"id": 136, "mode": "video", "name": "137 Italian", "sub_name": "", "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/televideo_agrigento_img_2049.png"}, "sub_137": {"id": 137, "mode": "video", "name": "138 Italian", "sub_name": "", "stream_video_url": "https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/tevere_tv_img_2051.png"}, "sub_138": {"id": 138, "mode": "video", "name": "139 Italian", "sub_name": "", "stream_video_url": "http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/tln_tele_lazio_nord_img_2052.png"}, "sub_139": {"id": 139, "mode": "video", "name": "140 Italian", "sub_name": "", "stream_video_url": "http://livetr.teleromagna.it/news/live/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/tr_mia_img_2053.png"}, "sub_140": {"id": 140, "mode": "video", "name": "141 Italian", "sub_name": "", "stream_video_url": "http://livetr.teleromagna.it/mia/live/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/tr24_img_273.png"}, "sub_141": {"id": 141, "mode": "video", "name": "142 Italian", "sub_name": "", "stream_video_url": "http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/trentino_tv_img_2054.png"}, "sub_142": {"id": 142, "mode": "video", "name": "143 Italian", "sub_name": "", "stream_video_url": "http://streaming126.trgmedia.it/filestream/livestreamHD.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/trg_umbria_img_2055.png"}, "sub_143": {"id": 143, "mode": "video", "name": "144 Italian", "sub_name": "", "stream_video_url": "http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/trm_h24_basilicata_img_272.png"}, "sub_144": {"id": 144, "mode": "video", "name": "145 Italian", "sub_name": "", "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/tv_qui_(modena)_img_2060.png"}, "sub_145": {"id": 145, "mode": "video", "name": "146 Italian", "sub_name": "", "stream_video_url": "http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/tv2000_img_123.png"}, "sub_146": {"id": 146, "mode": "video", "name": "147 Italian", "sub_name": "", "stream_video_url": "http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/tv2000_img_123.png"}, "sub_147": {"id": 147, "mode": "video", "name": "148 Italian", "sub_name": "", "stream_video_url": "http://mi1.wz.tv2000.it/tv2000_alfa.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/tv2000_img_123.png"}, "sub_148": {"id": 148, "mode": "video", "name": "149 Italian", "sub_name": "", "stream_video_url": "http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/tv7_benevento_img_3115.png"}, "sub_149": {"id": 149, "mode": "video", "name": "150 Italian", "sub_name": "", "stream_video_url": "http://217.61.26.46:8080/hls/triveneta.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/tv7_triveneta_img_2061.png"}, "sub_150": {"id": 150, "mode": "video", "name": "151 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/tvrs_img_2064.png"}, "sub_151": {"id": 151, "mode": "video", "name": "152 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/vera_tv_(marche)_img_2065.png"}, "sub_152": {"id": 152, "mode": "video", "name": "153 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/vera_tv_(marche)_img_2065.png"}, "sub_153": {"id": 153, "mode": "video", "name": "154 Italian", "sub_name": "", "stream_video_url": "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/vh1_img_2066.png"}, "sub_154": {"id": 154, "mode": "video", "name": "155 Italian", "sub_name": "", "stream_video_url": "http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/video_calabria_img_2067.png"}, "sub_155": {"id": 155, "mode": "video", "name": "156 Italian", "sub_name": "", "stream_video_url": "http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_156": {"id": 156, "mode": "video", "name": "157 Italian", "sub_name": "", "stream_video_url": "http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/videolina_(sardegna)_img_2068.png"}, "sub_157": {"id": 157, "mode": "video", "name": "158 Italian", "sub_name": "", "stream_video_url": "http://livestreaming.videolina.it/live/Videolina/playlist.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/videolina_(sardegna)_img_2068.png"}}}}}}
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 0,
+        "name": "Italian Channels",
+        "sub_name": "Channels",
+        "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-italy_748049.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "video",
+            "name": "Channel 1",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/51_radio_tv_img_1941.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "video",
+            "name": "Channel 2",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it/antennasud/antennasud/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/antenna_sud_img_252.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "video",
+            "name": "Channel 3",
+            "sub_name": "",
+            "stream_video_url": "https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/azzurra_tv_img_1923.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "video",
+            "name": "Channel 4",
+            "sub_name": "",
+            "stream_video_url": "http://srv3.meway.tv:1957/cafe/live/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/caf\u00e8tv24_img_1924.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "video",
+            "name": "Channel 5",
+            "sub_name": "",
+            "stream_video_url": "http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/canale_10_img_1925.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "video",
+            "name": "Channel 6",
+            "sub_name": "",
+            "stream_video_url": "http://37.187.142.147:1935/ch10live/high.stream/live.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/canale_10_img_1925.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "video",
+            "name": "Channel 7",
+            "sub_name": "",
+            "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/canale_2_altamura_img_1926.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "video",
+            "name": "Channel 8",
+            "sub_name": "",
+            "stream_video_url": "http://live.sloode.com:1935/canale21/live/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/canale_21_campania_img_1961.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "video",
+            "name": "Channel 9",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/canale_7_img_125.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "video",
+            "name": "Channel 10",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/canale_7_img_125.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "video",
+            "name": "Channel 11",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/carina_tv_img_1965.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "video",
+            "name": "Channel 12",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/carina_tv_img_1965.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "video",
+            "name": "Channel 13",
+            "sub_name": "",
+            "stream_video_url": "http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/company_tv_img_1966.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "video",
+            "name": "Channel 14",
+            "sub_name": "",
+            "stream_video_url": "http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/company_tv_img_1966.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "video",
+            "name": "Channel 15",
+            "sub_name": "",
+            "stream_video_url": "http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/deejay_tv_it_img_545.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "video",
+            "name": "Channel 16",
+            "sub_name": "",
+            "stream_video_url": "http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/deejay_tv_it_img_545.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "video",
+            "name": "Channel 17",
+            "sub_name": "",
+            "stream_video_url": "https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/dmax_img_1967.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "video",
+            "name": "Channel 18",
+            "sub_name": "",
+            "stream_video_url": "https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/dmax_img_1967.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "video",
+            "name": "Channel 19",
+            "sub_name": "",
+            "stream_video_url": "https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b496000_sltur.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/dmax_img_1967.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "video",
+            "name": "Channel 20",
+            "sub_name": "",
+            "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/elive_tv_brescia_img_1968.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "video",
+            "name": "Channel 21",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/esperia_tv_img_1969.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "video",
+            "name": "Channel 22",
+            "sub_name": "",
+            "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/esperia_tv_img_1969.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "video",
+            "name": "Channel 23",
+            "sub_name": "",
+            "stream_video_url": "http://live.sloode.com:1935/etvmarche_live/_definst_/etvmarche/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/etv_marche_img_1970.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "video",
+            "name": "Channel 24",
+            "sub_name": "",
+            "stream_video_url": "http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/etv_marche_img_1970.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "video",
+            "name": "Channel 25",
+            "sub_name": "",
+            "stream_video_url": "http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/etv_marche_img_1970.png"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "video",
+            "name": "Channel 26",
+            "sub_name": "",
+            "stream_video_url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/euro_indie_music_chart_tv_img_1971.png"
+          },
+          "sub_26": {
+            "id": 26,
+            "mode": "video",
+            "name": "Channel 27",
+            "sub_name": "",
+            "stream_video_url": "http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/gold_tv_roma_img_1973.png"
+          },
+          "sub_27": {
+            "id": 27,
+            "mode": "video",
+            "name": "Channel 28",
+            "sub_name": "",
+            "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/icaro_tv_img_1975.png"
+          },
+          "sub_28": {
+            "id": 28,
+            "mode": "video",
+            "name": "Channel 29",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/italia_2_it_img_542.png"
+          },
+          "sub_29": {
+            "id": 29,
+            "mode": "video",
+            "name": "Channel 30",
+            "sub_name": "",
+            "stream_video_url": "https://59ef7ad665d1d.streamlock.net:1443/julieitalia/_definst_/julieitalia/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/julie_italia_img_1977.png"
+          },
+          "sub_30": {
+            "id": 30,
+            "mode": "video",
+            "name": "Channel 31",
+            "sub_name": "",
+            "stream_video_url": "https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/la_tr3_img_1978.png"
+          },
+          "sub_31": {
+            "id": 31,
+            "mode": "video",
+            "name": "Channel 32",
+            "sub_name": "",
+            "stream_video_url": "http://StreamCdnC3.mainstreaming.tv:80/cdn/live/100197/SOrBDPy/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/lac_tv_img_1980.png"
+          },
+          "sub_32": {
+            "id": 32,
+            "mode": "video",
+            "name": "Channel 33",
+            "sub_name": "",
+            "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/lucaniatv/lucaniatv/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/lucania_tv_img_1981.png"
+          },
+          "sub_33": {
+            "id": 33,
+            "mode": "video",
+            "name": "Channel 34",
+            "sub_name": "",
+            "stream_video_url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/m2o_it_img_302.png"
+          },
+          "sub_34": {
+            "id": 34,
+            "mode": "video",
+            "name": "Channel 35",
+            "sub_name": "",
+            "stream_video_url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/m2o_it_img_302.png"
+          },
+          "sub_35": {
+            "id": 35,
+            "mode": "video",
+            "name": "Channel 36",
+            "sub_name": "",
+            "stream_video_url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?iptvgratis?chile.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/m2o_it_img_302.png"
+          },
+          "sub_36": {
+            "id": 36,
+            "mode": "video",
+            "name": "Channel 37",
+            "sub_name": "",
+            "stream_video_url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on?GrupoTopIptv",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/m2o_it_img_302.png"
+          },
+          "sub_37": {
+            "id": 37,
+            "mode": "video",
+            "name": "Channel 38",
+            "sub_name": "",
+            "stream_video_url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/m2o_it_img_302.png"
+          },
+          "sub_38": {
+            "id": 38,
+            "mode": "video",
+            "name": "Channel 39",
+            "sub_name": "",
+            "stream_video_url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/m2o_it_img_302.png"
+          },
+          "sub_39": {
+            "id": 39,
+            "mode": "video",
+            "name": "Channel 40",
+            "sub_name": "",
+            "stream_video_url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/m2o_it_img_302.png"
+          },
+          "sub_40": {
+            "id": 40,
+            "mode": "video",
+            "name": "Channel 41",
+            "sub_name": "",
+            "stream_video_url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/motortrend_img_1983.png"
+          },
+          "sub_41": {
+            "id": 41,
+            "mode": "video",
+            "name": "Channel 42",
+            "sub_name": "",
+            "stream_video_url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/nove_img_1984.png"
+          },
+          "sub_42": {
+            "id": 42,
+            "mode": "video",
+            "name": "Channel 43",
+            "sub_name": "",
+            "stream_video_url": "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/orler_tv_img_1985.png"
+          },
+          "sub_43": {
+            "id": 43,
+            "mode": "video",
+            "name": "Channel 44",
+            "sub_name": "",
+            "stream_video_url": "http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/otto_fm_tv_img_1986.png"
+          },
+          "sub_44": {
+            "id": 44,
+            "mode": "video",
+            "name": "Channel 45",
+            "sub_name": "",
+            "stream_video_url": "http://217.182.192.240:8080/hls/ottofmtv/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/otto_fm_tv_img_1986.png"
+          },
+          "sub_45": {
+            "id": 45,
+            "mode": "video",
+            "name": "Channel 46",
+            "sub_name": "",
+            "stream_video_url": "https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/padre_pio_tv_img_1987.png"
+          },
+          "sub_46": {
+            "id": 46,
+            "mode": "video",
+            "name": "Channel 47",
+            "sub_name": "",
+            "stream_video_url": "https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/paradise_tv_img_1988.png"
+          },
+          "sub_47": {
+            "id": 47,
+            "mode": "video",
+            "name": "Channel 48",
+            "sub_name": "",
+            "stream_video_url": "http://193.70.81.40:1935/pescaratv/_definst_/pescaratv/chunklist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/pescara_tv_img_1990.png"
+          },
+          "sub_48": {
+            "id": 48,
+            "mode": "video",
+            "name": "Channel 49",
+            "sub_name": "",
+            "stream_video_url": "https://sb.top-ix.org/streamtech/tvlive1/chunklist_w921110763.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/prima_tivvu_img_1991.png"
+          },
+          "sub_49": {
+            "id": 49,
+            "mode": "video",
+            "name": "Channel 50",
+            "sub_name": "",
+            "stream_video_url": "https://sb.top-ix.org/streamtech/tvlive1/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/prima_tivvu_img_1991.png"
+          },
+          "sub_50": {
+            "id": 50,
+            "mode": "video",
+            "name": "Channel 51",
+            "sub_name": "",
+            "stream_video_url": "http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_51": {
+            "id": 51,
+            "mode": "video",
+            "name": "Channel 52",
+            "sub_name": "",
+            "stream_video_url": "http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/qvc_it_img_541.png"
+          },
+          "sub_52": {
+            "id": 52,
+            "mode": "video",
+            "name": "Channel 53",
+            "sub_name": "",
+            "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/radio_51_img_1994.png"
+          },
+          "sub_53": {
+            "id": 53,
+            "mode": "video",
+            "name": "Channel 54",
+            "sub_name": "",
+            "stream_video_url": "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/radio_birikina_tv_img_1995.png"
+          },
+          "sub_54": {
+            "id": 54,
+            "mode": "video",
+            "name": "Channel 55",
+            "sub_name": "",
+            "stream_video_url": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_2_av-p.m3u8?sd=10&rebase=on",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_55": {
+            "id": 55,
+            "mode": "video",
+            "name": "Channel 56",
+            "sub_name": "",
+            "stream_video_url": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_56": {
+            "id": 56,
+            "mode": "video",
+            "name": "Channel 57",
+            "sub_name": "",
+            "stream_video_url": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_57": {
+            "id": 57,
+            "mode": "video",
+            "name": "Channel 58",
+            "sub_name": "",
+            "stream_video_url": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_58": {
+            "id": 58,
+            "mode": "video",
+            "name": "Channel 59",
+            "sub_name": "",
+            "stream_video_url": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_59": {
+            "id": 59,
+            "mode": "video",
+            "name": "Channel 60",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/radio_iglesias_img_53.png"
+          },
+          "sub_60": {
+            "id": 60,
+            "mode": "video",
+            "name": "Channel 61",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/radio_iglesias_img_53.png"
+          },
+          "sub_61": {
+            "id": 61,
+            "mode": "video",
+            "name": "Channel 62",
+            "sub_name": "",
+            "stream_video_url": "http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/radio_italia_tv_img_301.png"
+          },
+          "sub_62": {
+            "id": 62,
+            "mode": "video",
+            "name": "Channel 63",
+            "sub_name": "",
+            "stream_video_url": "http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/radio_italia_vision_img_1997.png"
+          },
+          "sub_63": {
+            "id": 63,
+            "mode": "video",
+            "name": "Channel 64",
+            "sub_name": "",
+            "stream_video_url": "https://flash7.xdevel.com/radiolombardiatv/radiolombardiatv/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_64": {
+            "id": 64,
+            "mode": "video",
+            "name": "Channel 65",
+            "sub_name": "",
+            "stream_video_url": "http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/radio_norba_tv_img_271.png"
+          },
+          "sub_65": {
+            "id": 65,
+            "mode": "video",
+            "name": "Channel 66",
+            "sub_name": "",
+            "stream_video_url": "http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/radio_number_one_tv_img_2000.png"
+          },
+          "sub_66": {
+            "id": 66,
+            "mode": "video",
+            "name": "Channel 67",
+            "sub_name": "",
+            "stream_video_url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/radio_piter_pan_tv_img_2001.png"
+          },
+          "sub_67": {
+            "id": 67,
+            "mode": "video",
+            "name": "Channel 68",
+            "sub_name": "",
+            "stream_video_url": "http://wz2.newradio.it:1935/9018/9018/chunklist_w229229850.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/radio_siena_tv_img_2002.png"
+          },
+          "sub_68": {
+            "id": 68,
+            "mode": "video",
+            "name": "Channel 69",
+            "sub_name": "",
+            "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rai_4_it_img_298.png"
+          },
+          "sub_69": {
+            "id": 69,
+            "mode": "video",
+            "name": "Channel 70",
+            "sub_name": "",
+            "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rai_4_it_img_298.png"
+          },
+          "sub_70": {
+            "id": 70,
+            "mode": "video",
+            "name": "Channel 71",
+            "sub_name": "",
+            "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rai_5_it_img_299.png"
+          },
+          "sub_71": {
+            "id": 71,
+            "mode": "video",
+            "name": "Channel 72",
+            "sub_name": "",
+            "stream_video_url": "http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rai_5_it_img_299.png"
+          },
+          "sub_72": {
+            "id": 72,
+            "mode": "video",
+            "name": "Channel 73",
+            "sub_name": "",
+            "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rai_gulp_it_img_297.png"
+          },
+          "sub_73": {
+            "id": 73,
+            "mode": "video",
+            "name": "Channel 74",
+            "sub_name": "",
+            "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rai_movie_img_128.png"
+          },
+          "sub_74": {
+            "id": 74,
+            "mode": "video",
+            "name": "Channel 75",
+            "sub_name": "",
+            "stream_video_url": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rai_news_24_img_23.png"
+          },
+          "sub_75": {
+            "id": 75,
+            "mode": "video",
+            "name": "Channel 76",
+            "sub_name": "",
+            "stream_video_url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rai_news_24_img_23.png"
+          },
+          "sub_76": {
+            "id": 76,
+            "mode": "video",
+            "name": "Channel 77",
+            "sub_name": "",
+            "stream_video_url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rai_news_24_img_23.png"
+          },
+          "sub_77": {
+            "id": 77,
+            "mode": "video",
+            "name": "Channel 78",
+            "sub_name": "",
+            "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rai_premium_it_img_295.png"
+          },
+          "sub_78": {
+            "id": 78,
+            "mode": "video",
+            "name": "Channel 79",
+            "sub_name": "",
+            "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rai_premium_it_img_295.png"
+          },
+          "sub_79": {
+            "id": 79,
+            "mode": "video",
+            "name": "Channel 80",
+            "sub_name": "",
+            "stream_video_url": "http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rai_tre_img_3.png"
+          },
+          "sub_80": {
+            "id": 80,
+            "mode": "video",
+            "name": "Channel 81",
+            "sub_name": "",
+            "stream_video_url": "http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rai_tre_img_3.png"
+          },
+          "sub_81": {
+            "id": 81,
+            "mode": "video",
+            "name": "Channel 82",
+            "sub_name": "",
+            "stream_video_url": "http://ott-cdn.ucom.am/s29/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rai_uno_img_1.png"
+          },
+          "sub_82": {
+            "id": 82,
+            "mode": "video",
+            "name": "Channel 83",
+            "sub_name": "",
+            "stream_video_url": "http://92.43.140.249/s29/04.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rai_uno_img_1.png"
+          },
+          "sub_83": {
+            "id": 83,
+            "mode": "video",
+            "name": "Channel 84",
+            "sub_name": "",
+            "stream_video_url": "http://ott-cdn.ucom.am:80/s29/04.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rai_uno_img_1.png"
+          },
+          "sub_84": {
+            "id": 84,
+            "mode": "video",
+            "name": "Channel 85",
+            "sub_name": "",
+            "stream_video_url": "http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rai_yoyo_img_22.png"
+          },
+          "sub_85": {
+            "id": 85,
+            "mode": "video",
+            "name": "Channel 86",
+            "sub_name": "",
+            "stream_video_url": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_86": {
+            "id": 86,
+            "mode": "video",
+            "name": "Channel 87",
+            "sub_name": "",
+            "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/reggiotv_img_2007.png"
+          },
+          "sub_87": {
+            "id": 87,
+            "mode": "video",
+            "name": "Channel 88",
+            "sub_name": "",
+            "stream_video_url": "http://5c389faa13be3.streamlock.net:1935/8058/8058/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/retesole_lazio_img_2008.png"
+          },
+          "sub_88": {
+            "id": 88,
+            "mode": "video",
+            "name": "Channel 89",
+            "sub_name": "",
+            "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/reteveneta_img_2009.png"
+          },
+          "sub_89": {
+            "id": 89,
+            "mode": "video",
+            "name": "Channel 90",
+            "sub_name": "",
+            "stream_video_url": "http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rmk_tv_sciacca_img_2010.png"
+          },
+          "sub_90": {
+            "id": 90,
+            "mode": "video",
+            "name": "Channel 91",
+            "sub_name": "",
+            "stream_video_url": "http://wma02.fluidstream.net/StudioRMM/livestream/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rmm_tv_img_2011.png"
+          },
+          "sub_91": {
+            "id": 91,
+            "mode": "video",
+            "name": "Channel 92",
+            "sub_name": "",
+            "stream_video_url": "http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rtc_quarta_rete_img_2012.png"
+          },
+          "sub_92": {
+            "id": 92,
+            "mode": "video",
+            "name": "Channel 93",
+            "sub_name": "",
+            "stream_video_url": "http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rtc_telecalabria_img_3111.png"
+          },
+          "sub_93": {
+            "id": 93,
+            "mode": "video",
+            "name": "Channel 94",
+            "sub_name": "",
+            "stream_video_url": "https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rtc_telecalabria_img_3111.png"
+          },
+          "sub_94": {
+            "id": 94,
+            "mode": "video",
+            "name": "Channel 95",
+            "sub_name": "",
+            "stream_video_url": "http://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rtl_102.5_tv_img_2013.png"
+          },
+          "sub_95": {
+            "id": 95,
+            "mode": "video",
+            "name": "Channel 96",
+            "sub_name": "",
+            "stream_video_url": "http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rtl_102.5_tv_img_2013.png"
+          },
+          "sub_96": {
+            "id": 96,
+            "mode": "video",
+            "name": "Channel 97",
+            "sub_name": "",
+            "stream_video_url": "https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rtl_102.5_tv_img_2013.png"
+          },
+          "sub_97": {
+            "id": 97,
+            "mode": "video",
+            "name": "Channel 98",
+            "sub_name": "",
+            "stream_video_url": "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rtp_img_2014.png"
+          },
+          "sub_98": {
+            "id": 98,
+            "mode": "video",
+            "name": "Channel 99",
+            "sub_name": "",
+            "stream_video_url": "http://wma07.fluidstream.net:1935/RTTRlive/livestream/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rttr_img_2016.png"
+          },
+          "sub_99": {
+            "id": 99,
+            "mode": "video",
+            "name": "Channel 100",
+            "sub_name": "",
+            "stream_video_url": "https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rtv_sport_(san_marino)_img_2017.png"
+          },
+          "sub_100": {
+            "id": 100,
+            "mode": "video",
+            "name": "Channel 101",
+            "sub_name": "",
+            "stream_video_url": "https://open.http.mp.streamamg.com/p/3001301/sp/300130100/playManifest/entryId/0_seco7tg8/format/applehttp/protocol/https/uiConfId/30026353/a.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rtv38_img_2018.png"
+          },
+          "sub_101": {
+            "id": 101,
+            "mode": "video",
+            "name": "Channel 102",
+            "sub_name": "",
+            "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/sardegna_uno_img_2019.png"
+          },
+          "sub_102": {
+            "id": 102,
+            "mode": "video",
+            "name": "Channel 103",
+            "sub_name": "",
+            "stream_video_url": "http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/senato_tv_img_174.png"
+          },
+          "sub_103": {
+            "id": 103,
+            "mode": "video",
+            "name": "Channel 104",
+            "sub_name": "",
+            "stream_video_url": "http://dcunilive35-lh.akamaihd.net/i/dclive_1@668625/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_104": {
+            "id": 104,
+            "mode": "video",
+            "name": "Channel 105",
+            "sub_name": "",
+            "stream_video_url": "https://www.onairport.live/sophiatv-it-live/livestream_low/chunklist_w217998957.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/sophia_tv_img_2021.png"
+          },
+          "sub_105": {
+            "id": 105,
+            "mode": "video",
+            "name": "Channel 106",
+            "sub_name": "",
+            "stream_video_url": "https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/sophia_tv_img_2021.png"
+          },
+          "sub_106": {
+            "id": 106,
+            "mode": "video",
+            "name": "Channel 107",
+            "sub_name": "",
+            "stream_video_url": "https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/sophia_tv_img_2021.png"
+          },
+          "sub_107": {
+            "id": 107,
+            "mode": "video",
+            "name": "Channel 108",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_108": {
+            "id": 108,
+            "mode": "video",
+            "name": "Channel 109",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/super_it_img_294.png"
+          },
+          "sub_109": {
+            "id": 109,
+            "mode": "video",
+            "name": "Channel 110",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/super_it_img_294.png"
+          },
+          "sub_110": {
+            "id": 110,
+            "mode": "video",
+            "name": "Channel 111",
+            "sub_name": "",
+            "stream_video_url": "https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/super_j_tv_img_2023.png"
+          },
+          "sub_111": {
+            "id": 111,
+            "mode": "video",
+            "name": "Channel 112",
+            "sub_name": "",
+            "stream_video_url": "http://193.70.81.40:1935/supertvoristano/_definst_/supertvoristano/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/super_tv_oristano_img_2024.png"
+          },
+          "sub_112": {
+            "id": 112,
+            "mode": "video",
+            "name": "Channel 113",
+            "sub_name": "",
+            "stream_video_url": "http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_113": {
+            "id": 113,
+            "mode": "video",
+            "name": "Channel 114",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_114": {
+            "id": 114,
+            "mode": "video",
+            "name": "Channel 115",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it/telemonteneve3/mp4:telemonteneve3/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_115": {
+            "id": 115,
+            "mode": "video",
+            "name": "Channel 116",
+            "sub_name": "",
+            "stream_video_url": "http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/teleboario_img_2029.png"
+          },
+          "sub_116": {
+            "id": 116,
+            "mode": "video",
+            "name": "Channel 117",
+            "sub_name": "",
+            "stream_video_url": "http://213.187.12.18/live/tv1.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/telecitta_img_2031.png"
+          },
+          "sub_117": {
+            "id": 117,
+            "mode": "video",
+            "name": "Channel 118",
+            "sub_name": "",
+            "stream_video_url": "http://213.187.12.18:80/live/tv1.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/telecitta_img_2031.png"
+          },
+          "sub_118": {
+            "id": 118,
+            "mode": "video",
+            "name": "Channel 119",
+            "sub_name": "",
+            "stream_video_url": "https://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/telecolor_lombardia_img_2032.png"
+          },
+          "sub_119": {
+            "id": 119,
+            "mode": "video",
+            "name": "Channel 120",
+            "sub_name": "",
+            "stream_video_url": "http://or01.top-ix.org:1935/streamtech/telefriuli/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/telefriuli_img_2034.png"
+          },
+          "sub_120": {
+            "id": 120,
+            "mode": "video",
+            "name": "Channel 121",
+            "sub_name": "",
+            "stream_video_url": "http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/telegranda_img_2035.png"
+          },
+          "sub_121": {
+            "id": 121,
+            "mode": "video",
+            "name": "Channel 122",
+            "sub_name": "",
+            "stream_video_url": "https://58f0c4d9527e8.streamlock.net/TeleMantova/livestream/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/telemantova_img_2036.png"
+          },
+          "sub_122": {
+            "id": 122,
+            "mode": "video",
+            "name": "Channel 123",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/telemia_img_2037.png"
+          },
+          "sub_123": {
+            "id": 123,
+            "mode": "video",
+            "name": "Channel 124",
+            "sub_name": "",
+            "stream_video_url": "http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream_tlm/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/telemolise_img_2038.png"
+          },
+          "sub_124": {
+            "id": 124,
+            "mode": "video",
+            "name": "Channel 125",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/telemonteneve_img_84.png"
+          },
+          "sub_125": {
+            "id": 125,
+            "mode": "video",
+            "name": "Channel 126",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/telemonteneve_3_img_83.png"
+          },
+          "sub_126": {
+            "id": 126,
+            "mode": "video",
+            "name": "Channel 127",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it/telenord/telenord/chunklist_w299272332.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/telenordest_img_2039.png"
+          },
+          "sub_127": {
+            "id": 127,
+            "mode": "video",
+            "name": "Channel 128",
+            "sub_name": "",
+            "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/telenordest_img_2039.png"
+          },
+          "sub_128": {
+            "id": 128,
+            "mode": "video",
+            "name": "Channel 129",
+            "sub_name": "",
+            "stream_video_url": "https://59bb40cf810aa.streamlock.net:4443/teleonda/teleonda/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/teleonda_img_2040.png"
+          },
+          "sub_129": {
+            "id": 129,
+            "mode": "video",
+            "name": "Channel 130",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/telequattro_img_2041.png"
+          },
+          "sub_130": {
+            "id": 130,
+            "mode": "video",
+            "name": "Channel 131",
+            "sub_name": "",
+            "stream_video_url": "https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/telerama_img_2042.png"
+          },
+          "sub_131": {
+            "id": 131,
+            "mode": "video",
+            "name": "Channel 132",
+            "sub_name": "",
+            "stream_video_url": "http://livetr.teleromagna.it/sport/live/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/teleromagna_img_2043.png"
+          },
+          "sub_132": {
+            "id": 132,
+            "mode": "video",
+            "name": "Channel 133",
+            "sub_name": "",
+            "stream_video_url": "http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/teleromagna_img_2043.png"
+          },
+          "sub_133": {
+            "id": 133,
+            "mode": "video",
+            "name": "Channel 134",
+            "sub_name": "",
+            "stream_video_url": "https://diretta.teleterni.it/live/stream_src.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/teleterni_img_2045.png"
+          },
+          "sub_134": {
+            "id": 134,
+            "mode": "video",
+            "name": "Channel 135",
+            "sub_name": "",
+            "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/teletricolore_img_2046.png"
+          },
+          "sub_135": {
+            "id": 135,
+            "mode": "video",
+            "name": "Channel 136",
+            "sub_name": "",
+            "stream_video_url": "http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/teletusciasabina_2000_img_2047.png"
+          },
+          "sub_136": {
+            "id": 136,
+            "mode": "video",
+            "name": "Channel 137",
+            "sub_name": "",
+            "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/tva/tva/chunklist_w2057719642.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/televideo_agrigento_img_2049.png"
+          },
+          "sub_137": {
+            "id": 137,
+            "mode": "video",
+            "name": "Channel 138",
+            "sub_name": "",
+            "stream_video_url": "https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tevere_tv_img_2051.png"
+          },
+          "sub_138": {
+            "id": 138,
+            "mode": "video",
+            "name": "Channel 139",
+            "sub_name": "",
+            "stream_video_url": "http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tln_tele_lazio_nord_img_2052.png"
+          },
+          "sub_139": {
+            "id": 139,
+            "mode": "video",
+            "name": "Channel 140",
+            "sub_name": "",
+            "stream_video_url": "http://livetr.teleromagna.it/news/live/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tr_mia_img_2053.png"
+          },
+          "sub_140": {
+            "id": 140,
+            "mode": "video",
+            "name": "Channel 141",
+            "sub_name": "",
+            "stream_video_url": "http://livetr.teleromagna.it/mia/live/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tr24_img_273.png"
+          },
+          "sub_141": {
+            "id": 141,
+            "mode": "video",
+            "name": "Channel 142",
+            "sub_name": "",
+            "stream_video_url": "http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/trentino_tv_img_2054.png"
+          },
+          "sub_142": {
+            "id": 142,
+            "mode": "video",
+            "name": "Channel 143",
+            "sub_name": "",
+            "stream_video_url": "http://streaming126.trgmedia.it/filestream/livestreamHD.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/trg_umbria_img_2055.png"
+          },
+          "sub_143": {
+            "id": 143,
+            "mode": "video",
+            "name": "Channel 144",
+            "sub_name": "",
+            "stream_video_url": "http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/trm_h24_basilicata_img_272.png"
+          },
+          "sub_144": {
+            "id": 144,
+            "mode": "video",
+            "name": "Channel 145",
+            "sub_name": "",
+            "stream_video_url": "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tv_qui_(modena)_img_2060.png"
+          },
+          "sub_145": {
+            "id": 145,
+            "mode": "video",
+            "name": "Channel 146",
+            "sub_name": "",
+            "stream_video_url": "http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tv2000_img_123.png"
+          },
+          "sub_146": {
+            "id": 146,
+            "mode": "video",
+            "name": "Channel 147",
+            "sub_name": "",
+            "stream_video_url": "http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tv2000_img_123.png"
+          },
+          "sub_147": {
+            "id": 147,
+            "mode": "video",
+            "name": "Channel 148",
+            "sub_name": "",
+            "stream_video_url": "http://mi1.wz.tv2000.it/tv2000_alfa.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tv2000_img_123.png"
+          },
+          "sub_148": {
+            "id": 148,
+            "mode": "video",
+            "name": "Channel 149",
+            "sub_name": "",
+            "stream_video_url": "http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tv7_benevento_img_3115.png"
+          },
+          "sub_149": {
+            "id": 149,
+            "mode": "video",
+            "name": "Channel 150",
+            "sub_name": "",
+            "stream_video_url": "http://217.61.26.46:8080/hls/triveneta.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tv7_triveneta_img_2061.png"
+          },
+          "sub_150": {
+            "id": 150,
+            "mode": "video",
+            "name": "Channel 151",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tvrs_img_2064.png"
+          },
+          "sub_151": {
+            "id": 151,
+            "mode": "video",
+            "name": "Channel 152",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/vera_tv_(marche)_img_2065.png"
+          },
+          "sub_152": {
+            "id": 152,
+            "mode": "video",
+            "name": "Channel 153",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/vera_tv_(marche)_img_2065.png"
+          },
+          "sub_153": {
+            "id": 153,
+            "mode": "video",
+            "name": "Channel 154",
+            "sub_name": "",
+            "stream_video_url": "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/vh1_img_2066.png"
+          },
+          "sub_154": {
+            "id": 154,
+            "mode": "video",
+            "name": "Channel 155",
+            "sub_name": "",
+            "stream_video_url": "http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/video_calabria_img_2067.png"
+          },
+          "sub_155": {
+            "id": 155,
+            "mode": "video",
+            "name": "Channel 156",
+            "sub_name": "",
+            "stream_video_url": "http://streaming.ermeslink.com:88/hlsme/vmstream.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_156": {
+            "id": 156,
+            "mode": "video",
+            "name": "Channel 157",
+            "sub_name": "",
+            "stream_video_url": "http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/videolina_(sardegna)_img_2068.png"
+          },
+          "sub_157": {
+            "id": 157,
+            "mode": "video",
+            "name": "Channel 158",
+            "sub_name": "",
+            "stream_video_url": "http://livestreaming.videolina.it/live/Videolina/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Italy.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/videolina_(sardegna)_img_2068.png"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,1 +1,135 @@
-{"TV_Data": {"Channel_List": {"is_channel_list": true, "is_override": true, "thumb_width": 150, "all_Channels_Tab_Name": "", "main": {"id": 0, "name": "Chinese Channels", "sub_name": "Channels", "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-china_748006.png", "sub": {"sub_0": {"id": 0, "mode": "video", "name": "1 Chinese", "sub_name": "", "stream_video_url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_1": {"id": 1, "mode": "video", "name": "2 Chinese", "sub_name": "", "stream_video_url": "http://live.cgtn.com/1000/prog_index.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_2": {"id": 2, "mode": "video", "name": "3 Chinese", "sub_name": "", "stream_video_url": "http://live.cgtn.com/500/prog_index.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_3": {"id": 3, "mode": "video", "name": "4 Chinese", "sub_name": "", "stream_video_url": "http://live.cgtn.com/1000a/prog_index.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/cgtn_arabic_img_3040.png"}, "sub_4": {"id": 4, "mode": "video", "name": "5 Chinese", "sub_name": "", "stream_video_url": "http://live.cgtn.com/1000a/prog_index.m3u8?fluxustv.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/cgtn_arabic_img_3040.png"}, "sub_5": {"id": 5, "mode": "video", "name": "6 Chinese", "sub_name": "", "stream_video_url": "http://livear.cgtn.com/1000a/prog_index.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/cgtn_arabic_img_3040.png"}, "sub_6": {"id": 6, "mode": "video", "name": "7 Chinese", "sub_name": "", "stream_video_url": "http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/cgtn_documentary_img_3041.png"}, "sub_7": {"id": 7, "mode": "video", "name": "8 Chinese", "sub_name": "", "stream_video_url": "http://bit.ly/2D1FvME", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/cgtn_documentary_img_3041.png"}, "sub_8": {"id": 8, "mode": "video", "name": "9 Chinese", "sub_name": "", "stream_video_url": "https://livedoc.cgtn.com/1000d/prog_index.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/cgtn_documentary_img_3041.png"}, "sub_9": {"id": 9, "mode": "video", "name": "10 Chinese", "sub_name": "", "stream_video_url": "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/cgtn_documentary_img_3041.png"}, "sub_10": {"id": 10, "mode": "video", "name": "11 Chinese", "sub_name": "", "stream_video_url": "https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/hope_channel_img_2630.png"}, "sub_11": {"id": 11, "mode": "video", "name": "12 Chinese", "sub_name": "", "stream_video_url": "http://bcliveuniv-lh.akamaihd.net:80/i/Live_1@384161/index_500_av-p.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/hope_channel_img_2630.png"}, "sub_12": {"id": 12, "mode": "video", "name": "13 Chinese", "sub_name": "", "stream_video_url": "http://xinl.live.maxtv.cn/live/zb/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/max_financial_media_img_3079.png"}}}}}}
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 0,
+        "name": "Chinese Channels",
+        "sub_name": "Channels",
+        "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-china_748006.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "video",
+            "name": "Channel 1",
+            "sub_name": "",
+            "stream_video_url": "http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Chinese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "video",
+            "name": "Channel 2",
+            "sub_name": "",
+            "stream_video_url": "http://live.cgtn.com/1000/prog_index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Chinese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "video",
+            "name": "Channel 3",
+            "sub_name": "",
+            "stream_video_url": "http://live.cgtn.com/500/prog_index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Chinese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "video",
+            "name": "Channel 4",
+            "sub_name": "",
+            "stream_video_url": "http://live.cgtn.com/1000a/prog_index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Chinese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/cgtn_arabic_img_3040.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "video",
+            "name": "Channel 5",
+            "sub_name": "",
+            "stream_video_url": "http://live.cgtn.com/1000a/prog_index.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Chinese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/cgtn_arabic_img_3040.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "video",
+            "name": "Channel 6",
+            "sub_name": "",
+            "stream_video_url": "http://livear.cgtn.com/1000a/prog_index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Chinese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/cgtn_arabic_img_3040.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "video",
+            "name": "Channel 7",
+            "sub_name": "",
+            "stream_video_url": "http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Chinese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/cgtn_documentary_img_3041.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "video",
+            "name": "Channel 8",
+            "sub_name": "",
+            "stream_video_url": "http://bit.ly/2D1FvME",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Chinese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/cgtn_documentary_img_3041.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "video",
+            "name": "Channel 9",
+            "sub_name": "",
+            "stream_video_url": "https://livedoc.cgtn.com/1000d/prog_index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Chinese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/cgtn_documentary_img_3041.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "video",
+            "name": "Channel 10",
+            "sub_name": "",
+            "stream_video_url": "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Chinese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/cgtn_documentary_img_3041.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "video",
+            "name": "Channel 11",
+            "sub_name": "",
+            "stream_video_url": "https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Chinese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/hope_channel_img_2630.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "video",
+            "name": "Channel 12",
+            "sub_name": "",
+            "stream_video_url": "http://bcliveuniv-lh.akamaihd.net:80/i/Live_1@384161/index_500_av-p.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Chinese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/hope_channel_img_2630.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "video",
+            "name": "Channel 13",
+            "sub_name": "",
+            "stream_video_url": "http://xinl.live.maxtv.cn/live/zb/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Chinese.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/max_financial_media_img_3079.png"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,1 +1,252 @@
-{"TV_Data": {"Channel_List": {"is_channel_list": true, "is_override": true, "thumb_width": 150, "all_Channels_Tab_Name": "", "main": {"id": 0, "name": "Ukraine Channels", "sub_name": "Channels", "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-ukraine_748083.png", "sub": {"sub_0": {"id": 0, "mode": "video", "name": "1 Ukraine", "sub_name": "", "stream_video_url": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/default_img.png"}, "sub_1": {"id": 1, "mode": "video", "name": "2 Ukraine", "sub_name": "", "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/atr_img_591.png"}, "sub_2": {"id": 2, "mode": "video", "name": "3 Ukraine", "sub_name": "", "stream_video_url": "http://stream.atr.ua/atr/live/index.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/atr_img_591.png"}, "sub_3": {"id": 3, "mode": "video", "name": "4 Ukraine", "sub_name": "", "stream_video_url": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/bambarbia_tv_img_2849.png"}, "sub_4": {"id": 4, "mode": "video", "name": "5 Ukraine", "sub_name": "", "stream_video_url": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/bambarbia_tv_img_2849.png"}, "sub_5": {"id": 5, "mode": "video", "name": "6 Ukraine", "sub_name": "", "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8?codec=mpeg4", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/eko_tv_img_593.png"}, "sub_6": {"id": 6, "mode": "video", "name": "7 Ukraine", "sub_name": "", "stream_video_url": "http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/gtv_img_2850.png"}, "sub_7": {"id": 7, "mode": "video", "name": "8 Ukraine", "sub_name": "", "stream_video_url": "http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/gtv_img_2850.png"}, "sub_8": {"id": 8, "mode": "video", "name": "9 Ukraine", "sub_name": "", "stream_video_url": "http://stream.atr.ua/lale//live/index.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/lale_img_597.png"}, "sub_9": {"id": 9, "mode": "video", "name": "10 Ukraine", "sub_name": "", "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/maxxi-tv_img_598.png"}, "sub_10": {"id": 10, "mode": "video", "name": "11 Ukraine", "sub_name": "", "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&app=playlist", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/maxxi-tv_img_598.png"}, "sub_11": {"id": 11, "mode": "video", "name": "12 Ukraine", "sub_name": "", "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/maxxi-tv_img_598.png"}, "sub_12": {"id": 12, "mode": "video", "name": "13 Ukraine", "sub_name": "", "stream_video_url": "http://w4.mostvideo.tv/heltv/ch2.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/mostvideo_img_599.png"}, "sub_13": {"id": 13, "mode": "video", "name": "14 Ukraine", "sub_name": "", "stream_video_url": "http://w4.mostvideo.tv/tv/ch1.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/mostvideo_img_599.png"}, "sub_14": {"id": 14, "mode": "video", "name": "15 Ukraine", "sub_name": "", "stream_video_url": "http://wow.stib.com.ua:1935/tv/ch1/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/mostvideo_img_599.png"}, "sub_15": {"id": 15, "mode": "video", "name": "16 Ukraine", "sub_name": "", "stream_video_url": "http://wow.stib.com.ua:1935/tv/ch1/playlist_b125000.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/mostvideo_img_599.png"}, "sub_16": {"id": 16, "mode": "video", "name": "17 Ukraine", "sub_name": "", "stream_video_url": "http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/newsone_img_601.png"}, "sub_17": {"id": 17, "mode": "video", "name": "18 Ukraine", "sub_name": "", "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/otv_img_602.png"}, "sub_18": {"id": 18, "mode": "video", "name": "19 Ukraine", "sub_name": "", "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/otv_img_602.png"}, "sub_19": {"id": 19, "mode": "video", "name": "20 Ukraine", "sub_name": "", "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4&app=playlist", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/otv_img_602.png"}, "sub_20": {"id": 20, "mode": "video", "name": "21 Ukraine", "sub_name": "", "stream_video_url": "http://hls.simon.ua/live-HD/live/playlist.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/simon_img_2852.png"}, "sub_21": {"id": 21, "mode": "video", "name": "22 Ukraine", "sub_name": "", "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/uatv_img_610.png"}, "sub_22": {"id": 22, "mode": "video", "name": "23 Ukraine", "sub_name": "", "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8?codec=mpeg4", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/uatv_img_610.png"}, "sub_23": {"id": 23, "mode": "video", "name": "24 Ukraine", "sub_name": "", "stream_video_url": "http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/uatv_img_610.png"}, "sub_24": {"id": 24, "mode": "video", "name": "25 Ukraine", "sub_name": "", "stream_video_url": "http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/uatv_img_610.png"}, "sub_25": {"id": 25, "mode": "video", "name": "26 Ukraine", "sub_name": "", "stream_video_url": "https://ua-tv-hls3.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8", "thumbnail_url": "https://www.iptv-updated.com/uploaded_images/uatv_img_610.png"}}}}}}
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 0,
+        "name": "Ukraine Channels",
+        "sub_name": "Channels",
+        "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-ukraine_748083.png",
+        "sub": {
+          "sub_0": {
+            "id": 0,
+            "mode": "video",
+            "name": "Channel 1",
+            "sub_name": "",
+            "stream_video_url": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+          },
+          "sub_1": {
+            "id": 1,
+            "mode": "video",
+            "name": "Channel 2",
+            "sub_name": "",
+            "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/atr_img_591.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "video",
+            "name": "Channel 3",
+            "sub_name": "",
+            "stream_video_url": "http://stream.atr.ua/atr/live/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/atr_img_591.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "video",
+            "name": "Channel 4",
+            "sub_name": "",
+            "stream_video_url": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/bambarbia_tv_img_2849.png"
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "video",
+            "name": "Channel 5",
+            "sub_name": "",
+            "stream_video_url": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/bambarbia_tv_img_2849.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "video",
+            "name": "Channel 6",
+            "sub_name": "",
+            "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8?codec=mpeg4",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/eko_tv_img_593.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "video",
+            "name": "Channel 7",
+            "sub_name": "",
+            "stream_video_url": "http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/gtv_img_2850.png"
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "video",
+            "name": "Channel 8",
+            "sub_name": "",
+            "stream_video_url": "http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/gtv_img_2850.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "video",
+            "name": "Channel 9",
+            "sub_name": "",
+            "stream_video_url": "http://stream.atr.ua/lale//live/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/lale_img_597.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "video",
+            "name": "Channel 10",
+            "sub_name": "",
+            "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/maxxi-tv_img_598.png"
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "video",
+            "name": "Channel 11",
+            "sub_name": "",
+            "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&app=playlist",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/maxxi-tv_img_598.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "video",
+            "name": "Channel 12",
+            "sub_name": "",
+            "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/maxxi-tv_img_598.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "video",
+            "name": "Channel 13",
+            "sub_name": "",
+            "stream_video_url": "http://w4.mostvideo.tv/heltv/ch2.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mostvideo_img_599.png"
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "video",
+            "name": "Channel 14",
+            "sub_name": "",
+            "stream_video_url": "http://w4.mostvideo.tv/tv/ch1.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mostvideo_img_599.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "video",
+            "name": "Channel 15",
+            "sub_name": "",
+            "stream_video_url": "http://wow.stib.com.ua:1935/tv/ch1/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mostvideo_img_599.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "video",
+            "name": "Channel 16",
+            "sub_name": "",
+            "stream_video_url": "http://wow.stib.com.ua:1935/tv/ch1/playlist_b125000.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mostvideo_img_599.png"
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "video",
+            "name": "Channel 17",
+            "sub_name": "",
+            "stream_video_url": "http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/newsone_img_601.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "video",
+            "name": "Channel 18",
+            "sub_name": "",
+            "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/otv_img_602.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "video",
+            "name": "Channel 19",
+            "sub_name": "",
+            "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/otv_img_602.png"
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "video",
+            "name": "Channel 20",
+            "sub_name": "",
+            "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4&app=playlist",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/otv_img_602.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "video",
+            "name": "Channel 21",
+            "sub_name": "",
+            "stream_video_url": "http://hls.simon.ua/live-HD/live/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/simon_img_2852.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "video",
+            "name": "Channel 22",
+            "sub_name": "",
+            "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/uatv_img_610.png"
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "video",
+            "name": "Channel 23",
+            "sub_name": "",
+            "stream_video_url": "http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8?codec=mpeg4",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/uatv_img_610.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "video",
+            "name": "Channel 24",
+            "sub_name": "",
+            "stream_video_url": "http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/uatv_img_610.png"
+          },
+          "sub_24": {
+            "id": 24,
+            "mode": "video",
+            "name": "Channel 25",
+            "sub_name": "",
+            "stream_video_url": "http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/uatv_img_610.png"
+          },
+          "sub_25": {
+            "id": 25,
+            "mode": "video",
+            "name": "Channel 26",
+            "sub_name": "",
+            "stream_video_url": "https://ua-tv-hls3.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Ukraine.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/uatv_img_610.png"
+          }
+        }
+      }
+    }
+  }
+}
