@@ -325,7 +325,7 @@
         "website_url":"https://play.google.com/store/apps/details?id=com.tvgram.germanlivetv",
         "is_system_browser":true,
 
-        "updated_version_code":1,
+        "updated_version_code":2,
 
         "filename":"German_Live_TV.apk",
         "title":"App Update",
@@ -383,7 +383,7 @@
         "is_inapp_other_player_support":true,
         "is_other_player_session_free_support":false,
 
-        "is_original_thumb_icon":false,
+        "is_original_thumb_icon":true,
         "is_playlist_support":false,
         "is_barcode_support":false,
 
@@ -539,7 +539,7 @@
         "is_override" : false,
         "registration_detail1": "",
         "registration_detail": "German Live TV® 2018",
-        "version_detail": "version : 1.0"
+        "version_detail": "version : 2.0"
       },
 
       "Live_Support":
