@@ -375,26 +375,26 @@
 
       "Supports_Availability":
       {
-        "is_override" : false,
+         "is_override" : false,
         "is_smart_player_support": true,
         "is_android_player_support": true,
         "is_webview_player_support": true,
-        "is_other_player_support":true,
-        "is_inapp_other_player_support":true,
+        "is_other_player_support":false,
+        "is_inapp_other_player_support":false,
         "is_other_player_session_free_support":false,
 
-        "is_original_thumb_icon":false,
+        "is_original_thumb_icon":true,
         "is_playlist_support":false,
         "is_barcode_support":false,
 
         "is_cast_support":true,
-        "is_inapp_cast_support":true,
+        "is_inapp_cast_support":false,
         "is_cast_session_free_support":false,
 
-        "is_remove_ads_support":true,
+        "is_remove_ads_support":false,
         "is_remove_ads_session_free_support":false,
 
-        "is_purchase_restore_support":true
+        "is_purchase_restore_support":false
       },
 
       "Other_Player_Support":
