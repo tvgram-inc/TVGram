@@ -375,7 +375,7 @@
 
       "Supports_Availability":
       {
-        ""is_override" : false,
+        "is_override" : false,
         "is_smart_player_support": true,
         "is_android_player_support": true,
         "is_webview_player_support": false,
