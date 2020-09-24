@@ -106,7 +106,7 @@
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 10
+          "visibility_percentage": 1
         },
         "unity_ads": {
           "is_debug_mode": false,
