@@ -58,9 +58,9 @@
         "default_ads": "facebook_ads",
         "final_default_ads":"google_ads",
         "facebook_ads": {
-          "ads_app_id": "353151288785830",
-          "banner_ad_unit_id": "353151288785830_353151742119118",
-          "interstitial_ad_unit_id": "353151288785830_353152322119060",
+          "ads_app_id": "3406687266106165",
+          "banner_ad_unit_id": "3406687266106165_3406699322771626",
+          "interstitial_ad_unit_id": "3406687266106165_3406714399436785",
           "ads_banner_clicks_per_duration_day" : -1,
           "ads_interstitial_clicks_per_duration_day" : -1,
           "ads_clicks_duration_day" : 1,
