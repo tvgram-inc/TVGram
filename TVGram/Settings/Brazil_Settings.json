@@ -58,9 +58,9 @@
         "default_ads": "unity_ads",
         "final_default_ads":"startapp_ads",
         "facebook_ads": {
-          "ads_app_id": "794479587994655",
-          "banner_ad_unit_id": "794479587994655_794481127994501",
-          "interstitial_ad_unit_id": "794479587994655_794484681327479",
+          "ads_app_id": "254162725858456",
+          "banner_ad_unit_id": "254162725858456_254170809190981",
+          "interstitial_ad_unit_id": "254162725858456_254171742524221",
           "ads_banner_clicks_per_duration_day" : -1,
           "ads_interstitial_clicks_per_duration_day" : -1,
           "ads_clicks_duration_day" : 1,
