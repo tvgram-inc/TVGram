@@ -55,23 +55,23 @@
 
           "visibility_percentage": 0
         },
-        "default_ads": "unity_ads",
-        "final_default_ads":"startapp_ads",
+        "default_ads": "facebook_ads",
+        "final_default_ads":"google_ads",
         "facebook_ads": {
-          "ads_app_id": "353151288785830",
-          "banner_ad_unit_id": "353151288785830_353151742119118",
-          "interstitial_ad_unit_id": "353151288785830_353152322119060",
+          "ads_app_id": "376480953476355",
+          "banner_ad_unit_id": "376480953476355_376485296809254",
+          "interstitial_ad_unit_id": "376480953476355_376486623475788",
           "ads_banner_clicks_per_duration_day" : -1,
           "ads_interstitial_clicks_per_duration_day" : -1,
           "ads_clicks_duration_day" : 1,
           "is_banner_safety_layer_one_click_remove":true,
           "is_interstitial_safety_layer_one_click_remove":true,
           "is_permanent_safety_layer": false,
-          "is_ads": false,
-          "is_banner_ads": false,
-          "is_interstitial_ads": false,
+          "is_ads": true,
+          "is_banner_ads": true,
+          "is_interstitial_ads": true,
           "is_stream_player_banner_ads": false,
-          "is_initially_ads_container_visible":false,
+          "is_initially_ads_container_visible":true,
 
           "is_illegal_interstitial_ads": false,
           "is_legal_interstitial_ads": true,
@@ -122,18 +122,18 @@
           "is_banner_safety_layer_one_click_remove":false,
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
-          "is_ads": true,
-          "is_banner_ads": true,
-          "is_interstitial_ads": true,
-          "is_stream_player_banner_ads": true,
-          "is_initially_ads_container_visible":true,
+          "is_ads": false,
+          "is_banner_ads": false,
+          "is_interstitial_ads": false,
+          "is_stream_player_banner_ads": false,
+          "is_initially_ads_container_visible":false,
 
           "is_illegal_interstitial_ads": true,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 50
+          "visibility_percentage": 0
         },
         "custom_ads" :
         {
@@ -378,7 +378,7 @@
         "is_override" : false,
         "is_smart_player_support": true,
         "is_android_player_support": true,
-        "is_webview_player_support": true,
+        "is_webview_player_support": false,
         "is_other_player_support":true,
         "is_inapp_other_player_support":true,
         "is_other_player_session_free_support":false,
