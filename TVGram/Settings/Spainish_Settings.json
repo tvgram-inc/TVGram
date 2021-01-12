@@ -122,7 +122,7 @@
           "is_banner_safety_layer_one_click_remove":false,
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
-           "is_ads": false,
+          "is_ads": false,
           "is_banner_ads": false,
           "is_interstitial_ads": false,
           "is_stream_player_banner_ads": false,
@@ -320,9 +320,9 @@
         "is_popup_dialog": true,
         "is_update_require":true,
 
-        "package_id":"com.tvgram.spainishlivetv",
+        "package_id":"com.tvgram.spanishlivetv",
         "download_url":"",
-        "website_url":"https://play.google.com/store/apps/details?id=com.tvgram.spainishlivetv",
+        "website_url":"https://play.google.com/store/apps/details?id=com.tvgram.spanishlivetv",
         "is_system_browser":true,
 
         "updated_version_code":2,
@@ -342,7 +342,7 @@
         "class_name" : "com.purchase.core.MainActivity",
         "purchase_package_id_all" : "com.allinone.purchase",
         "purchase_package_id1" : "com.purchase.core",
-        "purchase_package_id" : "com.tvgram.spainishlivetv",
+        "purchase_package_id" : "com.tvgram.spanishlivetv",
         "download_url_all" : "https://github.com/tvgram-inc/TVGram/tree/master/TVGram/Common/All%20In%20One%20Purchase.apk",
         "download_url_core" : "https://github.com/tvgram-inc/TVGram/tree/master/TVGram/Common/Purchase%20Core.apk",
         "download_url" : "",
@@ -496,8 +496,8 @@
       {
         "is_override" : false,
         "is_rate_app" : true,
-        "package_id" : "com.tvgram.spainishlivetv",
-        "rate_app_url" : "https://play.google.com/store/apps/details?id=com.tvgram.spainishlivetv",
+        "package_id" : "com.tvgram.spanishlivetv",
+        "rate_app_url" : "https://play.google.com/store/apps/details?id=com.tvgram.spanishlivetv",
         "rate_message" : "Please Rate us and promote us."
       },
 
@@ -513,7 +513,7 @@
       {
         "is_override" : false,
         "is_share_app" : true,
-        "share_message_app": "Are you looking best Spainish Live TV App In which you can see Live TV. then you hurry up and download Spainish Live TV from here : https://play.google.com/store/apps/details?id=com.tvgram.spainishlivetv",
+        "share_message_app": "Are you looking best Spainish Live TV App In which you can see Live TV. then you hurry up and download Spainish Live TV from here : https://play.google.com/store/apps/details?id=com.tvgram.spanishlivetv",
         "share_message_iptv": "Share Spainish Live TV url : ",
         "share_message_link": "Share link url : "
       },
