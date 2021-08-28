@@ -56,7 +56,7 @@
           "visibility_percentage": 0
         },
         "default_ads": "facebook_ads",
-        "final_default_ads":"startapp_ads",
+        "final_default_ads":"google_ads",
         "facebook_ads": {
           "ads_app_id": "376480953476355",
           "banner_ad_unit_id": "376480953476355_376485296809254",
@@ -81,32 +81,32 @@
           "visibility_percentage": 100
         },
         "google_ads": {
-          "ads_app_id": "ca-app-pub-5004393487171509~6685526148",
-          "banner_ad_unit_id1": "ca-app-pub-5004393487171509/9283769324",
-          "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
-          "interstitial_ad_unit_id1": "ca-app-pub-5004393487171509/1417598032",
-          "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
-          "ads_banner_clicks_per_duration_day" : 2,
+          "ads_app_id": "ca-app-pub-9464849294744852~1625281867",
+          "banner_ad_unit_id": "/22387492205,22499930938/com.tvgram.francelivetv.Banner0.1630155293",
+          "banner_ad_unit_id1": "ca-app-pub-3940256099942544/6300978111",
+          "interstitial_ad_unit_id": "/22387492205,22499930938/com.tvgram.francelivetv.Interstitial0.1630155308",
+          "interstitial_ad_unit_id1": "ca-app-pub-3940256099942544/1033173712",
+          "ads_banner_clicks_per_duration_day" : -1,
           "ads_interstitial_clicks_per_duration_day" : -1,
           "ads_clicks_duration_day" : 1,
           "safety_layer_delay_millisecond" : 100,
           "is_banner_safety_layer_one_click_remove":false,
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
-          "is_ads": false,
-          "is_banner_ads": false,
-          "is_interstitial_ads": false,
+          "is_ads": true,
+          "is_banner_ads": true,
+          "is_interstitial_ads": true,
           "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":true,
-          "native_ad_unit_id": "ca-app-pub-5004393487171509/4187942046",
-          "rewarded_video_ad_unit_id": "ca-app-pub-5004393487171509/4187942046",
+          "native_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+          "rewarded_video_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
 
           "is_illegal_interstitial_ads": false,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 0
+          "visibility_percentage": 10
         },
         "unity_ads": {
           "is_debug_mode": false,
