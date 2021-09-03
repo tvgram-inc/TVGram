@@ -55,8 +55,8 @@
 
           "visibility_percentage": 0
         },
-        "default_ads": "facebook_ads",
-        "final_default_ads":"google_ads",
+        "default_ads": "google_ads",
+        "final_default_ads":"startapp_ads",
         "facebook_ads": {
           "ads_app_id": "671298366994499",
           "banner_ad_unit_id": "671298366994499_671941383596864",
@@ -67,18 +67,18 @@
           "is_banner_safety_layer_one_click_remove":true,
           "is_interstitial_safety_layer_one_click_remove":true,
           "is_permanent_safety_layer": false,
-          "is_ads": true,
-          "is_banner_ads": true,
-          "is_interstitial_ads": true,
+          "is_ads": false,
+          "is_banner_ads": false,
+          "is_interstitial_ads": false,
           "is_stream_player_banner_ads": false,
-          "is_initially_ads_container_visible":true,
+          "is_initially_ads_container_visible":false,
 
           "is_illegal_interstitial_ads": false,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 90
+          "visibility_percentage": 0
         },
         "google_ads": {
           "ads_app_id": "ca-app-pub-9464849294744852~1625281867",
@@ -96,7 +96,7 @@
           "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
-          "is_stream_player_banner_ads": false,
+          "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
           "native_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
           "rewarded_video_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
@@ -106,7 +106,7 @@
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 10
+          "visibility_percentage": 100
         },
         "unity_ads": {
           "is_debug_mode": false,
