@@ -56,7 +56,7 @@
           "visibility_percentage": 0
         },
         "default_ads": "facebook_ads",
-        "final_default_ads":"custom_ads",
+        "final_default_ads":"google_ads",
         "facebook_ads": {
           "ads_app_id": "526585354676308",
           "banner_ad_unit_id": "526585354676308_527117021289808",
@@ -137,7 +137,7 @@
         },
         "custom_ads" :
         {
-          "is_ads": true,
+          "is_ads": false,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
@@ -148,19 +148,19 @@
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": false,
 
-          "visibility_percentage": 100,
+          "visibility_percentage": 0,
           "ads_list" :
           {
             "ads_1" :
             {
               "id" : 1,
               "on_back_close" : true,
-              "is_banner_webview" : true,
+              "is_banner_webview" : false,
               "title" : "Google Pay Earn Money",
               "description" : "Join me on Earn App, a payments app by This App. Enter my code (Rb50s) and then make a payment. We'll each get ₹51!",
               "banner_image" : "https://www.flashsaletricks.com/wp-content/uploads/2017/04/Chillr_Refer_Earn_Rs75_24April-1024x451.png",
               "logo_image" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
-              "website_url" : "https://www.amazon.in",
+              "website_url" : "https://gplinks.in/IoijtsbK",
               "playlist_url1" : "https://raw.githubusercontent.com/PocketIPTV/iptv/main/settings/converted_Channel.json",
               "background_color" : "#ffffff",
               "text_title_color" : "#666666",
