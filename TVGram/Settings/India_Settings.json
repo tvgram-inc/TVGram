@@ -210,7 +210,7 @@
               "id" : 4,
               "on_back_close" : false,
               "is_banner_webview" : false,
-              "is_interstitial_webview":true,
+              "is_interstitial_webview":false,
               "banner_webview_url":"https://amzn.to/3Dq5ond",
               "interstitial_webview_url":"https://amzn.to/3Dq5ond",
               "title" : "boAt Rockerz 255 with 8 Hours Battey Backup",
