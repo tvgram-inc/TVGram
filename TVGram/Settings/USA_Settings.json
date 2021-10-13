@@ -93,7 +93,7 @@
           "is_banner_safety_layer_one_click_remove":false,
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
-          "is_ads": true,
+          "is_ads": false,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
@@ -106,7 +106,7 @@
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 100
+          "visibility_percentage": 0
         },
         "unity_ads": {
           "is_debug_mode": false,
@@ -137,7 +137,7 @@
         },
         "custom_ads" :
         {
-          "is_ads": false,
+          "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
@@ -148,23 +148,98 @@
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": false,
 
-          "visibility_percentage": 0,
+          "visibility_percentage": 10,
           "ads_list" :
           {
             "ads_1" :
             {
               "id" : 1,
-              "on_back_close" : true,
+              "on_back_close" : false,
               "is_banner_webview" : false,
-              "title" : "Google Pay Earn Money",
-              "description" : "Join me on Earn App, a payments app by This App. Enter my code (Rb50s) and then make a payment. We'll each get ₹51!",
-              "banner_image" : "https://www.flashsaletricks.com/wp-content/uploads/2017/04/Chillr_Refer_Earn_Rs75_24April-1024x451.png",
-              "logo_image" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
-              "website_url" : "https://gplinks.in/IoijtsbK",
+              "is_interstitial_webview":false,
+              "banner_webview_url":"https://amzn.to/3Dq5ond",
+              "interstitial_webview_url":"https://amzn.to/3Dq5ond",
+              "title" : "Show your Math knowledge & Win Now",
+              "description" : "Play GK, Math & other quizzes & Win Now",
+              "banner_image" : "https://raw.githubusercontent.com/bitcodingsolutions/Qureka_Lite/main/Creatives/1%20(2).jpg",
+              "logo_image" : "https://raw.githubusercontent.com/bitcodingsolutions/Qureka_Lite/main/Creatives/tech-skills.jpg",
+              "website_url" : "https://333.game.qureka.com/freeentry?id=38597",
               "playlist_url1" : "https://raw.githubusercontent.com/PocketIPTV/iptv/main/settings/converted_Channel.json",
-              "background_color" : "#ffffff",
-              "text_title_color" : "#666666",
-              "text_description_color" : "#666666"
+              "background_color" : "#000000",
+              "text_title_color" : "#ffffff",
+              "text_description_color" : "#ffffff"
+            },
+          "ads_2" :
+            {
+              "id" : 2,
+              "on_back_close" : false,
+              "is_banner_webview" : false,
+              "is_interstitial_webview":false,
+              "banner_webview_url":"https://amzn.to/3Dq5ond",
+              "interstitial_webview_url":"https://amzn.to/3Dq5ond",
+              "title" : "Play & Win Coins Daily.",
+              "description" : "Come play Cricket contests running for 50,000 Coins daily.",
+              "banner_image" : "https://raw.githubusercontent.com/bitcodingsolutions/Qureka_Lite/main/Creatives/5%20(2).jpg",
+              "logo_image" : "https://raw.githubusercontent.com/bitcodingsolutions/Qureka_Lite/main/Creatives/8.png",
+              "website_url" : "https://333.game.qureka.com/freeentry?id=38598",
+              "playlist_url1" : "https://raw.githubusercontent.com/PocketIPTV/iptv/main/settings/converted_Channel.json",
+              "background_color" : "#000000",
+              "text_title_color" : "#ffffff",
+              "text_description_color" : "#ffffff"
+            },
+          "ads_3" :
+            {
+              "id" : 3,
+              "on_back_close" : false,
+              "is_banner_webview" : false,
+              "is_interstitial_webview":false,
+              "banner_webview_url":"https://amzn.to/3Dq5ond",
+              "interstitial_webview_url":"https://amzn.to/3Dq5ond",
+              "title" : "Play Quiz & Win Upto 50,000 Coins",
+              "description" : "No install required! Play Now",
+              "banner_image" : "https://raw.githubusercontent.com/bitcodingsolutions/Qureka_Lite/main/Creatives/500X300_6.png",
+              "logo_image" : "https://raw.githubusercontent.com/bitcodingsolutions/Qureka_Lite/main/Creatives/1%20(11).png",
+              "website_url" : "https://333.game.qureka.com/freeentry?id=38598",
+              "playlist_url1" : "https://raw.githubusercontent.com/PocketIPTV/iptv/main/settings/converted_Channel.json",
+              "background_color" : "#000000",
+              "text_title_color" : "#ffffff",
+              "text_description_color" : "#ffffff"
+            },
+          "ads_4" :
+            {
+              "id" : 4,
+              "on_back_close" : false,
+              "is_banner_webview" : false,
+              "is_interstitial_webview":false,
+              "banner_webview_url":"https://amzn.to/3Dq5ond",
+              "interstitial_webview_url":"https://amzn.to/3Dq5ond",
+              "title" : "Jeeto 10,000 Coins",
+              "description" : "Show your Math knowledge & Win Now",
+              "banner_image" : "https://raw.githubusercontent.com/bitcodingsolutions/Qureka_Lite/main/Creatives/500X300_6.png",
+              "logo_image" : "https://raw.githubusercontent.com/bitcodingsolutions/Qureka_Lite/main/Creatives/1%20(11).png",
+              "website_url" : "https://333.game.qureka.com",
+              "playlist_url1" : "https://raw.githubusercontent.com/PocketIPTV/iptv/main/settings/converted_Channel.json",
+              "background_color" : "#000000",
+              "text_title_color" : "#ffffff",
+              "text_description_color" : "#ffffff"
+            },
+          "ads_5" :
+            {
+              "id" : 5,
+              "on_back_close" : false,
+              "is_banner_webview" : false,
+              "is_interstitial_webview":false,
+              "banner_webview_url":"https://amzn.to/3Dq5ond",
+              "interstitial_webview_url":"https://amzn.to/3Dq5ond",
+              "title" : "Tech quiz for 50,000 coins open",
+              "description" : "Test your tech skills & win now",
+              "banner_image" : "https://raw.githubusercontent.com/bitcodingsolutions/Qureka_Lite/main/Creatives/800x480.jpg",
+              "logo_image" : "https://raw.githubusercontent.com/bitcodingsolutions/Qureka_Lite/main/Creatives/3.png",
+              "website_url" : "https://333.game.qureka.com",
+              "playlist_url1" : "https://raw.githubusercontent.com/PocketIPTV/iptv/main/settings/converted_Channel.json",
+              "background_color" : "#000000",
+              "text_title_color" : "#ffffff",
+              "text_description_color" : "#ffffff"
             }
           }
         },
