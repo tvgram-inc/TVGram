@@ -56,7 +56,7 @@
           "visibility_percentage": 0
         },
         "default_ads": "google_ads",
-        "final_default_ads":"facebook_ads",
+        "final_default_ads":"startapp_ads",
         "facebook_ads": {
           "ads_app_id": "526585354676308",
           "banner_ad_unit_id": "526585354676308_527117021289808",
@@ -78,7 +78,7 @@
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 10
+          "visibility_percentage": 0
         },
         "google_ads": {
           "ads_app_id": "ca-app-pub-9464849294744852~1625281867",
