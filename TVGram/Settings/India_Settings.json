@@ -55,8 +55,8 @@
 
           "visibility_percentage": 0
         },
-        "default_ads": "startapp_ads",
-        "final_default_ads":"custom_ads",
+        "default_ads": "google_ads",
+        "final_default_ads":"facebook_ads",
         "facebook_ads": {
           "ads_app_id": "526585354676308",
           "banner_ad_unit_id": "526585354676308_527117021289808",
@@ -78,13 +78,13 @@
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 90
+          "visibility_percentage": 10
         },
         "google_ads": {
           "ads_app_id": "ca-app-pub-9464849294744852~1625281867",
-          "banner_ad_unit_id": "/22387492205,22499930938/com.tvgram.indialivetv.Banner0.1630155256",
+          "banner_ad_unit_id": "/22675585931/India_victory_10.7_Banner",
           "banner_ad_unit_id1": "ca-app-pub-3940256099942544/6300978111",
-          "interstitial_ad_unit_id": "/22387492205,22499930938/com.tvgram.indialivetv.Interstitial0.1630155278",
+          "interstitial_ad_unit_id": "/22675585931/India_victory_10.7_Interstitial",
           "interstitial_ad_unit_id1": "ca-app-pub-3940256099942544/1033173712",
           "ads_banner_clicks_per_duration_day" : -1,
           "ads_interstitial_clicks_per_duration_day" : -1,
@@ -93,20 +93,20 @@
           "is_banner_safety_layer_one_click_remove":false,
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
-          "is_ads": false,
+          "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
-          "is_stream_player_banner_ads": false,
+          "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
-          "native_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+          "native_ad_unit_id": "/22675585931/India_victory_10.7_Native",
           "rewarded_video_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
 
-          "is_illegal_interstitial_ads": false,
+          "is_illegal_interstitial_ads": true,
           "is_legal_interstitial_ads": true,
-          "is_illegal_banner_ads": false,
+          "is_illegal_banner_ads": true,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 10
+          "visibility_percentage": 100
         },
         "unity_ads": {
           "is_debug_mode": false,
