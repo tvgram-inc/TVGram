@@ -55,8 +55,8 @@
 
           "visibility_percentage": 0
         },
-        "default_ads": "google_ads",
-        "final_default_ads":"facebook_ads",
+        "default_ads": "facebook_ads",
+        "final_default_ads":"google_ads",
         "facebook_ads": {
           "ads_app_id": "316254666416284",
           "banner_ad_unit_id": "124452629521515_124454002854711",
@@ -78,7 +78,7 @@
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 1
+          "visibility_percentage": 100
         },
         "google_ads": {
           "ads_app_id": "ca-app-pub-9464849294744852~1625281867",
@@ -106,7 +106,7 @@
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 100
+          "visibility_percentage": 1
         },
         "unity_ads": {
           "is_debug_mode": false,
