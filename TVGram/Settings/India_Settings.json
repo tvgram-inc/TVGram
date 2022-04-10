@@ -55,8 +55,8 @@
 
           "visibility_percentage": 0
         },
-        "default_ads": "google_ads",
-        "final_default_ads":"startapp_ads",
+        "default_ads": "startapp_ads",
+        "final_default_ads":"unity_ads",
         "facebook_ads": {
           "ads_app_id": "526585354676308",
           "banner_ad_unit_id": "526585354676308_527117021289808",
@@ -67,7 +67,7 @@
           "is_banner_safety_layer_one_click_remove":true,
           "is_interstitial_safety_layer_one_click_remove":true,
           "is_permanent_safety_layer": false,
-          "is_ads": false,
+          "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": false,
@@ -78,7 +78,7 @@
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 0
+          "visibility_percentage": 100
         },
         "google_ads": {
           "ads_app_id": "ca-app-pub-9464849294744852~1625281867",
@@ -93,7 +93,7 @@
           "is_banner_safety_layer_one_click_remove":false,
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
-          "is_ads": true,
+          "is_ads": false,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
@@ -106,7 +106,7 @@
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 100
+          "visibility_percentage": 0
         },
         "unity_ads": {
           "is_debug_mode": false,
@@ -122,8 +122,8 @@
           "is_banner_safety_layer_one_click_remove":false,
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
-          "is_ads": false,
-          "is_banner_ads": false,
+          "is_ads": true,
+          "is_banner_ads": true,
           "is_interstitial_ads": false,
           "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":false,
@@ -133,7 +133,7 @@
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 0
+          "visibility_percentage": 10
         },
         "custom_ads" :
         {
