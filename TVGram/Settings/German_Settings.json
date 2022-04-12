@@ -9,6 +9,11 @@
         "illegal_ads_on_cancel_delay": 1,
         "banner_ads_reload_count": 1,
         "interstitial_ads_reload_count": 1,
+        "rewarded_ads_reload_count":3,
+        "native_ads_reload_count":3,
+        "open_ads_reload_count":3,
+        "is_geoedge_sdk_flag" : true,
+        "geoedge_sdk_key" : "755bfaf4-91f2-4843-85f1-527189ab389e",
         "ads_loading_text": "Ads will loading...",
         "applovin_ads": {
           "ads_app_id": "WELTwtWXafsts82Q1HIQ2v7OeEHUtGHOUcsPTMx21owuxzIzEbNGUVf8kycbCu-hVr5zB10Dpx5luOh7-4NSZ2",
