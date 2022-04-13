@@ -12,7 +12,7 @@
         "rewarded_ads_reload_count":3,
         "native_ads_reload_count":3,
         "open_ads_reload_count":3,
-        "show_interestial_show_count":2,
+        "show_interestial_show_count":3,
         "is_geoedge_sdk_flag" : true,
         "geoedge_sdk_key" : "755bfaf4-91f2-4843-85f1-527189ab389e",
         "ads_loading_text": "Ads will loading...",
@@ -62,7 +62,7 @@
           "visibility_percentage": 0
         },
         "default_ads": "google_ads",
-        "final_default_ads":"facebook_ads",
+        "final_default_ads":"startapp_ads",
         "facebook_ads": {
           "ads_app_id": "3406687266106165",
           "banner_ad_unit_id": "3406687266106165_3406699322771626",
@@ -73,20 +73,20 @@
           "is_banner_safety_layer_one_click_remove":true,
           "is_interstitial_safety_layer_one_click_remove":true,
           "is_permanent_safety_layer": false,
-          "is_ads": true,
-          "is_banner_ads": true,
-          "is_interstitial_ads": true,
+          "is_ads": false,
+          "is_banner_ads": false,
+          "is_interstitial_ads": false,
           "is_stream_player_banner_ads": false,
-          "is_initially_ads_container_visible":true,
+          "is_initially_ads_container_visible":false,
 
           "is_illegal_interstitial_ads": false,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 1
+          "visibility_percentage": 0
         },
-        "google_ads": {
+        "google_ads1": {
           "ads_app_id": "ca-app-pub-1867655643934057~5991937941",
           "banner_ad_unit_id1": "ca-app-pub-5004393487171509/9283769324",
           "banner_ad_unit_id2": "ca-app-pub-3940256099942544/6300978111",
@@ -119,7 +119,7 @@
 
           "visibility_percentage": 100
         },
-        "google_ads1": {
+        "google_ads": {
           "ads_app_id": "ca-app-pub-9464849294744852~1625281867",
           "banner_ad_unit_id": "/22675585931/German_victory_10.3_Banner",
           "banner_ad_unit_id1": "ca-app-pub-3940256099942544/6300978111",
@@ -140,9 +140,9 @@
           "native_ad_unit_id": "/22675585931/German_victory_10.3_native",
           "rewarded_video_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
 
-          "is_illegal_interstitial_ads": true,
+          "is_illegal_interstitial_ads": false,
           "is_legal_interstitial_ads": true,
-          "is_illegal_banner_ads": true,
+          "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
 
           "visibility_percentage": 100
