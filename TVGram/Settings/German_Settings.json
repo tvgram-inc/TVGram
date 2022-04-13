@@ -104,7 +104,7 @@
           "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
-          "is_native_ads": true,
+          "is_native_ads": false,
           "is_open_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
