@@ -108,6 +108,7 @@
           "is_open_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
+          "is_load_default_ads_on_failed":false,
           "native_ad_unit_id": "ca-app-pub-1867655643934057/6562783582",
           "native_ad_unit_id1": "ca-app-pub-5004393487171509/4187942046",
           "rewarded_video_ad_unit_id": "ca-app-pub-1867655643934057/6754355275",
