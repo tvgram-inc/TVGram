@@ -105,6 +105,7 @@
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_native_ads": true,
+          "is_open_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
           "native_ad_unit_id": "ca-app-pub-1867655643934057/6562783582",
