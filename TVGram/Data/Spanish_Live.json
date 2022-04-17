@@ -6,775 +6,1983 @@
       "thumb_width": 150,
       "all_Channels_Tab_Name": "",
       "main": {
-        "id": 0,
+        "id": 1,
         "name": "Spanish Channels",
         "sub_name": "Channels",
         "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-spain_748120.png",
         "sub": {
-          "sub_0": {
-            "id": 0,
-            "mode": "video",
-            "name": "Channel 1",
-            "sub_name": "",
-            "stream_video_url": "http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/24_horas_img_2074.png"
-          },
           "sub_1": {
             "id": 1,
             "mode": "video",
-            "name": "Channel 2",
+            "name_original": "Congreso de los Diputados 1",
+            "name": "Channel 1",
             "sub_name": "",
-            "stream_video_url": "http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aosv4_gl8/24hca_lv3_aosv4_gl8.isml/master.m3u8",
+            "stream_video_url": "https://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/24_horas_img_2074.png"
+            "thumbnail_url_original": ""
           },
           "sub_2": {
             "id": 2,
             "mode": "video",
-            "name": "Channel 3",
+            "name_original": "CMM TV",
+            "name": "Channel 2",
             "sub_name": "",
-            "stream_video_url": "http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aosv4_gl8/24hca_lv3_aosv4_gl8.isml/master.m3u8?fluxustv.m3u8",
+            "stream_video_url": "http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/24_horas_img_2074.png"
+            "thumbnail_url_original": ""
           },
           "sub_3": {
             "id": 3,
-            "mode": "video",
-            "name": "Channel 4",
-            "sub_name": "",
-            "stream_video_url": "https://livestartover-i.akamaized.net/antena3/master.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/antena_3_img_2130.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
           },
           "sub_4": {
             "id": 4,
             "mode": "video",
-            "name": "Channel 5",
+            "name_original": "CCMA Exclusiu 1",
+            "name": "Channel 4",
             "sub_name": "",
-            "stream_video_url": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8",
+            "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:oca1_web/playlist_DVR.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+            "thumbnail_url_original": ""
           },
           "sub_5": {
             "id": 5,
             "mode": "video",
-            "name": "Channel 6",
+            "name_original": "Canal Taronja Osona i Moian\u00e9s",
+            "name": "Channel 5",
             "sub_name": "",
-            "stream_video_url": "https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://taronjavic.streaming-pro.com/hls/vic.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+            "thumbnail_url_original": ""
           },
           "sub_6": {
             "id": 6,
-            "mode": "video",
-            "name": "Channel 7",
-            "sub_name": "",
-            "stream_video_url": "https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_2.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/be_mad_img_2133.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
           },
           "sub_7": {
             "id": 7,
             "mode": "video",
-            "name": "Channel 8",
+            "name_original": "Canal Sur Andaluc\u00eda",
+            "name": "Channel 7",
             "sub_name": "",
-            "stream_video_url": "https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8",
+            "stream_video_url": "https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/be_mad_img_2133.png"
+            "thumbnail_url_original": ""
           },
           "sub_8": {
             "id": 8,
             "mode": "video",
-            "name": "Channel 9",
+            "name_original": "Canal Sur Andaluc\u00eda",
+            "name": "Channel 8",
             "sub_name": "",
-            "stream_video_url": "https://pastebin.com/raw/jf3NxqPs",
+            "stream_video_url": "https://cdnlive.shooowit.net/rtvalive/smil:channel1.smil/playlist.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/be_mad_img_2133.png"
+            "thumbnail_url_original": ""
           },
           "sub_9": {
             "id": 9,
-            "mode": "video",
-            "name": "Channel 10",
-            "sub_name": "",
-            "stream_video_url": "https://5b38ce71f1f00.streamlock.net/8066/8066/master.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/cadena_elite_img_2135.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
           },
           "sub_10": {
             "id": 10,
             "mode": "video",
-            "name": "Channel 11",
+            "name_original": "Canal Extremadura",
+            "name": "Channel 10",
             "sub_name": "",
-            "stream_video_url": "http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/canal_25_barbastro_img_2136.png"
+            "thumbnail_url_original": ""
           },
           "sub_11": {
             "id": 11,
             "mode": "video",
-            "name": "Channel 12",
+            "name_original": "Canal Do\u00f1ana",
+            "name": "Channel 11",
             "sub_name": "",
-            "stream_video_url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://secure5.todostreaming.es/live/division-alm.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/canal_4_mancha_centro_img_2138.png"
+            "thumbnail_url_original": ""
           },
           "sub_12": {
             "id": 12,
-            "mode": "video",
-            "name": "Channel 13",
-            "sub_name": "",
-            "stream_video_url": "https://cdn01.yowi.tv/VI76V4AZS4/live-1000.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/canal_56_img_2139.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
           },
           "sub_13": {
             "id": 13,
             "mode": "video",
-            "name": "Channel 14",
+            "name_original": "Canal 24 horas",
+            "name": "Channel 13",
             "sub_name": "",
-            "stream_video_url": "https://cdn01.yowi.tv/VI76V4AZS4/master.m3u8",
+            "stream_video_url": "https://rtvelivestreamv3.akamaized.net/24h_bkp_dvr.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/canal_56_img_2139.png"
+            "thumbnail_url_original": ""
           },
           "sub_14": {
             "id": 14,
             "mode": "video",
-            "name": "Channel 15",
+            "name_original": "Canal 24 horas",
+            "name": "Channel 14",
             "sub_name": "",
-            "stream_video_url": "https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8",
+            "stream_video_url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7QZIf0dta-XPXsp9Hv4dTw/live",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/canal_d_img_2140.png"
+            "thumbnail_url_original": ""
           },
           "sub_15": {
             "id": 15,
-            "mode": "video",
-            "name": "Channel 16",
-            "sub_name": "",
-            "stream_video_url": "http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
           },
           "sub_16": {
             "id": 16,
             "mode": "video",
-            "name": "Channel 17",
+            "name_original": "Canal 10 Empord\u00e0",
+            "name": "Channel 16",
             "sub_name": "",
-            "stream_video_url": "http://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
+            "stream_video_url": "http://ventdelnord.tv:8080/escala/directe.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+            "thumbnail_url_original": ""
           },
           "sub_17": {
             "id": 17,
             "mode": "video",
-            "name": "Channel 18",
+            "name_original": "betev\u00e9",
+            "name": "Channel 17",
             "sub_name": "",
-            "stream_video_url": "http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8",
+            "stream_video_url": "https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/canal_parlamento_img_286.png"
+            "thumbnail_url_original": ""
           },
           "sub_18": {
             "id": 18,
-            "mode": "video",
-            "name": "Channel 19",
-            "sub_name": "",
-            "stream_video_url": "http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/canalcosta_tv_img_2148.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
           },
           "sub_19": {
             "id": 19,
             "mode": "video",
-            "name": "Channel 20",
+            "name_original": "Arag\u00f3n Radio",
+            "name": "Channel 19",
             "sub_name": "",
-            "stream_video_url": "http://stream.canalcostatv.es:1935/web/IKbtqOuj/master.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://cartv.streaming.aranova.es/hls/live/aragonradio_aragonradio1.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/canalcosta_tv_img_2148.png"
+            "thumbnail_url_original": ""
           },
           "sub_20": {
             "id": 20,
             "mode": "video",
-            "name": "Channel 21",
+            "name_original": "Activa TV",
+            "name": "Channel 20",
             "sub_name": "",
-            "stream_video_url": "http://145.239.141.154:1935/live/uSCQc5ky/master.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://streamtv.mediasector.es/hls/activatv/.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/condavision_img_2149.png"
+            "thumbnail_url_original": ""
           },
           "sub_21": {
             "id": 21,
-            "mode": "video",
-            "name": "Channel 22",
-            "sub_name": "",
-            "stream_video_url": "https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/distrito_tv_img_2151.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
           },
           "sub_22": {
             "id": 22,
             "mode": "video",
-            "name": "Channel 23",
+            "name_original": "101 Tele Antequera",
+            "name": "Channel 22",
             "sub_name": "",
-            "stream_video_url": "http://stream.teleonuba.es:1935/live/GdZpE8ef/chunklist_w1202791317.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/ecija_comarca_tv_img_2153.png"
+            "thumbnail_url_original": ""
           },
           "sub_23": {
             "id": 23,
             "mode": "video",
-            "name": "Channel 24",
+            "name_original": "25 TV",
+            "name": "Channel 23",
             "sub_name": "",
-            "stream_video_url": "http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8",
+            "stream_video_url": "https://cdnlive.shooowit.net/25televisiolive/smil:channel1.smil/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/eitb_img_2154.png"
+            "thumbnail_url_original": ""
           },
           "sub_24": {
             "id": 24,
-            "mode": "video",
-            "name": "Channel 25",
-            "sub_name": "",
-            "stream_video_url": "http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-b.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/eitb_img_2154.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
           },
           "sub_25": {
             "id": 25,
             "mode": "video",
-            "name": "Channel 26",
+            "name_original": "+24",
+            "name": "Channel 25",
             "sub_name": "",
-            "stream_video_url": "http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8",
+            "stream_video_url": "https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586403/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/eitb_img_2154.png"
+            "thumbnail_url_original": ""
           },
           "sub_26": {
             "id": 26,
             "mode": "video",
-            "name": "Channel 27",
+            "name_original": "+24",
+            "name": "Channel 26",
             "sub_name": "",
-            "stream_video_url": "http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8",
+            "stream_video_url": "https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586404/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/eitb_img_2154.png"
+            "thumbnail_url_original": ""
           },
           "sub_27": {
             "id": 27,
-            "mode": "video",
-            "name": "Channel 28",
-            "sub_name": "",
-            "stream_video_url": "https://5b38ce71f1f00.streamlock.net/8122/8122/chunklist_w310432579.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/estepona_tv_img_2158.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
           },
           "sub_28": {
             "id": 28,
             "mode": "video",
-            "name": "Channel 29",
+            "name_original": "8 TV C\u00e1diz",
+            "name": "Channel 28",
             "sub_name": "",
-            "stream_video_url": "http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8",
+            "stream_video_url": "https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/etb_1_img_2159.png"
+            "thumbnail_url_original": ""
           },
           "sub_29": {
             "id": 29,
             "mode": "video",
-            "name": "Channel 30",
+            "name_original": "7 Noticias",
+            "name": "Channel 29",
             "sub_name": "",
-            "stream_video_url": "https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8",
+            "stream_video_url": "https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/etb_1_img_2159.png"
+            "thumbnail_url_original": ""
           },
           "sub_30": {
             "id": 30,
-            "mode": "video",
-            "name": "Channel 31",
-            "sub_name": "",
-            "stream_video_url": "http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/etb_2_img_2160.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
           },
           "sub_31": {
             "id": 31,
             "mode": "video",
-            "name": "Channel 32",
+            "name_original": "3/24",
+            "name": "Channel 31",
             "sub_name": "",
-            "stream_video_url": "https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-b.m3u8",
+            "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/etb_2_img_2160.png"
+            "thumbnail_url_original": ""
           },
           "sub_32": {
             "id": 32,
             "mode": "video",
-            "name": "Channel 33",
+            "name_original": "Visi\u00f3n 6 TV",
+            "name": "Channel 32",
             "sub_name": "",
-            "stream_video_url": "https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8",
+            "stream_video_url": "https://secure3.todostreaming.es/live/visionseis-livestream.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/france_24_spanish_img_3119.png"
+            "thumbnail_url_original": ""
           },
           "sub_33": {
             "id": 33,
-            "mode": "video",
-            "name": "Channel 34",
-            "sub_name": "",
-            "stream_video_url": "http://america-crtvg.flumotion.com/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
           },
           "sub_34": {
             "id": 34,
             "mode": "video",
-            "name": "Channel 35",
+            "name_original": "IB3 Global",
+            "name": "Channel 34",
             "sub_name": "",
-            "stream_video_url": "http://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8?fluxustv.m3u8",
+            "stream_video_url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/hamaika_telebista_img_2163.png"
+            "thumbnail_url_original": ""
           },
           "sub_35": {
             "id": 35,
             "mode": "video",
-            "name": "Channel 36",
+            "name_original": "HQM Spanish",
+            "name": "Channel 35",
             "sub_name": "",
-            "stream_video_url": "https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/huesca_tv_img_2164.png"
+            "thumbnail_url_original": ""
           },
           "sub_36": {
             "id": 36,
-            "mode": "video",
-            "name": "Channel 37",
-            "sub_name": "",
-            "stream_video_url": "http://interalmeria.tv/directo/live.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/interalmeria_tv_img_2165.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
           },
           "sub_37": {
             "id": 37,
             "mode": "video",
-            "name": "Channel 38",
+            "name_original": "HQM Remember",
+            "name": "Channel 37",
             "sub_name": "",
-            "stream_video_url": "http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/la_1_es_img_8.png"
+            "thumbnail_url_original": ""
           },
           "sub_38": {
             "id": 38,
             "mode": "video",
-            "name": "Channel 39",
+            "name_original": "HQM Relax",
+            "name": "Channel 38",
             "sub_name": "",
-            "stream_video_url": "http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/lebrija_tv_img_2166.png"
+            "thumbnail_url_original": ""
           },
           "sub_39": {
             "id": 39,
-            "mode": "video",
-            "name": "Channel 40",
-            "sub_name": "",
-            "stream_video_url": "https://universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/los_40_img_2167.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
           },
           "sub_40": {
             "id": 40,
             "mode": "video",
-            "name": "Channel 41",
+            "name_original": "HQM Latin",
+            "name": "Channel 40",
             "sub_name": "",
-            "stream_video_url": "http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mas_24_horas_img_2168.png"
+            "thumbnail_url_original": ""
           },
           "sub_41": {
             "id": 41,
             "mode": "video",
-            "name": "Channel 42",
+            "name_original": "HQM Kids",
+            "name": "Channel 41",
             "sub_name": "",
-            "stream_video_url": "http://mijas.hls.flumotion.com/mijas/live-hls/playlist.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mijas_3.40_tv_img_2169.png"
+            "thumbnail_url_original": ""
           },
           "sub_42": {
             "id": 42,
-            "mode": "video",
-            "name": "Channel 43",
-            "sub_name": "",
-            "stream_video_url": "https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mtmad_24h_img_2170.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
           },
           "sub_43": {
             "id": 43,
             "mode": "video",
-            "name": "Channel 44",
+            "name_original": "HQM Hits",
+            "name": "Channel 43",
             "sub_name": "",
-            "stream_video_url": "https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mtmad_24h_img_2170.png"
+            "thumbnail_url_original": ""
           },
           "sub_44": {
             "id": 44,
             "mode": "video",
-            "name": "Channel 45",
+            "name_original": "HQM Hip Hop",
+            "name": "Channel 44",
             "sub_name": "",
-            "stream_video_url": "https://5940924978228.streamlock.net/8009/8009/chunklist_w922827150.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/popular_tv_melilla_img_2174.png"
+            "thumbnail_url_original": ""
           },
           "sub_45": {
             "id": 45,
-            "mode": "video",
-            "name": "Channel 46",
-            "sub_name": "",
-            "stream_video_url": "https://5940924978228.streamlock.net/8009/8009/master.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/popular_tv_melilla_img_2174.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
           },
           "sub_46": {
             "id": 46,
             "mode": "video",
-            "name": "Channel 47",
+            "name_original": "HQM Folk",
+            "name": "Channel 46",
             "sub_name": "",
-            "stream_video_url": "http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/bitrate_2.m3u8",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/radio_onda_madrid_img_2176.png"
+            "thumbnail_url_original": ""
           },
           "sub_47": {
             "id": 47,
             "mode": "video",
-            "name": "Channel 48",
+            "name_original": "HQM Dance",
+            "name": "Channel 47",
             "sub_name": "",
-            "stream_video_url": "http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/radio_onda_madrid_img_2176.png"
+            "thumbnail_url_original": ""
           },
           "sub_48": {
             "id": 48,
-            "mode": "video",
-            "name": "Channel 49",
-            "sub_name": "",
-            "stream_video_url": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/real_madrid_tv_es_img_9.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
           },
           "sub_49": {
             "id": 49,
             "mode": "video",
-            "name": "Channel 50",
+            "name_original": "HQM Chill Out",
+            "name": "Channel 49",
             "sub_name": "",
-            "stream_video_url": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/real_madrid_tv_es_img_9.png"
+            "thumbnail_url_original": ""
           },
           "sub_50": {
             "id": 50,
             "mode": "video",
-            "name": "Channel 51",
+            "name_original": "HQM Blues",
+            "name": "Channel 50",
             "sub_name": "",
-            "stream_video_url": "http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/real_madrid_tv_es_img_9.png"
+            "thumbnail_url_original": ""
           },
           "sub_51": {
             "id": 51,
-            "mode": "video",
-            "name": "Channel 52",
-            "sub_name": "",
-            "stream_video_url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/real_madrid_tv_es_img_9.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
           },
           "sub_52": {
             "id": 52,
             "mode": "video",
-            "name": "Channel 53",
+            "name_original": "HQM Arabic",
+            "name": "Channel 52",
             "sub_name": "",
-            "stream_video_url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8",
+            "stream_video_url": "https://livelist01.yowi.tv/lista/39596c72840d27b213caf4e58c39599a6f2ed203/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/real_madrid_tv_es_img_9.png"
+            "thumbnail_url_original": ""
           },
           "sub_53": {
             "id": 53,
             "mode": "video",
-            "name": "Channel 54",
+            "name_original": "Guada TV",
+            "name": "Channel 53",
             "sub_name": "",
-            "stream_video_url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8",
+            "stream_video_url": "https://cloud.streamingconnect.tv:455/guadatv/guadatv.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/real_madrid_tv_es_img_9.png"
+            "thumbnail_url_original": ""
           },
           "sub_54": {
             "id": 54,
-            "mode": "video",
-            "name": "Channel 55",
-            "sub_name": "",
-            "stream_video_url": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/real_madrid_tv_es_img_9.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
           },
           "sub_55": {
             "id": 55,
             "mode": "video",
-            "name": "Channel 56",
+            "name_original": "GCM TV",
+            "name": "Channel 55",
             "sub_name": "",
-            "stream_video_url": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8",
+            "stream_video_url": "https://cloud.streamingconnect.tv:455/tbmadrid/tbmadrid.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/real_madrid_tv_es_img_9.png"
+            "thumbnail_url_original": ""
           },
           "sub_56": {
             "id": 56,
             "mode": "video",
-            "name": "Channel 57",
+            "name_original": "Fibracat TV",
+            "name": "Channel 56",
             "sub_name": "",
-            "stream_video_url": "http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8?sd=10&rebase=on",
+            "stream_video_url": "https://cdn02.fibracat.cat/fibracattv/index.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rtve_img_2178.png"
+            "thumbnail_url_original": ""
           },
           "sub_57": {
             "id": 57,
-            "mode": "video",
-            "name": "Channel 58",
-            "sub_name": "",
-            "stream_video_url": "https://www.onairport.live/sophiatv-it-live/livestream_low/chunklist_w217998957.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/sophia_tv_img_2021.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
           },
           "sub_58": {
             "id": 58,
             "mode": "video",
-            "name": "Channel 59",
+            "name_original": "Esport3",
+            "name": "Channel 58",
             "sub_name": "",
-            "stream_video_url": "https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/sophia_tv_img_2021.png"
+            "thumbnail_url_original": ""
           },
           "sub_59": {
             "id": 59,
             "mode": "video",
-            "name": "Channel 60",
+            "name_original": "El Toro TV",
+            "name": "Channel 59",
             "sub_name": "",
-            "stream_video_url": "https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8",
+            "stream_video_url": "https://live1-eltorotv.flumotion.com/playlist.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/sophia_tv_img_2021.png"
+            "thumbnail_url_original": ""
           },
           "sub_60": {
             "id": 60,
-            "mode": "video",
-            "name": "Channel 61",
-            "sub_name": "",
-            "stream_video_url": "http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/taroteame_tv_img_2179.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
           },
           "sub_61": {
             "id": 61,
             "mode": "video",
-            "name": "Channel 62",
+            "name_original": "El Futuro en tu mano",
+            "name": "Channel 61",
             "sub_name": "",
-            "stream_video_url": "https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8",
+            "stream_video_url": "https://limited24.todostreaming.es/live/renjillo-livestream.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/telearanda_img_2180.png"
+            "thumbnail_url_original": ""
           },
           "sub_62": {
             "id": 62,
             "mode": "video",
-            "name": "Channel 63",
+            "name_original": "El 33",
+            "name": "Channel 62",
             "sub_name": "",
-            "stream_video_url": "http://stream.teleonuba.es:1935/live/GdZpE8ef/playlist.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist_DVR.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/teleonuba_img_2183.png"
+            "thumbnail_url_original": ""
           },
           "sub_63": {
             "id": 63,
-            "mode": "video",
-            "name": "Channel 64",
-            "sub_name": "",
-            "stream_video_url": "http://video.telesafor.com/hls/video_high.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/telesafor_img_2184.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
           },
           "sub_64": {
             "id": 64,
             "mode": "video",
-            "name": "Channel 65",
+            "name_original": "Cuatro 4 TV Vall Uxa",
+            "name": "Channel 64",
             "sub_name": "",
-            "stream_video_url": "http://video.telesafor.com/hls/video_low.m3u8",
+            "stream_video_url": "https://limited09.todostreaming.es/live/tarson-livestream.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/telesafor_img_2184.png"
+            "thumbnail_url_original": ""
           },
           "sub_65": {
             "id": 65,
             "mode": "video",
-            "name": "Channel 66",
+            "name_original": "Costa Noroeste TV",
+            "name": "Channel 65",
             "sub_name": "",
-            "stream_video_url": "http://ventdelnord.tv:8080/girona/directe.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/televisio_girona_img_2186.png"
+            "thumbnail_url_original": ""
           },
           "sub_66": {
             "id": 66,
-            "mode": "video",
-            "name": "Channel 67",
-            "sub_name": "",
-            "stream_video_url": "https://wowzaprod256-i.akamaihd.net/hls/live/779970/7e9bac89/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/trebujena_tv_img_2187.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
           },
           "sub_67": {
             "id": 67,
             "mode": "video",
-            "name": "Channel 68",
+            "name_original": "Congreso de los Diputados 4",
+            "name": "Channel 67",
             "sub_name": "",
-            "stream_video_url": "http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8",
+            "stream_video_url": "https://congresodirecto-f.akamaihd.net/i/congreso4_1@53937/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/trece_img_2188.png"
+            "thumbnail_url_original": ""
           },
           "sub_68": {
             "id": 68,
             "mode": "video",
-            "name": "Channel 69",
+            "name_original": "Congreso de los Diputados 3",
+            "name": "Channel 68",
             "sub_name": "",
-            "stream_video_url": "http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8",
+            "stream_video_url": "https://congresodirecto-f.akamaihd.net/i/congreso3_1@72034/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tv_galicia_es_img_317.png"
+            "thumbnail_url_original": ""
           },
           "sub_69": {
             "id": 69,
-            "mode": "video",
-            "name": "Channel 70",
-            "sub_name": "",
-            "stream_video_url": "http://europa-crtvg.flumotion.com/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tv_galicia_es_img_317.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
           },
           "sub_70": {
             "id": 70,
             "mode": "video",
-            "name": "Channel 71",
+            "name_original": "Radio Televisi\u00f3n Melilla",
+            "name": "Channel 70",
             "sub_name": "",
-            "stream_video_url": "http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tv_municipal_cordoba_img_2190.png"
+            "thumbnail_url_original": ""
           },
           "sub_71": {
             "id": 71,
             "mode": "video",
-            "name": "Channel 72",
+            "name_original": "Radio Rutas del Per\u00fa",
+            "name": "Channel 71",
             "sub_name": "",
-            "stream_video_url": "https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8",
+            "stream_video_url": "https://tv.portalexpress.es:3731/stream/play.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tv4_la_vall_img_2191.png"
+            "thumbnail_url_original": ""
           },
           "sub_72": {
             "id": 72,
-            "mode": "video",
-            "name": "Channel 73",
-            "sub_name": "",
-            "stream_video_url": "http://amodino-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tvg_2_img_2192.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
           },
           "sub_73": {
             "id": 73,
             "mode": "video",
-            "name": "Channel 74",
+            "name_original": "Popular TV Murcia",
+            "name": "Channel 73",
             "sub_name": "",
-            "stream_video_url": "http://events2-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://cloud.streamingconnect.tv:455/populartvrm/populartvrm.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tvg_2_img_2192.png"
+            "thumbnail_url_original": ""
           },
           "sub_74": {
             "id": 74,
             "mode": "video",
-            "name": "Channel 75",
+            "name_original": "Platzi TV",
+            "name": "Channel 74",
             "sub_name": "",
-            "stream_video_url": "http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8",
+            "stream_video_url": "https://mdstrm.com/live-stream-playlist/5b9076d18ef7b22560354649.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+            "thumbnail_url_original": ""
           },
           "sub_75": {
             "id": 75,
-            "mode": "video",
-            "name": "Channel 76",
-            "sub_name": "",
-            "stream_video_url": "http://cultural-crtvg.flumotion.com/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tvg_cultural_img_2194.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
           },
           "sub_76": {
             "id": 76,
             "mode": "video",
-            "name": "Channel 77",
+            "name_original": "OndaMezquita 7 TV",
+            "name": "Channel 76",
             "sub_name": "",
-            "stream_video_url": "http://cultural-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://cloud.streamingconnect.tv:455/mezquita/mezquita.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tvg_cultural_img_2194.png"
+            "thumbnail_url_original": ""
           },
           "sub_77": {
             "id": 77,
             "mode": "video",
-            "name": "Channel 78",
+            "name_original": "Oizmendi Telebista",
+            "name": "Channel 77",
             "sub_name": "",
-            "stream_video_url": "http://events1-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://5940924978228.streamlock.net/8161/8161/master.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tvg_evento_1_img_2195.png"
+            "thumbnail_url_original": ""
           },
           "sub_78": {
             "id": 78,
-            "mode": "video",
-            "name": "Channel 79",
-            "sub_name": "",
-            "stream_video_url": "http://infantil-crtvg.flumotion.com/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tvg_infantil_img_2196.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
           },
           "sub_79": {
             "id": 79,
             "mode": "video",
-            "name": "Channel 80",
+            "name_original": "NIUS",
+            "name": "Channel 79",
             "sub_name": "",
-            "stream_video_url": "http://infantil-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tvg_infantil_img_2196.png"
+            "thumbnail_url_original": ""
           },
           "sub_80": {
             "id": 80,
             "mode": "video",
-            "name": "Channel 81",
+            "name_original": "NIUS",
+            "name": "Channel 80",
             "sub_name": "",
-            "stream_video_url": "http://momentog-crtvg.flumotion.com/playlist.m3u8",
+            "stream_video_url": "https://mdslivehlsb-i.akamaihd.net/hls/live/875601/niusdiario/01.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tvg_momento_img_2197.png"
+            "thumbnail_url_original": ""
           },
           "sub_81": {
             "id": 81,
-            "mode": "video",
-            "name": "Channel 82",
-            "sub_name": "",
-            "stream_video_url": "http://momentog-crtvg.flumotion.com:80/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tvg_momento_img_2197.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
           },
           "sub_82": {
             "id": 82,
             "mode": "video",
-            "name": "Channel 83",
+            "name_original": "NIUS",
+            "name": "Channel 82",
             "sub_name": "",
-            "stream_video_url": "http://musigal-crtvg.flumotion.com/playlist.m3u8",
+            "stream_video_url": "https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/03.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tvg_musigal_img_2198.png"
+            "thumbnail_url_original": ""
           },
           "sub_83": {
             "id": 83,
             "mode": "video",
-            "name": "Channel 84",
+            "name_original": "Navarra TV",
+            "name": "Channel 83",
             "sub_name": "",
-            "stream_video_url": "http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tvg_musigal_img_2198.png"
+            "thumbnail_url_original": ""
           },
           "sub_84": {
             "id": 84,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_85": {
+            "id": 85,
             "mode": "video",
+            "name_original": "Mar TV",
             "name": "Channel 85",
             "sub_name": "",
-            "stream_video_url": "https://5940924978228.streamlock.net/j_Directo1/j_Directo1.smil/.m3u8",
+            "stream_video_url": "http://iptv.btpba1.es.network.do:8080/martv-web/video.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/urola_telebista_img_2199.png"
+            "thumbnail_url_original": ""
+          },
+          "sub_86": {
+            "id": 86,
+            "mode": "video",
+            "name_original": "Maestrat TV",
+            "name": "Channel 86",
+            "sub_name": "",
+            "stream_video_url": "https://stream.maestrat.tv/hls/stream.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_87": {
+            "id": 87,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_88": {
+            "id": 88,
+            "mode": "video",
+            "name_original": "Logos TV",
+            "name": "Channel 88",
+            "sub_name": "",
+            "stream_video_url": "http://streamer1.streamhost.org/salive/logosH/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_89": {
+            "id": 89,
+            "mode": "video",
+            "name_original": "Logos TV",
+            "name": "Channel 89",
+            "sub_name": "",
+            "stream_video_url": "https://streamer1.streamhost.org/salive/logosH/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_90": {
+            "id": 90,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_91": {
+            "id": 91,
+            "mode": "video",
+            "name_original": "LaOtra",
+            "name": "Channel 91",
+            "sub_name": "",
+            "stream_video_url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_92": {
+            "id": 92,
+            "mode": "video",
+            "name_original": "La Urban TV",
+            "name": "Channel 92",
+            "sub_name": "",
+            "stream_video_url": "https://urbanrevolution.es:8443/live/TV/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_93": {
+            "id": 93,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_94": {
+            "id": 94,
+            "mode": "video",
+            "name_original": "La 8 Valladolid",
+            "name": "Channel 94",
+            "sub_name": "",
+            "stream_video_url": "https://cdnlive.shooowit.net/la8valladolidlive/smil:streamswitchingchannel.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_95": {
+            "id": 95,
+            "mode": "video",
+            "name_original": "La 8 Soria",
+            "name": "Channel 95",
+            "sub_name": "",
+            "stream_video_url": "https://cdnlive.shooowit.net/la8sorialive/smil:streamswitchingchannel.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_96": {
+            "id": 96,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_97": {
+            "id": 97,
+            "mode": "video",
+            "name_original": "La 8 Salamanca",
+            "name": "Channel 97",
+            "sub_name": "",
+            "stream_video_url": "https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_98": {
+            "id": 98,
+            "mode": "video",
+            "name_original": "La 8 Palencia",
+            "name": "Channel 98",
+            "sub_name": "",
+            "stream_video_url": "https://cdnlive.shooowit.net/la8palencialive/smil:streamswitchingchannel.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_99": {
+            "id": 99,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_100": {
+            "id": 100,
+            "mode": "video",
+            "name_original": "La 8 Burgos",
+            "name": "Channel 100",
+            "sub_name": "",
+            "stream_video_url": "https://cdnlive.shooowit.net/la8burgoslive/smil:streamswitchingchannel.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_101": {
+            "id": 101,
+            "mode": "video",
+            "name_original": "La 8 Bierzo",
+            "name": "Channel 101",
+            "sub_name": "",
+            "stream_video_url": "https://cdnlive.shooowit.net/la8bierzolive/smil:streamswitchingchannel.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_102": {
+            "id": 102,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_103": {
+            "id": 103,
+            "mode": "video",
+            "name_original": "La 2",
+            "name": "Channel 103",
+            "sub_name": "",
+            "stream_video_url": "https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_104": {
+            "id": 104,
+            "mode": "video",
+            "name_original": "La 2",
+            "name": "Channel 104",
+            "sub_name": "",
+            "stream_video_url": "https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_105": {
+            "id": 105,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_106": {
+            "id": 106,
+            "mode": "video",
+            "name_original": "La 1 Canarias",
+            "name": "Channel 106",
+            "sub_name": "",
+            "stream_video_url": "https://ztnr.rtve.es/ztnr/5190066.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_107": {
+            "id": 107,
+            "mode": "video",
+            "name_original": "La 1 Canarias",
+            "name": "Channel 107",
+            "sub_name": "",
+            "stream_video_url": "https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@134665/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_108": {
+            "id": 108,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_109": {
+            "id": 109,
+            "mode": "video",
+            "name_original": "La 1",
+            "name": "Channel 109",
+            "sub_name": "",
+            "stream_video_url": "https://ztnr.rtve.es/ztnr/1688877.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_110": {
+            "id": 110,
+            "mode": "video",
+            "name_original": "La 1",
+            "name": "Channel 110",
+            "sub_name": "",
+            "stream_video_url": "https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_dvr.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_111": {
+            "id": 111,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_112": {
+            "id": 112,
+            "mode": "video",
+            "name_original": "Islatel",
+            "name": "Channel 112",
+            "sub_name": "",
+            "stream_video_url": "https://zone.controlstreams.com:5443/LiveApp/streams/islatel.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_113": {
+            "id": 113,
+            "mode": "video",
+            "name_original": "Im\u00e1s TV",
+            "name": "Channel 113",
+            "sub_name": "",
+            "stream_video_url": "https://secure3.todostreaming.es/live/imastv-livestream.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_114": {
+            "id": 114,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_115": {
+            "id": 115,
+            "mode": "video",
+            "name_original": "TAC 12",
+            "name": "Channel 115",
+            "sub_name": "",
+            "stream_video_url": "https://nodo02-cloud01.streaming-pro.com/tac12tv/hls/tac12_2.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_116": {
+            "id": 116,
+            "mode": "video",
+            "name_original": "Solidaria TV",
+            "name": "Channel 116",
+            "sub_name": "",
+            "stream_video_url": "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_117": {
+            "id": 117,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_118": {
+            "id": 118,
+            "mode": "video",
+            "name_original": "Sal Televisi\u00f3n",
+            "name": "Channel 118",
+            "sub_name": "",
+            "stream_video_url": "https://www.tdtchannels.com/stream/saltv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_119": {
+            "id": 119,
+            "mode": "video",
+            "name_original": "RTVC",
+            "name": "Channel 119",
+            "sub_name": "",
+            "stream_video_url": "https://rtvc-live1-rm.flumotion.com/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_120": {
+            "id": 120,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_121": {
+            "id": 121,
+            "mode": "video",
+            "name_original": "TeleGilena",
+            "name": "Channel 121",
+            "sub_name": "",
+            "stream_video_url": "https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_122": {
+            "id": 122,
+            "mode": "video",
+            "name_original": "TeleToledo",
+            "name": "Channel 122",
+            "sub_name": "",
+            "stream_video_url": "https://cloud.streamingconnect.tv:455/teletoledo/teletoledo.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_123": {
+            "id": 123,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_124": {
+            "id": 124,
+            "mode": "video",
+            "name_original": "Trece TV",
+            "name": "Channel 124",
+            "sub_name": "",
+            "stream_video_url": "https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_125": {
+            "id": 125,
+            "mode": "video",
+            "name_original": "TV3CAT",
+            "name": "Channel 125",
+            "sub_name": "",
+            "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_126": {
+            "id": 126,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_127": {
+            "id": 127,
+            "mode": "video",
+            "name_original": "TV3 Catalunya",
+            "name": "Channel 127",
+            "sub_name": "",
+            "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_128": {
+            "id": 128,
+            "mode": "video",
+            "name_original": "TV3 Catalunya",
+            "name": "Channel 128",
+            "sub_name": "",
+            "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_129": {
+            "id": 129,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_130": {
+            "id": 130,
+            "mode": "video",
+            "name_original": "tvG2",
+            "name": "Channel 130",
+            "sub_name": "",
+            "stream_video_url": "https://events3-crtvg.flumotion.com/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_131": {
+            "id": 131,
+            "mode": "video",
+            "name_original": "TVG Evento 5",
+            "name": "Channel 131",
+            "sub_name": "",
+            "stream_video_url": "https://amodino-crtvg.flumotion.com/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_132": {
+            "id": 132,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_133": {
+            "id": 133,
+            "mode": "video",
+            "name_original": "TVM C\u00f3rdoba",
+            "name": "Channel 133",
+            "sub_name": "",
+            "stream_video_url": "https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_134": {
+            "id": 134,
+            "mode": "video",
+            "name_original": "24 Horas",
+            "name": "Channel 134",
+            "sub_name": "",
+            "stream_video_url": "http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-p.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/24_horas_img_2074.png"
+          },
+          "sub_135": {
+            "id": 135,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_136": {
+            "id": 136,
+            "mode": "video",
+            "name_original": "24 Horas",
+            "name": "Channel 136",
+            "sub_name": "",
+            "stream_video_url": "http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl8/24hca_lv3_aosv4_gl8/24hca_lv3_aosv4_gl8.isml/master.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/24_horas_img_2074.png"
+          },
+          "sub_137": {
+            "id": 137,
+            "mode": "video",
+            "name_original": "24 Horas",
+            "name": "Channel 137",
+            "sub_name": "",
+            "stream_video_url": "https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/24_horas_img_2074.png"
+          },
+          "sub_138": {
+            "id": 138,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_139": {
+            "id": 139,
+            "mode": "video",
+            "name_original": "324",
+            "name": "Channel 139",
+            "sub_name": "",
+            "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://i.imgur.com/CnIVW9o.jpg"
+          },
+          "sub_140": {
+            "id": 140,
+            "mode": "video",
+            "name_original": "Canal 25 Barbastro",
+            "name": "Channel 140",
+            "sub_name": "",
+            "stream_video_url": "http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_25_barbastro_img_2136.png"
+          },
+          "sub_141": {
+            "id": 141,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_142": {
+            "id": 142,
+            "mode": "video",
+            "name_original": "Popular TV Melilla",
+            "name": "Channel 142",
+            "sub_name": "",
+            "stream_video_url": "https://5940924978228.streamlock.net/8009/8009/chunklist_w922827150.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/popular_tv_melilla_img_2174.png"
+          },
+          "sub_143": {
+            "id": 143,
+            "mode": "video",
+            "name_original": "Popular TV Melilla",
+            "name": "Channel 143",
+            "sub_name": "",
+            "stream_video_url": "https://5940924978228.streamlock.net/8009/8009/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/popular_tv_melilla_img_2174.png"
+          },
+          "sub_144": {
+            "id": 144,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_145": {
+            "id": 145,
+            "mode": "video",
+            "name_original": "Canal 4 Mancha Centro",
+            "name": "Channel 145",
+            "sub_name": "",
+            "stream_video_url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_4_mancha_centro_img_2138.png"
+          },
+          "sub_146": {
+            "id": 146,
+            "mode": "video",
+            "name_original": "Canal 4 Mancha Centro",
+            "name": "Channel 146",
+            "sub_name": "",
+            "stream_video_url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_4_mancha_centro_img_2138.png"
+          },
+          "sub_147": {
+            "id": 147,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_148": {
+            "id": 148,
+            "mode": "video",
+            "name_original": "Canal M\u00e1laga",
+            "name": "Channel 148",
+            "sub_name": "",
+            "stream_video_url": "http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+          },
+          "sub_149": {
+            "id": 149,
+            "mode": "video",
+            "name_original": "Canal M\u00e1laga",
+            "name": "Channel 149",
+            "sub_name": "",
+            "stream_video_url": "http://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+          },
+          "sub_150": {
+            "id": 150,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_151": {
+            "id": 151,
+            "mode": "video",
+            "name_original": "Distrito TV",
+            "name": "Channel 151",
+            "sub_name": "",
+            "stream_video_url": "https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/distrito_tv_img_2151.png"
+          },
+          "sub_152": {
+            "id": 152,
+            "mode": "video",
+            "name_original": "Esport Club",
+            "name": "Channel 152",
+            "sub_name": "",
+            "stream_video_url": "https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_153": {
+            "id": 153,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_154": {
+            "id": 154,
+            "mode": "video",
+            "name_original": "ETB 1",
+            "name": "Channel 154",
+            "sub_name": "",
+            "stream_video_url": "https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-b.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/etb_1_img_2159.png"
+          },
+          "sub_155": {
+            "id": 155,
+            "mode": "video",
+            "name_original": "ETB 1",
+            "name": "Channel 155",
+            "sub_name": "",
+            "stream_video_url": "https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/etb_1_img_2159.png"
+          },
+          "sub_156": {
+            "id": 156,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_157": {
+            "id": 157,
+            "mode": "video",
+            "name_original": "ETB 2",
+            "name": "Channel 157",
+            "sub_name": "",
+            "stream_video_url": "https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-b.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/etb_2_img_2160.png"
+          },
+          "sub_158": {
+            "id": 158,
+            "mode": "video",
+            "name_original": "ETB 2",
+            "name": "Channel 158",
+            "sub_name": "",
+            "stream_video_url": "https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/etb_2_img_2160.png"
+          },
+          "sub_159": {
+            "id": 159,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_160": {
+            "id": 160,
+            "mode": "video",
+            "name_original": "Galicia TV Am\u00e9rica",
+            "name": "Channel 160",
+            "sub_name": "",
+            "stream_video_url": "http://america-crtvg.flumotion.com/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+          },
+          "sub_161": {
+            "id": 161,
+            "mode": "video",
+            "name_original": "Interalmeria TV",
+            "name": "Channel 161",
+            "sub_name": "",
+            "stream_video_url": "http://interalmeria.tv/directo/live.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/interalmeria_tv_img_2165.png"
+          },
+          "sub_162": {
+            "id": 162,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_163": {
+            "id": 163,
+            "mode": "video",
+            "name_original": "LA 1 ES",
+            "name": "Channel 163",
+            "sub_name": "",
+            "stream_video_url": "http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/la_1_es_img_8.png"
+          },
+          "sub_164": {
+            "id": 164,
+            "mode": "video",
+            "name_original": "DW Espa\u00f1ol",
+            "name": "Channel 164",
+            "sub_name": "",
+            "stream_video_url": "http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"
+          },
+          "sub_165": {
+            "id": 165,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_166": {
+            "id": 166,
+            "mode": "video",
+            "name_original": "DW Espa\u00f1ol",
+            "name": "Channel 166",
+            "sub_name": "",
+            "stream_video_url": "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"
+          },
+          "sub_167": {
+            "id": 167,
+            "mode": "video",
+            "name_original": "DW Espa\u00f1ol",
+            "name": "Channel 167",
+            "sub_name": "",
+            "stream_video_url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"
+          },
+          "sub_168": {
+            "id": 168,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_169": {
+            "id": 169,
+            "mode": "video",
+            "name_original": "DW Espa\u00f1ol",
+            "name": "Channel 169",
+            "sub_name": "",
+            "stream_video_url": "http://dwstream32-lh.akamaihd.net/i/dwstream32_live@500520/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"
+          },
+          "sub_170": {
+            "id": 170,
+            "mode": "video",
+            "name_original": "Taroteame TV",
+            "name": "Channel 170",
+            "sub_name": "",
+            "stream_video_url": "http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/taroteame_tv_img_2179.png"
+          },
+          "sub_171": {
+            "id": 171,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_172": {
+            "id": 172,
+            "mode": "video",
+            "name_original": "Televisio Girona",
+            "name": "Channel 172",
+            "sub_name": "",
+            "stream_video_url": "http://ventdelnord.tv:8080/girona/directe.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/televisio_girona_img_2186.png"
+          },
+          "sub_173": {
+            "id": 173,
+            "mode": "video",
+            "name_original": "Televisi\u00f3n de Galicia Am\u00e9rica",
+            "name": "Channel 173",
+            "sub_name": "",
+            "stream_video_url": "https://america-crtvg.flumotion.com/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/televisi\u00f3n_de_galicia_am\u00e9rica_img_3197.png"
+          },
+          "sub_174": {
+            "id": 174,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_175": {
+            "id": 175,
+            "mode": "video",
+            "name_original": "Trebujena TV",
+            "name": "Channel 175",
+            "sub_name": "",
+            "stream_video_url": "https://wowzaprod256-i.akamaihd.net/hls/live/779970/7e9bac89/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/trebujena_tv_img_2187.png"
+          },
+          "sub_176": {
+            "id": 176,
+            "mode": "video",
+            "name_original": "TV Galicia ES",
+            "name": "Channel 176",
+            "sub_name": "",
+            "stream_video_url": "http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_galicia_es_img_317.png"
+          },
+          "sub_177": {
+            "id": 177,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_178": {
+            "id": 178,
+            "mode": "video",
+            "name_original": "France 24 Espa\u00f1ol",
+            "name": "Channel 178",
+            "sub_name": "",
+            "stream_video_url": "http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"
+          },
+          "sub_179": {
+            "id": 179,
+            "mode": "video",
+            "name_original": "France 24 Espa\u00f1ol",
+            "name": "Channel 179",
+            "sub_name": "",
+            "stream_video_url": "https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"
+          },
+          "sub_180": {
+            "id": 180,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_181": {
+            "id": 181,
+            "mode": "video",
+            "name_original": "TVG Musigal",
+            "name": "Channel 181",
+            "sub_name": "",
+            "stream_video_url": "http://musigal-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tvg_musigal_img_2198.png"
+          },
+          "sub_182": {
+            "id": 182,
+            "mode": "video",
+            "name_original": "TVG Musigal",
+            "name": "Channel 182",
+            "sub_name": "",
+            "stream_video_url": "https://musigal-crtvg.flumotion.com/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tvg_musigal_img_2198.png"
+          },
+          "sub_183": {
+            "id": 183,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_184": {
+            "id": 184,
+            "mode": "video",
+            "name_original": "Sophia TV",
+            "name": "Channel 184",
+            "sub_name": "",
+            "stream_video_url": "https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://i.imgur.com/jyMedaF.png"
+          },
+          "sub_185": {
+            "id": 185,
+            "mode": "video",
+            "name_original": "Sophia TV",
+            "name": "Channel 185",
+            "sub_name": "",
+            "stream_video_url": "https://www.onairport.live/sophiatv/smil:sophia-tv-en.smil/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://i.imgur.com/jyMedaF.png"
+          },
+          "sub_186": {
+            "id": 186,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_187": {
+            "id": 187,
+            "mode": "video",
+            "name_original": "Sophia TV",
+            "name": "Channel 187",
+            "sub_name": "",
+            "stream_video_url": "https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://i.imgur.com/jyMedaF.png"
+          },
+          "sub_188": {
+            "id": 188,
+            "mode": "video",
+            "name_original": "Sophia TV",
+            "name": "Channel 188",
+            "sub_name": "",
+            "stream_video_url": "https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://i.imgur.com/jyMedaF.png"
+          },
+          "sub_189": {
+            "id": 189,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_190": {
+            "id": 190,
+            "mode": "video",
+            "name_original": "Sophia TV",
+            "name": "Channel 190",
+            "sub_name": "",
+            "stream_video_url": "https://www.onairport.live/sophiatv-it-live/livestream/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://i.imgur.com/jyMedaF.png"
+          },
+          "sub_191": {
+            "id": 191,
+            "mode": "video",
+            "name_original": "Sophia TV",
+            "name": "Channel 191",
+            "sub_name": "",
+            "stream_video_url": "https://www.onairport.live/sophiatv-es-live/livestream/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Spanish.png",
+            "thumbnail_url_original": "https://i.imgur.com/jyMedaF.png"
           }
         }
       }

@@ -6,829 +6,268 @@
       "thumb_width": 150,
       "all_Channels_Tab_Name": "",
       "main": {
-        "id": 0,
+        "id": 1,
         "name": "Brasilian Channels",
         "sub_name": "Channels",
         "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-brazil_748057.png",
         "sub": {
-          "sub_0": {
-            "id": 0,
-            "mode": "video",
-            "name": "Channel 1",
-            "sub_name": "",
-            "stream_video_url": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/all_sports_img_2961.png"
-          },
           "sub_1": {
             "id": 1,
             "mode": "video",
-            "name": "Channel 2",
+            "name_original": "CBN Rio",
+            "name": "Channel 1",
             "sub_name": "",
-            "stream_video_url": "https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/media.m3u8",
+            "stream_video_url": "https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/all_sports_img_2961.png"
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/cbn_rio_img_3299.png"
           },
           "sub_2": {
             "id": 2,
             "mode": "video",
-            "name": "Channel 3",
+            "name_original": "CBN S\u00e3o Paulo",
+            "name": "Channel 2",
             "sub_name": "",
-            "stream_video_url": "https://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8",
+            "stream_video_url": "https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/boa_vontade_tv_img_2974.png"
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/cbn_s\u00e3o_paulo_img_3300.png"
           },
           "sub_3": {
             "id": 3,
-            "mode": "video",
-            "name": "Channel 4",
-            "sub_name": "",
-            "stream_video_url": "http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/boa_vontade_tv_img_2974.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
           },
           "sub_4": {
             "id": 4,
             "mode": "video",
-            "name": "Channel 5",
+            "name_original": "IMPD TV",
+            "name": "Channel 4",
             "sub_name": "",
-            "stream_video_url": "https://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8",
+            "stream_video_url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_ricos_img_2975.png"
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/impd_tv_img_2979.png"
           },
           "sub_5": {
             "id": 5,
             "mode": "video",
-            "name": "Channel 6",
+            "name_original": "Nova Era TV",
+            "name": "Channel 5",
             "sub_name": "",
-            "stream_video_url": "http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8",
+            "stream_video_url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/canal_ricos_img_2975.png"
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/nova_era_tv_img_3309.png"
           },
           "sub_6": {
             "id": 6,
-            "mode": "video",
-            "name": "Channel 7",
-            "sub_name": "",
-            "stream_video_url": "https://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
           },
           "sub_7": {
             "id": 7,
             "mode": "video",
-            "name": "Channel 8",
+            "name_original": "Novo Tempo",
+            "name": "Channel 7",
             "sub_name": "",
-            "stream_video_url": "http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8",
+            "stream_video_url": "http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/novo_tempo_img_2981.png"
           },
           "sub_8": {
             "id": 8,
             "mode": "video",
-            "name": "Channel 9",
+            "name_original": "Novo Tempo",
+            "name": "Channel 8",
             "sub_name": "",
-            "stream_video_url": "https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/chunklist_b1155072.m3u8",
+            "stream_video_url": "http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/novo_tempo_img_2981.png"
           },
           "sub_9": {
             "id": 9,
-            "mode": "video",
-            "name": "Channel 10",
-            "sub_name": "",
-            "stream_video_url": "https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/cbn_rio_img_3299.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
           },
           "sub_10": {
             "id": 10,
             "mode": "video",
-            "name": "Channel 11",
+            "name_original": "Rede Brasil de Comunica\u00e7\u00e3o",
+            "name": "Channel 10",
             "sub_name": "",
-            "stream_video_url": "https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8",
+            "stream_video_url": "http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/cbn_s\u00e3o_paulo_img_3300.png"
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/rede_brasil_de_comunica\u00e7\u00e3o_img_3312.png"
           },
           "sub_11": {
             "id": 11,
             "mode": "video",
-            "name": "Channel 12",
+            "name_original": "Santa Cecilia TV",
+            "name": "Channel 11",
             "sub_name": "",
-            "stream_video_url": "https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8",
+            "stream_video_url": "http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/com_brasil_img_3301.png"
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/santa_cecilia_tv_img_3316.png"
           },
           "sub_12": {
             "id": 12,
-            "mode": "video",
-            "name": "Channel 13",
-            "sub_name": "",
-            "stream_video_url": "https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/esporte_interativo_plus_img_3302.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
           },
           "sub_13": {
             "id": 13,
             "mode": "video",
-            "name": "Channel 14",
+            "name_original": "TV C\u00e2mara 2",
+            "name": "Channel 13",
             "sub_name": "",
-            "stream_video_url": "https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?fluxustv.m3u8",
+            "stream_video_url": "https://stream3.camara.gov.br/tv2/manifest.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fm_o_dia_img_2978.png"
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_c\u00e2mara_2_img_3332.png"
           },
           "sub_14": {
             "id": 14,
             "mode": "video",
-            "name": "Channel 15",
+            "name_original": "TV Educativa de Porto Alegre",
+            "name": "Channel 14",
             "sub_name": "",
-            "stream_video_url": "http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?fluxustv.m3u8",
+            "stream_video_url": "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fm_o_dia_img_2978.png"
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_educativa_de_porto_alegre_img_2998.png"
           },
           "sub_15": {
             "id": 15,
-            "mode": "video",
-            "name": "Channel 16",
-            "sub_name": "",
-            "stream_video_url": "https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fm_o_dia_img_2978.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
           },
           "sub_16": {
             "id": 16,
             "mode": "video",
-            "name": "Channel 17",
+            "name_original": "TV Gazeta",
+            "name": "Channel 16",
             "sub_name": "",
-            "stream_video_url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
+            "stream_video_url": "https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fonte_tv_img_3303.png"
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_gazeta_img_3000.png"
           },
           "sub_17": {
             "id": 17,
             "mode": "video",
-            "name": "Channel 18",
+            "name_original": "TV Guar\u00e1",
+            "name": "Channel 17",
             "sub_name": "",
-            "stream_video_url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS",
+            "stream_video_url": "https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/impd_tv_img_2979.png"
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_guar\u00e1_img_3336.png"
           },
           "sub_18": {
             "id": 18,
-            "mode": "video",
-            "name": "Channel 19",
-            "sub_name": "",
-            "stream_video_url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/impd_tv_img_2979.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
           },
           "sub_19": {
             "id": 19,
             "mode": "video",
-            "name": "Channel 20",
+            "name_original": "TV Pai Eterno",
+            "name": "Channel 19",
             "sub_name": "",
-            "stream_video_url": "http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8",
+            "stream_video_url": "https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_pai_eterno_img_3346.png"
           },
           "sub_20": {
             "id": 20,
             "mode": "video",
-            "name": "Channel 21",
+            "name_original": "TV Paran\u00e1",
+            "name": "Channel 20",
             "sub_name": "",
-            "stream_video_url": "https://hls.brasilstream.com.br/live/luautv/luautv/index.m3u8",
+            "stream_video_url": "http://200.189.113.201/hls/tve.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com"
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_paran\u00e1_img_3002.png"
           },
           "sub_21": {
             "id": 21,
-            "mode": "video",
-            "name": "Channel 22",
-            "sub_name": "",
-            "stream_video_url": "http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/mkk_web_tv_img_3308.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
           },
           "sub_22": {
             "id": 22,
             "mode": "video",
-            "name": "Channel 23",
+            "name_original": "TV Uni\u00e3o DF",
+            "name": "Channel 22",
             "sub_name": "",
-            "stream_video_url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8",
+            "stream_video_url": "https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/nova_era_tv_img_3309.png"
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_uni\u00e3o_df_img_3356.png"
           },
           "sub_23": {
             "id": 23,
             "mode": "video",
-            "name": "Channel 24",
+            "name_original": "TV Universal",
+            "name": "Channel 23",
             "sub_name": "",
-            "stream_video_url": "http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b2128000_slpor.m3u8",
+            "stream_video_url": "https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/novo_tempo_img_2981.png"
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_universal_img_3355.png"
           },
           "sub_24": {
             "id": 24,
-            "mode": "video",
-            "name": "Channel 25",
-            "sub_name": "",
-            "stream_video_url": "http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/novo_tempo_img_2981.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://technicalbuz.com/ubit",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
           },
           "sub_25": {
             "id": 25,
             "mode": "video",
-            "name": "Channel 26",
-            "sub_name": "",
-            "stream_video_url": "http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/novo_tempo_img_2981.png"
-          },
-          "sub_26": {
-            "id": 26,
-            "mode": "video",
-            "name": "Channel 27",
-            "sub_name": "",
-            "stream_video_url": "http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/portal_cultura_par\u00e1_img_3310.png"
-          },
-          "sub_27": {
-            "id": 27,
-            "mode": "video",
-            "name": "Channel 28",
-            "sub_name": "",
-            "stream_video_url": "http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/puc_tv_goi\u00e1s_img_3311.png"
-          },
-          "sub_28": {
-            "id": 28,
-            "mode": "video",
-            "name": "Channel 29",
-            "sub_name": "",
-            "stream_video_url": "http://flash8.crossdigital.com.br/2306/2306/chunklist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/rci_img_2982.png"
-          },
-          "sub_29": {
-            "id": 29,
-            "mode": "video",
-            "name": "Channel 30",
-            "sub_name": "",
-            "stream_video_url": "http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/rede_brasil_de_comunica\u00e7\u00e3o_img_3312.png"
-          },
-          "sub_30": {
-            "id": 30,
-            "mode": "video",
-            "name": "Channel 31",
-            "sub_name": "",
-            "stream_video_url": "https://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/rede_super_img_2987.png"
-          },
-          "sub_31": {
-            "id": 31,
-            "mode": "video",
-            "name": "Channel 32",
-            "sub_name": "",
-            "stream_video_url": "http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/rede_super_img_2987.png"
-          },
-          "sub_32": {
-            "id": 32,
-            "mode": "video",
-            "name": "Channel 33",
-            "sub_name": "",
-            "stream_video_url": "http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/rede_super_img_2987.png"
-          },
-          "sub_33": {
-            "id": 33,
-            "mode": "video",
-            "name": "Channel 34",
-            "sub_name": "",
-            "stream_video_url": "https://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/rede_super_img_2987.png"
-          },
-          "sub_34": {
-            "id": 34,
-            "mode": "video",
-            "name": "Channel 35",
-            "sub_name": "",
-            "stream_video_url": "https://5abdf4edae5bf.streamlock.net/tvarthdtv/tvarthdtv/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com"
-          },
-          "sub_35": {
-            "id": 35,
-            "mode": "video",
-            "name": "Channel 36",
-            "sub_name": "",
-            "stream_video_url": "http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/santa_cecilia_tv_img_3316.png"
-          },
-          "sub_36": {
-            "id": 36,
-            "mode": "video",
-            "name": "Channel 37",
-            "sub_name": "",
-            "stream_video_url": "https://live.tcm10.com.br/tcm10.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tcm_hd_img_3319.png"
-          },
-          "sub_37": {
-            "id": 37,
-            "mode": "video",
-            "name": "Channel 38",
-            "sub_name": "",
-            "stream_video_url": "http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/terra_viva_img_3320.png"
-          },
-          "sub_38": {
-            "id": 38,
-            "mode": "video",
-            "name": "Channel 39",
-            "sub_name": "",
-            "stream_video_url": "https://5d23bdca513db.streamlock.net/8006/8006/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/toptv_img_3321.png"
-          },
-          "sub_39": {
-            "id": 39,
-            "mode": "video",
-            "name": "Channel 40",
-            "sub_name": "",
-            "stream_video_url": "https://streaming.almg.gov.br/live/tvalmg.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_almg_img_3322.png"
-          },
-          "sub_40": {
-            "id": 40,
-            "mode": "video",
-            "name": "Channel 41",
-            "sub_name": "",
-            "stream_video_url": "http://tv02.logicahost.com.br:1935/fundacao/fundacao/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_alrn_img_3323.png"
-          },
-          "sub_41": {
-            "id": 41,
-            "mode": "video",
-            "name": "Channel 42",
-            "sub_name": "",
-            "stream_video_url": "http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_ambiental_img_3324.png"
-          },
-          "sub_42": {
-            "id": 42,
-            "mode": "video",
-            "name": "Channel 43",
-            "sub_name": "",
-            "stream_video_url": "https://srv-rs1.sisdera.com/hls/1/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_aplateia_img_3325.png"
-          },
-          "sub_43": {
-            "id": 43,
-            "mode": "video",
-            "name": "Channel 44",
-            "sub_name": "",
-            "stream_video_url": "https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
-          },
-          "sub_44": {
-            "id": 44,
-            "mode": "video",
-            "name": "Channel 45",
-            "sub_name": "",
-            "stream_video_url": "http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_bno_img_2995.png"
-          },
-          "sub_45": {
-            "id": 45,
-            "mode": "video",
-            "name": "Channel 46",
-            "sub_name": "",
-            "stream_video_url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_c\u00e2mara_img_3331.png"
-          },
-          "sub_46": {
-            "id": 46,
-            "mode": "video",
-            "name": "Channel 47",
-            "sub_name": "",
-            "stream_video_url": "https://stream3.camara.gov.br/tv2/manifest.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_c\u00e2mara_2_img_3332.png"
-          },
-          "sub_47": {
-            "id": 47,
-            "mode": "video",
-            "name": "Channel 48",
-            "sub_name": "",
-            "stream_video_url": "https://5d2c98775bafe.streamlock.net/8180/8180/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_carioca_img_3327.png"
-          },
-          "sub_48": {
-            "id": 48,
-            "mode": "video",
-            "name": "Channel 49",
-            "sub_name": "",
-            "stream_video_url": "https://stmv4.srvstm.com/tvc162/tvc162/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com"
-          },
-          "sub_49": {
-            "id": 49,
-            "mode": "video",
-            "name": "Channel 50",
-            "sub_name": "",
-            "stream_video_url": "http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_cinec_img_3329.png"
-          },
-          "sub_50": {
-            "id": 50,
-            "mode": "video",
-            "name": "Channel 51",
-            "sub_name": "",
-            "stream_video_url": "https://59f1cbe63db89.streamlock.net:1443/tvcrio/_definst_/tvcrio/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_comunit\u00e1ria_do_rio_de_janeiro_img_3330.png"
-          },
-          "sub_51": {
-            "id": 51,
-            "mode": "video",
-            "name": "Channel 52",
-            "sub_name": "",
-            "stream_video_url": "http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_das_artes_img_3333.png"
-          },
-          "sub_52": {
-            "id": 52,
-            "mode": "video",
-            "name": "Channel 53",
-            "sub_name": "",
-            "stream_video_url": "http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_destak_img_2996.png"
-          },
-          "sub_53": {
-            "id": 53,
-            "mode": "video",
-            "name": "Channel 54",
-            "sub_name": "",
-            "stream_video_url": "http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_destak_img_2996.png"
-          },
-          "sub_54": {
-            "id": 54,
-            "mode": "video",
-            "name": "Channel 55",
-            "sub_name": "",
-            "stream_video_url": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_digital_birigui_img_2997.png"
-          },
-          "sub_55": {
-            "id": 55,
-            "mode": "video",
-            "name": "Channel 56",
-            "sub_name": "",
-            "stream_video_url": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_digital_birigui_img_2997.png"
-          },
-          "sub_56": {
-            "id": 56,
-            "mode": "video",
-            "name": "Channel 57",
-            "sub_name": "",
-            "stream_video_url": "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_educativa_de_porto_alegre_img_2998.png"
-          },
-          "sub_57": {
-            "id": 57,
-            "mode": "video",
-            "name": "Channel 58",
-            "sub_name": "",
-            "stream_video_url": "http://flash32k.crossdigital.com.br:1935/evangelizar/tv/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_evangelizar_img_3334.png"
-          },
-          "sub_58": {
-            "id": 58,
-            "mode": "video",
-            "name": "Channel 59",
-            "sub_name": "",
-            "stream_video_url": "http://api.new.livestream.com/accounts/5381476/events/gazeta-aovivo/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_gazeta_img_3000.png"
-          },
-          "sub_59": {
-            "id": 59,
-            "mode": "video",
-            "name": "Channel 60",
-            "sub_name": "",
-            "stream_video_url": "https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_gazeta_img_3000.png"
-          },
-          "sub_60": {
-            "id": 60,
-            "mode": "video",
-            "name": "Channel 61",
-            "sub_name": "",
-            "stream_video_url": "https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_guar\u00e1_img_3336.png"
-          },
-          "sub_61": {
-            "id": 61,
-            "mode": "video",
-            "name": "Channel 62",
-            "sub_name": "",
-            "stream_video_url": "https://caikron.com.br:8082/tvmi/tvmi/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_imaculada_concei\u00e7\u00e3o_img_3337.png"
-          },
-          "sub_62": {
-            "id": 62,
-            "mode": "video",
-            "name": "Channel 63",
-            "sub_name": "",
-            "stream_video_url": "http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_interlagos_img_3338.png"
-          },
-          "sub_63": {
-            "id": 63,
-            "mode": "video",
-            "name": "Channel 64",
-            "sub_name": "",
-            "stream_video_url": "https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_mackenzie_img_3339.png"
-          },
-          "sub_64": {
-            "id": 64,
-            "mode": "video",
-            "name": "Channel 65",
-            "sub_name": "",
-            "stream_video_url": "https://v7.ciclano.io:1443/tvmar/tvmar/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_mar_macei\u00f3_img_3340.png"
-          },
-          "sub_65": {
-            "id": 65,
-            "mode": "video",
-            "name": "Channel 66",
-            "sub_name": "",
-            "stream_video_url": "https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_max_rio_img_3341.png"
-          },
-          "sub_66": {
-            "id": 66,
-            "mode": "video",
-            "name": "Channel 67",
-            "sub_name": "",
-            "stream_video_url": "https://video01.kshost.com.br/clodoaldo6562/clodoaldo6562/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
-          },
-          "sub_67": {
-            "id": 67,
-            "mode": "video",
-            "name": "Channel 68",
-            "sub_name": "",
-            "stream_video_url": "http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_o_povo_img_3345.png"
-          },
-          "sub_68": {
-            "id": 68,
-            "mode": "video",
-            "name": "Channel 69",
-            "sub_name": "",
-            "stream_video_url": "https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_pai_eterno_img_3346.png"
-          },
-          "sub_69": {
-            "id": 69,
-            "mode": "video",
-            "name": "Channel 70",
-            "sub_name": "",
-            "stream_video_url": "http://200.189.113.201/hls/tve.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_paran\u00e1_img_3002.png"
-          },
-          "sub_70": {
-            "id": 70,
-            "mode": "video",
-            "name": "Channel 71",
-            "sub_name": "",
-            "stream_video_url": "http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com"
-          },
-          "sub_71": {
-            "id": 71,
-            "mode": "video",
-            "name": "Channel 72",
-            "sub_name": "",
-            "stream_video_url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
-          },
-          "sub_72": {
-            "id": 72,
-            "mode": "video",
-            "name": "Channel 73",
-            "sub_name": "",
-            "stream_video_url": "http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
-          },
-          "sub_73": {
-            "id": 73,
-            "mode": "video",
-            "name": "Channel 74",
-            "sub_name": "",
-            "stream_video_url": "http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
-          },
-          "sub_74": {
-            "id": 74,
-            "mode": "video",
-            "name": "Channel 75",
-            "sub_name": "",
-            "stream_video_url": "http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
-          },
-          "sub_75": {
-            "id": 75,
-            "mode": "video",
-            "name": "Channel 76",
-            "sub_name": "",
-            "stream_video_url": "https://video.unesp.br/live/indoor.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_unesp_img_3354.png"
-          },
-          "sub_76": {
-            "id": 76,
-            "mode": "video",
-            "name": "Channel 77",
-            "sub_name": "",
-            "stream_video_url": "https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_uni\u00e3o_df_img_3356.png"
-          },
-          "sub_77": {
-            "id": 77,
-            "mode": "video",
-            "name": "Channel 78",
-            "sub_name": "",
-            "stream_video_url": "https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_universal_img_3355.png"
-          },
-          "sub_78": {
-            "id": 78,
-            "mode": "video",
-            "name": "Channel 79",
-            "sub_name": "",
-            "stream_video_url": "https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv_verdes_campos_img_3008.png"
-          },
-          "sub_79": {
-            "id": 79,
-            "mode": "video",
-            "name": "Channel 80",
-            "sub_name": "",
-            "stream_video_url": "http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tvci_img_3009.png"
-          },
-          "sub_80": {
-            "id": 80,
-            "mode": "video",
-            "name": "Channel 81",
-            "sub_name": "",
-            "stream_video_url": "http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tvci_paranagu\u00e1_img_3357.png"
-          },
-          "sub_81": {
-            "id": 81,
-            "mode": "video",
-            "name": "Channel 82",
+            "name_original": "TVDS",
+            "name": "Channel 25",
             "sub_name": "",
             "stream_video_url": "http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tvds_img_3010.png"
-          },
-          "sub_82": {
-            "id": 82,
-            "mode": "video",
-            "name": "Channel 83",
-            "sub_name": "",
-            "stream_video_url": "http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tve_bahia_img_3358.png"
-          },
-          "sub_83": {
-            "id": 83,
-            "mode": "video",
-            "name": "Channel 84",
-            "sub_name": "",
-            "stream_video_url": "http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tvn_brasil_img_3359.png"
-          },
-          "sub_84": {
-            "id": 84,
-            "mode": "video",
-            "name": "Channel 85",
-            "sub_name": "",
-            "stream_video_url": "http://unitvaovivo.ufrgs.br:8080/live.ogg",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com"
-          },
-          "sub_85": {
-            "id": 85,
-            "mode": "video",
-            "name": "Channel 86",
-            "sub_name": "",
-            "stream_video_url": "https://video01.kshost.com.br/cypriano46326/cypriano46326/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/viva_web_tv_img_3361.png"
-          },
-          "sub_86": {
-            "id": 86,
-            "mode": "video",
-            "name": "Channel 87",
-            "sub_name": "",
-            "stream_video_url": "http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/web_tv_minas_img_3012.png"
-          },
-          "sub_87": {
-            "id": 87,
-            "mode": "video",
-            "name": "Channel 88",
-            "sub_name": "",
-            "stream_video_url": "http://tv02.logicahost.com.br:1935/santana01/santana01/live.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/web_tv_santana_img_3362.png"
-          },
-          "sub_88": {
-            "id": 88,
-            "mode": "video",
-            "name": "Channel 89",
-            "sub_name": "",
-            "stream_video_url": "https://livefocamundo.com:8081/8266/tracks-v1a1/mono.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/web_tv_uai_img_3363.png"
-          },
-          "sub_89": {
-            "id": 89,
-            "mode": "video",
-            "name": "Channel 90",
-            "sub_name": "",
-            "stream_video_url": "https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.comhttps://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/yeeaah!_img_3364.png"
-          },
-          "sub_90": {
-            "id": 90,
-            "mode": "video",
-            "name": "Channel 91",
-            "sub_name": "",
-            "stream_video_url": "https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Brazil.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com"
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tvds_img_3010.png"
           }
         }
       }
