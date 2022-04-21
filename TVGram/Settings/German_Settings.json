@@ -14,6 +14,7 @@
         "open_ads_reload_count":3,
         "show_interestial_show_count":3,
         "is_geoedge_sdk_flag" : true,
+         "is_analytics_flag" : true,
         "geoedge_sdk_key" : "755bfaf4-91f2-4843-85f1-527189ab389e",
         "ads_loading_text": "Ads will loading...",
         "applovin_ads": {
