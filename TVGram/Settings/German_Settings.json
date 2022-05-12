@@ -1,7 +1,7 @@
 {
   "TV_Data": {
     "Settings": {
-       "Admob_Settings": {
+      "Admob_Settings": {
         "is_override" : false,
         "legal_ads_delay": 2,
         "illegal_ads_delay": 1,
@@ -14,6 +14,7 @@
         "open_ads_reload_count":3,
         "show_interestial_show_count":3,
         "is_geoedge_sdk_flag" : true,
+         "is_analytics_flag" : true,
         "geoedge_sdk_key" : "755bfaf4-91f2-4843-85f1-527189ab389e",
         "ads_loading_text": "Ads will loading...",
         "applovin_ads": {
@@ -101,7 +102,7 @@
           "is_banner_safety_layer_one_click_remove":false,
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
-          "is_ads": false,
+          "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_native_ads": false,
@@ -135,7 +136,7 @@
           "is_banner_safety_layer_one_click_remove":false,
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
-          "is_ads": false,
+          "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
@@ -199,7 +200,7 @@
               "on_back_close" : true,
               "is_banner_webview" : false,
               "title" : "Google Pay Earn Money",
-              "description" : "Join me on Earn App, a payments app by This App. Enter my code (Rb50s) and then make a payment. We'll each get ₹51!",
+              "description" : "Join me on Earn App, a payments app by This App. Enter my code (Rb50s) and then make a payment. We'll each get ?51!",
               "banner_image" : "https://www.flashsaletricks.com/wp-content/uploads/2017/04/Chillr_Refer_Earn_Rs75_24April-1024x451.png",
               "logo_image" : "https://lh3.googleusercontent.com/2AGGvhEWVJ8qHoeDyLFb9rozSvIsBW7uAZcOoiSQ2NHRn-Hp4XkH_53YD6sVqsau5trA=s180-rw",
               "website_url" : "https://gplinks.in/IoijtsbK",
@@ -210,13 +211,13 @@
             }
           }
         },
-        "is_banner_ads": false,
-        "is_interstitial_ads": false,
-        "is_stream_player_banner_ads": false,
-        "is_illegal_interstitial_ads": false,
-        "is_legal_interstitial_ads": false,
-        "is_illegal_banner_ads": false,
-        "is_legal_banner_ads": false,
+        "is_banner_ads": true,
+        "is_interstitial_ads": true,
+        "is_stream_player_banner_ads": true,
+        "is_illegal_interstitial_ads": true,
+        "is_legal_interstitial_ads": true,
+        "is_illegal_banner_ads": true,
+        "is_legal_banner_ads": true,
         "amazon_ads": {
           "ads_app_id": "ab2af0042c144a81a7edf1ffc14293a8",
           "ads_banner_clicks_per_duration_day" : 1,
@@ -243,7 +244,7 @@
         "startapp_ads": {
           "ads_app_id1": "201571398",
           "ads_app_id": "202770524",
-          "is_ads": false,
+          "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
@@ -359,8 +360,8 @@
       {
         "is_override" : false,
 
-        "is_popup_dialog": false,
-        "is_update_require":false,
+        "is_popup_dialog": true,
+        "is_update_require":true,
 
         "package_id":"com.tvgram.germanlivetv",
         "download_url":"",
@@ -420,7 +421,7 @@
         "is_override" : false,
         "is_smart_player_support": true,
         "is_android_player_support": true,
-        "is_webview_player_support": true,
+        "is_webview_player_support": false,
         "is_other_player_support":true,
         "is_inapp_other_player_support":true,
         "is_other_player_session_free_support":false,
@@ -434,7 +435,7 @@
         "is_cast_session_free_support":false,
 
         "is_remove_ads_support":true,
-        "is_remove_ads_session_free_support":false,
+        "is_remove_ads_session_free_support":true,
 
         "is_purchase_restore_support":true
       },
@@ -516,7 +517,7 @@
         "is_system_browser": false,
         "playlist_web_search": "",
         "default_playlist_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Data/German_Live.json",
-        "default_playlist_url1": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Common/World_Live.json"
+        "default_playlist_url1": "https://raw.githubusercontent.com/theantiqa/Pocket-TV/Final-Apps/TVGram/Common/World_Live.json"
       },
 
       "About_App":
@@ -581,7 +582,7 @@
         "is_override" : false,
         "registration_detail1": "",
         "registration_detail": "German Live TV® 2018",
-        "version_detail": "version : 3.0"
+        "version_detail": "version : 6.0"
       },
 
       "Live_Support":
@@ -606,7 +607,7 @@
       "Feedback_Support":
       {
         "is_override" : false,
-        "is_feedback" : false,
+        "is_feedback" : true,
 
         "cc_email_id": "",
         "email_id": "tvgram.inc@gmail.com",
@@ -620,7 +621,7 @@
       "Channel_Report_Support":
       {
         "is_override" : false,
-        "is_channel_report" : false,
+        "is_channel_report" : true,
 
         "cc_email_id": "",
         "email_id": "tvgram.inc@gmail.com",
