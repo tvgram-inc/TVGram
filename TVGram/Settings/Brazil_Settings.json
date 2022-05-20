@@ -82,9 +82,9 @@
         },
         "google_ads": {
           "ads_app_id": "ca-app-pub-9464849294744852~1625281867",
-          "banner_ad_unit_id": "/22675585931/Brazil_victory_10.4_Banner",
+          "banner_ad_unit_id": "ca-app-pub-1867655643934057/1052515577",
           "banner_ad_unit_id1": "ca-app-pub-3940256099942544/6300978111",
-          "interstitial_ad_unit_id": "/22675585931/Brazil_victory_10.4_interstitial",
+          "interstitial_ad_unit_id": "ca-app-pub-1867655643934057/3892671020",
           "interstitial_ad_unit_id1": "ca-app-pub-3940256099942544/1033173712",
           "ads_banner_clicks_per_duration_day" : -1,
           "ads_interstitial_clicks_per_duration_day" : -1,
@@ -98,15 +98,15 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
-          "native_ad_unit_id": "/22675585931/Brazil_victory_10.4_native",
-          "rewarded_video_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+          "native_ad_unit_id": "ca-app-pub-1867655643934057/1266507686",
+          "rewarded_video_ad_unit_id": "ca-app-pub-1867655643934057/6255447193",
 
           "is_illegal_interstitial_ads": true,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 0
+          "visibility_percentage": 100
         },
         "unity_ads": {
           "is_debug_mode": false,
