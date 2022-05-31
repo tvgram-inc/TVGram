@@ -309,6 +309,9 @@
           "guide_description": "Touch to cast content to available device."
         }
       },
+      "User_Community_Support": {
+         "is_User_Community_Support": false
+      },
       "App_Update_Information": {
         "is_override": false,
         "is_popup_dialog": true,
@@ -318,8 +321,7 @@
         "website_url": "https://play.google.com/store/apps/details?id=com.tvgram.germanlivetv",
         "is_system_browser": true,
         "is_User_Community_Support": false,
-        "User_Community_Support": false,
-        "updated_version_code": 3,
+         "updated_version_code": 3,
         "filename": "German_Live_TV.apk",
         "title": "App Update",
         "default_message": "Your App is Up to date.",
