@@ -633,7 +633,7 @@
       "Video_Player_Settings":
       {
         "is_override" : false,
-        "is_trial_version": false,
+        "is_trial_version": true,
         "trial_version_top_text": "",
         "trial_version_bottom_text": "",
         "trial_version_height": 70,
