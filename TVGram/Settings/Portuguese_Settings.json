@@ -2,13 +2,17 @@
   "TV_Data": {
     "Settings": {
       "Admob_Settings": {
-        "is_override" : false,
+        "is_override": false,
         "legal_ads_delay": 2,
         "illegal_ads_delay": 1,
         "legal_ads_on_cancel_delay": 2,
         "illegal_ads_on_cancel_delay": 1,
-        "banner_ads_reload_count": 1,
-        "interstitial_ads_reload_count": 1,
+        "banner_ads_reload_count": 3,
+        "interstitial_ads_reload_count": 3,
+        "rewarded_ads_reload_count": 3,
+        "native_ads_reload_count": 3,
+        "open_ads_reload_count": 3,
+        "show_interestial_show_count": 3,
         "is_geoedge_sdk_flag": false,
         "is_analytics_flag": false,
         "geoedge_sdk_key": "",
@@ -58,8 +62,8 @@
 
           "visibility_percentage": 0
         },
-        "default_ads": "unity_ads",
-        "final_default_ads":"startapp_ads",
+        "default_ads": "google_ads",
+        "final_default_ads":"facebook_ads",
         "facebook_ads": {
           "ads_app_id": "353151288785830",
           "banner_ad_unit_id": "353151288785830_353151742119118",
@@ -381,7 +385,7 @@
         "is_override" : false,
         "is_smart_player_support": true,
         "is_android_player_support": true,
-        "is_webview_player_support": true,
+        "is_webview_player_support": false,
         "is_other_player_support":true,
         "is_inapp_other_player_support":true,
         "is_other_player_session_free_support":false,
