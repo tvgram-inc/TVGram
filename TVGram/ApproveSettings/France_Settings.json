@@ -98,6 +98,7 @@
           "is_interstitial_ads": false,
           "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":true,
+          "is_native_ads": false,
           "native_ad_unit_id": "ca-app-pub-5004393487171509/4187942046",
           "rewarded_video_ad_unit_id": "ca-app-pub-5004393487171509/4187942046",
 
