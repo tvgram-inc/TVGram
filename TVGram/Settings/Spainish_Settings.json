@@ -9,6 +9,10 @@
         "illegal_ads_on_cancel_delay": 1,
         "banner_ads_reload_count": 1,
         "interstitial_ads_reload_count": 1,
+         "rewarded_ads_reload_count": 3,
+        "native_ads_reload_count": 3,
+        "open_ads_reload_count": 3,
+        "show_interestial_show_count": 3,
         "is_geoedge_sdk_flag": false,
         "is_analytics_flag": false,
         "geoedge_sdk_key": "",
@@ -327,7 +331,7 @@
         "download_url":"",
         "website_url":"https://play.google.com/store/apps/details?id=com.tvgram.spanishlivetv",
         "is_system_browser":true,
-
+        "is_User_Community_Support": false,
         "updated_version_code":2,
 
         "filename":"Spainish_Live_TV.apk",
