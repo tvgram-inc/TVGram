@@ -241,7 +241,7 @@
         {
           "is_guide":true,
           "guide_title":"Main Menu",
-          "guide_description":"You can get Spainish Live TV supports and features here."
+          "guide_description":"You can get Spanish Live TV supports and features here."
         },
         "guide_add_playlist":
         {
@@ -336,7 +336,7 @@
         "is_User_Community_Support": false,
         "updated_version_code":2,
 
-        "filename":"Spainish_Live_TV.apk",
+        "filename":"Spanish_Live_TV.apk",
         "title":"App Update",
         "default_message":"Your App is Up to date.",
         "log_message":"- Now become more powerfull IPTV Player",
@@ -412,7 +412,7 @@
         "other_player_title": "Other Player Support",
 
         "inapp_other_player_sku" : "com.purchase.otherplayeroption",
-        "inapp_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Spainish Live TV.",
+        "inapp_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Spanish Live TV.",
 
         "other_player_banner_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Common/Player-select.jpg",
 
@@ -429,11 +429,11 @@
         "cast_package_name": "com.instantbits.cast.webvideo",
 
         "inapp_cast_sku" : "com.purchase.chromecast",
-        "inapp_cast_message": "If you want to play video on you TV.\n\nThen you should purchase this service.\n\nYou will get chromecast support from Spainish Live TV.",
+        "inapp_cast_message": "If you want to play video on you TV.\n\nThen you should purchase this service.\n\nYou will get chromecast support from Spanish Live TV.",
 
         "cast_banner_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Common/Chromecast.jpg",
 
-        "initial_cast_message1": "Do you need Chromecast support then follow below steps :\n\n(1). Press \"SETUP\" button.\n(2). If It will ask for permission please allow.\n(3). It will open download dialog and please wait till download completion.\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n(5). After It will popup for installation screen and then \"INSTALL\" it.\n(6). After installation complete press \"DONE\" button.\n(7). Come back to Spainish Live TV and you will see your plugin activated.\n(9). If you can't setup then : <a href='https://github.com/tvgram-inc/TVGram/raw/master/TVGram/Common/ChromeCast.apk'>DOWNLOAD HERE</a>\n\n",
+        "initial_cast_message1": "Do you need Chromecast support then follow below steps :\n\n(1). Press \"SETUP\" button.\n(2). If It will ask for permission please allow.\n(3). It will open download dialog and please wait till download completion.\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n(5). After It will popup for installation screen and then \"INSTALL\" it.\n(6). After installation complete press \"DONE\" button.\n(7). Come back to Spanish Live TV and you will see your plugin activated.\n(9). If you can't setup then : <a href='https://github.com/tvgram-inc/TVGram/raw/master/TVGram/Common/ChromeCast.apk'>DOWNLOAD HERE</a>\n\n",
         "initial_cast_message": "Do you need Chromecast support then press \"LINK\" button and install chromecast app from playstore.",
         "success_cast_message": "Now You can Chromecast Your Video From Player.",
 
@@ -455,7 +455,7 @@
 
         "remove_ads_banner_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Common/Ad-blocker.png",
 
-        "success_remove_ads_message": "Congratulations!\nNow Spainish Live TV is ADS FREE."
+        "success_remove_ads_message": "Congratulations!\nNow Spanish Live TV is ADS FREE."
       },
 
       "Purchase_Restore_Support":
@@ -473,16 +473,16 @@
         "is_disclaimer_app" : true,
         "is_force_approved": true,
         "disclaimer_title": "Disclaimer",
-        "disclaimer_message": "Spainish Live TV apps does not stream any of the channels included in its website/app, All the streaming links are from third parties available free on the internet. If any one founds that we are violating by broadcasting any copyright protected channel email us the channel name, based on your email request.\n\ntvgram.inc@gmail.com"
+        "disclaimer_message": "Spanish Live TV apps does not stream any of the channels included in its website/app, All the streaming links are from third parties available free on the internet. If any one founds that we are violating by broadcasting any copyright protected channel email us the channel name, based on your email request.\n\ntvgram.inc@gmail.com"
       },
 
       "Playlist_Detail":
       {
         "is_override" : false,
-        "playlist_message": "Please contact your Spainish Live TV provider to get M3U, M3U8, PLS, RUTU or XSPF playlist with TV Channels",
+        "playlist_message": "Please contact your Spanish Live TV provider to get M3U, M3U8, PLS, RUTU or XSPF playlist with TV Channels",
         "is_system_browser": false,
         "playlist_web_search": "",
-        "default_playlist_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Data/Spainish_Live.json",
+        "default_playlist_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Data/Spanish_Live.json",
         "default_playlist_url1": "https://raw.githubusercontent.com/theantiqa/Pocket-TV/Final-Apps/TVGram/Common/World_Live.json"
       },
 
@@ -491,7 +491,7 @@
         "is_override" : false,
         "is_about_app" : true,
         "about_title": "About",
-        "about_message": "Spainish Live TV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Spainish Live TV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
+        "about_message": "Spanish Live TV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Spanish Live TV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
       },
 
       "Exit_Dialog":
@@ -522,8 +522,8 @@
       {
         "is_override" : false,
         "is_share_app" : true,
-        "share_message_app": "Are you looking best Spainish Live TV App In which you can see Live TV. then you hurry up and download Spainish Live TV from here : https://play.google.com/store/apps/details?id=com.tvgram.spanishlivetv",
-        "share_message_iptv": "Share Spainish Live TV url : ",
+        "share_message_app": "Are you looking best Spanish Live TV App In which you can see Live TV. then you hurry up and download Spanish Live TV from here : https://play.google.com/store/apps/details?id=com.tvgram.spanishlivetv",
+        "share_message_iptv": "Share Spanish Live TV url : ",
         "share_message_link": "Share link url : "
       },
 
@@ -547,7 +547,7 @@
       {
         "is_override" : false,
         "registration_detail1": "",
-        "registration_detail": "Spainish Live TV® 2018",
+        "registration_detail": "Spanish Live TV® 2018",
         "version_detail": "version : 2.0"
       },
 
@@ -577,8 +577,8 @@
 
         "cc_email_id": "",
         "email_id": "tvgram.inc@gmail.com",
-        "email_message": "Hi,\n\n\nYour Feedback Spainish Live TV Rocks! I would like to give you some feedback: ",
-        "email_subject": "Feedback on Spainish Live TV",
+        "email_message": "Hi,\n\n\nYour Feedback Spanish Live TV Rocks! I would like to give you some feedback: ",
+        "email_subject": "Feedback on Spanish Live TV",
 
         "feedback_title": "Send Feedback",
         "feedback_message": "If you have any kind of query, Then mail us.\nWe will resolve it."
