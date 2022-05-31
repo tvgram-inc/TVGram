@@ -23,12 +23,10 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":false,
-
           "is_illegal_interstitial_ads": false,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
-
           "visibility_percentage": 0
         },
         "appnext_ads": {
@@ -47,12 +45,10 @@
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":false,
           "rewarded_video_ad_unit_id": "8c9e6a25-14b7-4184-89a5-f1e14be59b1b",
-
           "is_illegal_interstitial_ads": false,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
-
           "visibility_percentage": 0
         },
         "default_ads": "unity_ads",
@@ -72,12 +68,10 @@
           "is_interstitial_ads": false,
           "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":false,
-
           "is_illegal_interstitial_ads": false,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
-
           "visibility_percentage": 100
         },
         "google_ads": {
@@ -100,12 +94,10 @@
           "is_initially_ads_container_visible":true,
           "native_ad_unit_id": "ca-app-pub-5004393487171509/4187942046",
           "rewarded_video_ad_unit_id": "ca-app-pub-5004393487171509/4187942046",
-
           "is_illegal_interstitial_ads": false,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
-
           "visibility_percentage": 0
         },
         "unity_ads": {
@@ -127,12 +119,10 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
-
           "is_illegal_interstitial_ads": true,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": true,
-
           "visibility_percentage": 50
         },
         "custom_ads" :
@@ -142,12 +132,10 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":false,
-
           "is_illegal_interstitial_ads": true,
           "is_legal_interstitial_ads": false,
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": false,
-
           "visibility_percentage": 0,
           "ads_list" :
           {
@@ -190,12 +178,10 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": false,
           "is_initially_ads_container_visible":true,
-
           "is_illegal_interstitial_ads": false,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
-
           "visibility_percentage": 0
         },
         "startapp_ads": {
@@ -206,12 +192,10 @@
           "is_interstitial_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
-
           "is_illegal_interstitial_ads": true,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": true,
-
           "visibility_percentage": 50
         }
       },
@@ -284,8 +268,6 @@
           "guide_title":"QR Code",
           "guide_description":"You can open QR Code so your friends directly can scan this code and add same playlist by this feature."
         },
-
-
         "guide_current_iptv_adapter":
         {
           "is_guide":true,
@@ -298,8 +280,6 @@
           "guide_title":"Share & Delete",
           "guide_description":"You can share & delete playlist item by simple pressing on icon or long pressing on playlist item."
         },
-
-
         "guide_video_player_report_channel":
         {
           "is_guide":true,
@@ -316,17 +296,13 @@
       "App_Update_Information":
       {
         "is_override" : false,
-
         "is_popup_dialog": false,
         "is_update_require":false,
-
         "package_id":"com.tvgram.brazillivetv",
         "download_url":"",
         "website_url":"https://play.google.com/store/apps/details?id=com.tvgram.brazillivetv",
         "is_system_browser":true,
-
         "updated_version_code":1,
-
         "filename":"Brazil_Live_TV.apk",
         "title":"App Update",
         "default_message":"Your App is Up to date.",
@@ -334,7 +310,6 @@
         "downloading_message":"App Downloading",
         "installing_message":"App Install"
       },
-
       "Inapp_Purchase_Settings" :
       {
         "is_override": false,
@@ -358,7 +333,6 @@
         "inapp_base64EncodedPublicKey" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhbxbwByaAeBtBOWnxKoYqIMcmgopIpgLi5G8bL62J1rKNntpV5ildIO0rZo8umb8KQHtxDg58Hevlb1gvPYVKRjTQTQCMJ99vzx7kkqwX1RUxVWuL5/Iixyrp3GgHdEb8YtVGDTN5hhLqgkCQ/iE52gMFC7UhU8dN7e+GWhsQsHfqhA9K6Xrh/jEv4pAjxN10kYXYDNvyxq7KA+j4d1qEbaJjUzKXbIeUTfNhueL+/IlMUKnTL1Z6h6ZzkUh3jsvzSbeWeWBoaEDh+xz7QdqsxUz+2JAwffYeLZMyFmfLciWdk8zZ7hVO47wDare3FGmC/lV2Xjv4bhQpc6Zzyv+vQIDAQAB",
         "inapp_base64EncodedPublicKey_all" : "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLE+5061d1CMY+2i9gmWOfp/2frJ8am0gZcck7l7VxwUKLsHmWfapCKj2hKxJWb2SS9O9WAAKLLav/xqCz3KjaHpPT/h1aMiBV7UbhiXU0upDxndPjRWqIn2gsAkxiRoOcAxh0d365YL5qatzGqBOWw2tGwnEc5f1bgmZuCs+wgXXwjiEUY1eHLwjc0wsLT/8H9zpARUhsTh3eefHDesg6Yakfi9F+l8B/Y6tuWheWdB1WFwrDFJuiXv2Kq6Dcb80MiPPNIhO2wIf+1CsVDvgsRQGBDKJFPBpKznNdibDiYL0qS7R1Xu3Bh63Mvt9ns3yKQTR0yQ4x9xRvpRIk7o+QIDAQAB"
       },
-
       "Start_Up_Popup":
       {
         "is_override" : false,
@@ -372,62 +346,52 @@
         "website_url": "https://www.amazon.in/Redmi-Y2-Dark-Grey-64GB/dp/B077PWBDV3/ref=sr_1_1?s=electronics&ie=UTF8&qid=1535716912&sr=1-1&keywords=y2",
         "thumbnail_url": "https://m.media-amazon.com/images/G/31/img18/Wireless/CEEX/RedmiY2/E6_200x200._CB476604799_UY80_QL95_.jpg"
       },
-
       "Supports_Availability":
       {
          "is_override" : false,
         "is_smart_player_support": true,
         "is_android_player_support": true,
         "is_webview_player_support": false,
-        "is_other_player_support":true,
-        "is_inapp_other_player_support":true,
+        "is_other_player_support":false,
+        "is_inapp_other_player_support":false,
         "is_other_player_session_free_support":false,
-    
+
         "is_original_thumb_icon":true,
-        "is_playlist_support":true,
+        "is_playlist_support":false,
         "is_barcode_support":false,
 
         "is_cast_support":true,
-        "is_inapp_cast_support":true,
+        "is_inapp_cast_support":false,
         "is_cast_session_free_support":false,
 
-        "is_remove_ads_support":true,
+        "is_remove_ads_support":false,
         "is_remove_ads_session_free_support":false,
 
-        "is_purchase_restore_support":true
+        "is_purchase_restore_support":false
       },
 
       "Other_Player_Support":
       {
         "is_override" : false,
         "other_player_title": "Other Player Support",
-
         "inapp_other_player_sku" : "com.purchase.otherplayeroption",
         "inapp_other_player_message": "If you want to play video on you favorite video player.\n\nThen you should purchase this service.\n\nYou will get player chooser while you try to play any video or channel from Brazil Live TV.",
-
         "other_player_banner_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Common/Player-select.jpg",
-
         "success_other_player_message": "Congratulations!\nNow you can play video in outside player also."
       },
-
       "Chromecast_Support":
       {
         "is_override" : false,
         "cast_title": "Chromecast Support",
-
         "cast_agent": "09",
         "cast_referer": "https://www.metube.id",
         "cast_package_name": "com.instantbits.cast.webvideo",
-
         "inapp_cast_sku" : "com.purchase.chromecast",
         "inapp_cast_message": "If you want to play video on you TV.\n\nThen you should purchase this service.\n\nYou will get chromecast support from Brazil Live TV.",
-
         "cast_banner_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Common/Chromecast.jpg",
-
         "initial_cast_message1": "Do you need Chromecast support then follow below steps :\n\n(1). Press \"SETUP\" button.\n(2). If It will ask for permission please allow.\n(3). It will open download dialog and please wait till download completion.\n(4). After you can see \"INSTALL\" button, press \"INSTALL\" button.\n(5). After It will popup for installation screen and then \"INSTALL\" it.\n(6). After installation complete press \"DONE\" button.\n(7). Come back to Brazil Live TV and you will see your plugin activated.\n(9). If you can't setup then : <a href='https://github.com/tvgram-inc/TVGram/raw/master/TVGram/Common/ChromeCast.apk'>DOWNLOAD HERE</a>\n\n",
         "initial_cast_message": "Do you need Chromecast support then press \"LINK\" button and install chromecast app from playstore.",
         "success_cast_message": "Now You can Chromecast Your Video From Player.",
-
         "download_url1": "",
         "website_url" : "",
         "is_system_browser":true,
@@ -435,20 +399,15 @@
         "downloading_message":"App Downloading",
         "installing_message":"App Install"
       },
-
       "Remove_Ads_Support":
       {
         "is_override" : false,
         "remove_ads_title": "Remove Ads Support",
-
         "inapp_remove_ads_sku" : "com.purchase.removeads",
         "inapp_remove_ads_message": "If you want to remove ads permanently then \"PAYMENT\".\n\nIf you want to remove ads for this session only then press \"SESSION FREE\" and share app to your friends.",
-
         "remove_ads_banner_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Common/Ad-blocker.png",
-
         "success_remove_ads_message": "Congratulations!\nNow Brazil Live TV is ADS FREE."
       },
-
       "Purchase_Restore_Support":
       {
         "is_override" : false,
@@ -457,7 +416,6 @@
         "purchase_restore_message" : "If you purchased Previously?\n\nThen you have to press \"Restore\" Button to restore all purchase.",
         "purchase_restore_success" : "Purchase restore success."
       },
-
       "Disclaimer_App":
       {
         "is_override" : false,
@@ -466,7 +424,6 @@
         "disclaimer_title": "Disclaimer",
         "disclaimer_message": "Brazil Live TV apps does not stream any of the channels included in its website/app, All the streaming links are from third parties available free on the internet. If any one founds that we are violating by broadcasting any copyright protected channel email us the channel name, based on your email request.\n\ntvgram.inc@gmail.com"
       },
-
       "Playlist_Detail":
       {
         "is_override" : false,
@@ -476,7 +433,6 @@
         "default_playlist_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Data/Brazil_Live.json",
         "default_playlist_url1": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Common/World_Live.json"
       },
-
       "About_App":
       {
         "is_override" : false,
@@ -484,14 +440,12 @@
         "about_title": "About",
         "about_message": "Brazil Live TV does not warrant the completeness, timeliness or accuracy of any of the data contained in this app and may make changes thereto at any time in its sole discretion without notice. Further, all information conveyed hereby is provided to users “AS IS”. In no event shall Brazil Live TV be liable for any damages of any kind related to the use or misuse of Information provided hereby.\nWe do not host any link or streams. If you found any copyrighted channel, please write us in feedback with appropriate link host for its removal."
       },
-
       "Exit_Dialog":
       {
         "is_override" : false,
         "exit_title": "Exit",
         "exit_message": "Do you want to exit from App?"
       },
-
       "Rate_App":
       {
         "is_override" : false,
@@ -500,7 +454,6 @@
         "rate_app_url" : "https://play.google.com/store/apps/details?id=com.tvgram.brazillivetv",
         "rate_message" : "Please Rate us and promote us."
       },
-
       "More_Apps":
       {
         "is_override" : false,
@@ -508,7 +461,6 @@
         "developer_id" : "TVGram+™",
         "more_app_url" : "https://play.google.com/store/apps/developer?id=TVGram+%E2%84%A2"
       },
-
       "Share_App":
       {
         "is_override" : false,
@@ -517,7 +469,6 @@
         "share_message_iptv": "Share Brazil Live TV url : ",
         "share_message_link": "Share link url : "
       },
-
       "Official_Website":
       {
         "is_override" : false,
@@ -525,7 +476,6 @@
         "is_system_browser": false,
         "official_website": "http://www.pocketiptv.com"
       },
-
       "Privacy_Policy":
       {
         "is_override" : false,
@@ -533,7 +483,6 @@
         "is_system_browser": true,
         "privacy_policy": "https://sites.google.com/view/brazil-live-tv/home"
       },
-
       "Splash_Screen":
       {
         "is_override" : false,
@@ -541,7 +490,6 @@
         "registration_detail": "Brazil Live TV® 2018",
         "version_detail": "version : 1.0"
       },
-
       "Live_Support":
       {
         "is_override" : false,
@@ -560,41 +508,32 @@
         "description": "For Live Support,\n\nYou have to install this app after that you will be touch with us",
         "thumbnail_url": "https://getfblite.com/wp-content/uploads/2017/08/messenger-lite-2.png"
       },
-
       "Feedback_Support":
       {
         "is_override" : false,
         "is_feedback" : false,
-
         "cc_email_id": "",
         "email_id": "tvgram.inc@gmail.com",
         "email_message": "Hi,\n\n\nYour Feedback Brazil Live TV Rocks! I would like to give you some feedback: ",
         "email_subject": "Feedback on Brazil Live TV",
-
         "feedback_title": "Send Feedback",
         "feedback_message": "If you have any kind of query, Then mail us.\nWe will resolve it."
       },
-
       "Channel_Report_Support":
       {
         "is_override" : false,
         "is_channel_report" : false,
-
         "cc_email_id": "",
         "email_id": "tvgram.inc@gmail.com",
-
         "channel_report_title": "Channel Report"
       },
-
       "Error_Report_Support":
       {
         "is_override" : false,
         "is_error_report" : true,
-
         "cc_email_id": "",
         "email_id": "tvgram.inc@gmail.com"
       },
-
       "Social_Support":
       {
         "is_override" : false,
@@ -610,26 +549,19 @@
         "linkedin_url": "https://www.linkedin.com/",
         "linkedin_page_url": "linkedin://id"
       },
-
       "Live_Stream_Settings":
       {
         "is_override" : false,
-
         "planet_url": "http://app.liveplanettv.com/beta/",
-
         "diltv_pak_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=pakentnews&token=",
         "diltv_dhamaka_url": "https://www.diltv.org/apps/output.php/playlist?type=xml&deviceSn=dhamkatv1&token=",
         "swift_url": "http://swiftstreamz.com/SwiftLive/api.php?latest=5000",
-
         "channel_error_message": "Channel not play because server is down.\nTry After Some Time",
-
         "swift_token_url": "http://swiftstreamz.com/SwiftLive/swiftlive.php",
         "swift_token_password": "SwiftStreamz:@SwiftStreamz@",
-
         "dhamaka_token_url": "https://www.boxtvhd.com/androidapsbackup/dhamkatv.php",
         "dhamaka_token_password": "AltafhussainMQM:Pakistanzindabad"
       },
-
       "Video_Player_Settings":
       {
         "is_override" : false,
@@ -637,9 +569,3 @@
         "trial_version_top_text": "",
         "trial_version_bottom_text": "",
         "trial_version_height": 70,
-        "trial_version_bg_color": "#000000",
-        "trial_version_text_color": "#ffffff"
-      }
-    }
-  }
-}
