@@ -378,7 +378,7 @@
         "is_override" : false,
         "is_smart_player_support": true,
         "is_android_player_support": true,
-        "is_webview_player_support": true,
+        "is_webview_player_support": false,
         "is_other_player_support":true,
         "is_inapp_other_player_support":true,
         "is_other_player_session_free_support":false,
