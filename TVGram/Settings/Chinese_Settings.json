@@ -1,17 +1,21 @@
 {
   "TV_Data": {
     "Settings": {
-      "Admob_Settings": {
-        "is_override" : false,
+     "Admob_Settings": {
+        "is_override": false,
         "legal_ads_delay": 2,
         "illegal_ads_delay": 1,
         "legal_ads_on_cancel_delay": 2,
         "illegal_ads_on_cancel_delay": 1,
-        "banner_ads_reload_count": 1,
-        "interstitial_ads_reload_count": 1,
-        "is_geoedge_sdk_flag": false,
-        "is_analytics_flag": false,
-        "geoedge_sdk_key": "",
+        "banner_ads_reload_count": 3,
+        "interstitial_ads_reload_count": 3,
+        "rewarded_ads_reload_count": 3,
+        "native_ads_reload_count": 3,
+        "open_ads_reload_count": 3,
+        "show_interestial_show_count": 3,
+        "is_geoedge_sdk_flag": true,
+        "is_analytics_flag": true,
+        "geoedge_sdk_key": "755bfaf4-91f2-4843-85f1-527189ab389e",
         "ads_loading_text": "Ads will loading...",
         "applovin_ads": {
           "ads_app_id": "WELTwtWXafsts82Q1HIQ2v7OeEHUtGHOUcsPTMx21owuxzIzEbNGUVf8kycbCu-hVr5zB10Dpx5luOh7-4NSZ2",
@@ -58,8 +62,8 @@
 
           "visibility_percentage": 0
         },
-        "default_ads": "unity_ads",
-        "final_default_ads":"startapp_ads",
+        "default_ads": "google_ads",
+        "final_default_ads":"facebook_ads",
         "facebook_ads": {
           "ads_app_id": "353151288785830",
           "banner_ad_unit_id": "353151288785830_353151742119118",
