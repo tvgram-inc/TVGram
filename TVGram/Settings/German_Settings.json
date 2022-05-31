@@ -95,7 +95,7 @@
           "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
-          "is_native_ads": false,
+          "is_native_ads": true,
           "is_open_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible": true,
@@ -485,7 +485,7 @@
         "is_override": false,
         "registration_detail1": "",
         "registration_detail": "German Live TV® 2018",
-        "version_detail": "version : 6.6"
+        "version_detail": "version : 6.7"
       },
       "Live_Support": {
         "is_override": false,
