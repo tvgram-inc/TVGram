@@ -319,6 +319,8 @@
           "guide_title":"Casting Content",
           "guide_description":"Touch to cast content to available device."
         }
+      }, "User_Community_Support": {
+         "is_User_Community_Support": false
       },
       "App_Update_Information":
       {
