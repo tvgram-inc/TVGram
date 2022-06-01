@@ -62,7 +62,7 @@
 
           "visibility_percentage": 0
         },
-        "default_ads": "facebook_ads",
+        "default_ads": "google_ads",
         "final_default_ads":"facebook_ads",
         "facebook_ads": {
           "ads_app_id": "254162725858456",
@@ -85,7 +85,7 @@
           "is_illegal_banner_ads": false,
           "is_legal_banner_ads": true,
 
-          "visibility_percentage": 100
+          "visibility_percentage": 10
         },
         "google_ads": {
           "ads_app_id": "ca-app-pub-1867655643934057~6141190724",
@@ -98,15 +98,18 @@
           "is_banner_safety_layer_one_click_remove":false,
           "is_interstitial_safety_layer_one_click_remove":false,
           "is_permanent_safety_layer": false,
-          "is_ads": false,
+          "is_ads": true,
           "is_banner_ads": true,
           "is_interstitial_ads": true,
+          "is_native_ads": false,
+          "is_open_ads": true,
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible":true,
+          "is_load_default_ads_on_failed": false,
           "native_ad_unit_id": "ca-app-pub-1867655643934057/1266507686",
           "rewarded_video_ad_unit_id": "ca-app-pub-1867655643934057/6255447193",
-
-          "is_illegal_interstitial_ads": true,
+          "open_ad_unit_id": "ca-app-pub-1867655643934057/8191008680",
+          "is_illegal_interstitial_ads": false,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": true,
