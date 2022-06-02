@@ -15,7 +15,7 @@
         "show_interestial_show_count": 3,
         "is_geoedge_sdk_flag": false,
         "is_analytics_flag": false,
-        "geoedge_sdk_key": "",
+        "geoedge_sdk_key": "65170ff5-06bb-4740-ae42-5a0c9755aee2",
         "ads_loading_text": "Ads will loading...",
        
         "applovin_ads": {
