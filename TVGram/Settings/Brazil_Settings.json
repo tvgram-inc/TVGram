@@ -13,8 +13,8 @@
         "native_ads_reload_count": 3,
         "open_ads_reload_count": 3,
         "show_interestial_show_count": 3,
-        "is_geoedge_sdk_flag": true,
-        "is_analytics_flag": true,
+        "is_geoedge_sdk_flag": false,
+        "is_analytics_flag": false,
         "geoedge_sdk_key": "e307f4cf-8014-4ec6-a38b-80e580384bc0",
         "ads_loading_text": "Ads will loading...",
         "applovin_ads": {
