@@ -7,8 +7,16 @@
         "illegal_ads_delay": 1,
         "legal_ads_on_cancel_delay": 2,
         "illegal_ads_on_cancel_delay": 1,
+       "banner_ads_reload_count": 3,
         "banner_ads_reload_count": 1,
+        "interstitial_ads_reload_count": 3,
         "interstitial_ads_reload_count": 1,
+        "rewarded_ads_reload_count": 3,
+        "native_ads_reload_count": 0,
+        "open_ads_reload_count": 3,
+        "show_interestial_show_count": 3,
+        "is_geoedge_sdk_flag": false,
+        "geoedge_sdk_key": "",
         "ads_loading_text": "Ads will loading...",
         "applovin_ads": {
           "ads_app_id": "WELTwtWXafsts82Q1HIQ2v7OeEHUtGHOUcsPTMx21owuxzIzEbNGUVf8kycbCu-hVr5zB10Dpx5luOh7-4NSZ2",
@@ -380,12 +388,12 @@
         "is_override" : false,
         "is_smart_player_support": true,
         "is_android_player_support": true,
-        "is_webview_player_support": true,
-        "is_other_player_support":true,
-        "is_inapp_other_player_support":true,
+        "is_webview_player_support": false,
+        "is_other_player_support":false,
+        "is_inapp_other_player_support":false,
         "is_other_player_session_free_support":false,
 
-        "is_original_thumb_icon":false,
+        "is_original_thumb_icon":true,
         "is_playlist_support":false,
         "is_barcode_support":false,
 
@@ -393,10 +401,10 @@
         "is_inapp_cast_support":true,
         "is_cast_session_free_support":false,
 
-        "is_remove_ads_support":true,
+        "is_remove_ads_support":false,
         "is_remove_ads_session_free_support":false,
 
-        "is_purchase_restore_support":true
+        "is_purchase_restore_support":false
       },
 
       "Other_Player_Support":
