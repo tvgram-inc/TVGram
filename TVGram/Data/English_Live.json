@@ -1,1 +1,223 @@
-{"TV_Data": {"Channel_List": {"is_channel_list": true, "is_override": true, "thumb_width": 150, "all_Channels_Tab_Name": "", "main": {"id": 0, "name": "English Channels", "sub_name": "Channels", "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-united-kingdom_748024.png", "sub": {"sub_0": {"id": 0, "mode": "video", "name": "Channel 1", "sub_name": "", "stream_video_url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8", "thumbnail_url": ".pnggg", "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/cruise_1st_tv_img_1929.png"}, "sub_1": {"id": 1, "mode": "video", "name": "Channel 2", "sub_name": "", "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8", "thumbnail_url": ".pnggg", "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/english_club_tv_img_1930.png"}, "sub_2": {"id": 2, "mode": "video", "name": "Channel 3", "sub_name": "", "stream_video_url": "http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8", "thumbnail_url": ".pnggg", "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/france_24_english_img_131.png"}, "sub_3": {"id": 3, "mode": "video", "name": "Channel 4", "sub_name": "", "stream_video_url": "http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8", "thumbnail_url": ".pnggg", "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/france_24_english_img_131.png"}, "sub_4": {"id": 4, "mode": "video", "name": "Channel 5", "sub_name": "", "stream_video_url": "http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8", "thumbnail_url": ".pnggg", "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/france_24_english_img_131.png"}, "sub_5": {"id": 5, "mode": "video", "name": "Channel 6", "sub_name": "", "stream_video_url": "http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8", "thumbnail_url": ".pnggg", "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/gemporia_img_1932.png"}, "sub_6": {"id": 6, "mode": "video", "name": "Channel 7", "sub_name": "", "stream_video_url": "https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8", "thumbnail_url": ".pnggg", "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/gemporia_img_1932.png"}, "sub_7": {"id": 7, "mode": "video", "name": "Channel 8", "sub_name": "", "stream_video_url": "https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8", "thumbnail_url": ".pnggg", "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/horizon_sports_img_1933.png"}, "sub_8": {"id": 8, "mode": "video", "name": "Channel 9", "sub_name": "", "stream_video_url": "https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8", "thumbnail_url": ".pnggg", "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mta_1_english_img_1940.png"}, "sub_9": {"id": 9, "mode": "video", "name": "Channel 10", "sub_name": "", "stream_video_url": "https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8", "thumbnail_url": ".pnggg", "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mta_1_english_img_1940.png"}, "sub_10": {"id": 10, "mode": "video", "name": "Channel 11", "sub_name": "", "stream_video_url": "https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/index_3000_av-p.m3u8", "thumbnail_url": ".pnggg", "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mta_africa_img_1945.png"}, "sub_11": {"id": 11, "mode": "video", "name": "Channel 12", "sub_name": "", "stream_video_url": "https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8", "thumbnail_url": ".pnggg", "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mta_africa_img_1945.png"}, "sub_12": {"id": 12, "mode": "video", "name": "Channel 13", "sub_name": "", "stream_video_url": "http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live", "thumbnail_url": ".pnggg", "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rt_hd_uk_img_539.png"}, "sub_13": {"id": 13, "mode": "video", "name": "Channel 14", "sub_name": "", "stream_video_url": "http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8", "thumbnail_url": ".pnggg", "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/tg4_uk_img_540.png"}}}}}}
+{
+  "TV_Data": {
+    "Channel_List": {
+      "is_channel_list": true,
+      "is_override": true,
+      "thumb_width": 150,
+      "all_Channels_Tab_Name": "",
+      "main": {
+        "id": 4,
+        "name": "English Channels",
+        "sub_name": "Channels",
+        "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-united-kingdom_748024.png",
+        "sub": {
+          "sub_1": {
+            "id": 1,
+            "mode": "video",
+            "name": "Gemporia",
+            "sub_name": "",
+            "stream_video_url": "http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/gemporia_img_1932.png"
+          },
+          "sub_2": {
+            "id": 2,
+            "mode": "video",
+            "name": "Gemporia",
+            "sub_name": "",
+            "stream_video_url": "https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/gemporia_img_1932.png"
+          },
+          "sub_3": {
+            "id": 3,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_4": {
+            "id": 4,
+            "mode": "video",
+            "name": "GOD TV",
+            "sub_name": "",
+            "stream_video_url": "https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/god_tv_img_2623.png"
+          },
+          "sub_5": {
+            "id": 5,
+            "mode": "video",
+            "name": "QVC",
+            "sub_name": "",
+            "stream_video_url": "https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+          },
+          "sub_6": {
+            "id": 6,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_7": {
+            "id": 7,
+            "mode": "video",
+            "name": "QVC",
+            "sub_name": "",
+            "stream_video_url": "https://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+          },
+          "sub_8": {
+            "id": 8,
+            "mode": "video",
+            "name": "QVC",
+            "sub_name": "",
+            "stream_video_url": "https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+          },
+          "sub_9": {
+            "id": 9,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_10": {
+            "id": 10,
+            "mode": "video",
+            "name": "Euronews English",
+            "sub_name": "",
+            "stream_video_url": "http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/index.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/euronews_english_img_2232.png"
+          },
+          "sub_11": {
+            "id": 11,
+            "mode": "video",
+            "name": "Euronews English",
+            "sub_name": "",
+            "stream_video_url": "https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/euronews_english_img_2232.png"
+          },
+          "sub_12": {
+            "id": 12,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_13": {
+            "id": 13,
+            "mode": "video",
+            "name": "Euronews English",
+            "sub_name": "",
+            "stream_video_url": "https://euronews-euronews-world-1.plex.wurl.com/manifest/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/euronews_english_img_2232.png"
+          },
+          "sub_14": {
+            "id": 14,
+            "mode": "video",
+            "name": "Euronews English",
+            "sub_name": "",
+            "stream_video_url": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/euronews_english_img_2232.png"
+          },
+          "sub_15": {
+            "id": 15,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_16": {
+            "id": 16,
+            "mode": "video",
+            "name": "Euronews English",
+            "sub_name": "",
+            "stream_video_url": "https://rakuten-euronews-1-fi.samsung.wurl.com/manifest/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/euronews_english_img_2232.png"
+          },
+          "sub_17": {
+            "id": 17,
+            "mode": "video",
+            "name": "Euronews English",
+            "sub_name": "",
+            "stream_video_url": "https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/euronews_english_img_2232.png"
+          },
+          "sub_18": {
+            "id": 18,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_19": {
+            "id": 19,
+            "mode": "video",
+            "name": "Euronews English",
+            "sub_name": "",
+            "stream_video_url": "https://rakuten-euronews-1-nl.samsung.wurl.com/manifest/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/euronews_english_img_2232.png"
+          },
+          "sub_20": {
+            "id": 20,
+            "mode": "video",
+            "name": "Euronews English",
+            "sub_name": "",
+            "stream_video_url": "https://rakuten-euronews-1-no.samsung.wurl.com/manifest/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/euronews_english_img_2232.png"
+          },
+          "sub_21": {
+            "id": 21,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_22": {
+            "id": 22,
+            "mode": "video",
+            "name": "Spotlight TV",
+            "sub_name": "",
+            "stream_video_url": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8",
+            "thumbnail_url": "https://i.imgur.com/axXipp8.png"
+          },
+          "sub_23": {
+            "id": 23,
+            "mode": "video",
+            "name": "TG4 UK",
+            "sub_name": "",
+            "stream_video_url": "http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tg4_uk_img_540.png"
+          }
+        }
+      }
+    }
+  }
+}
