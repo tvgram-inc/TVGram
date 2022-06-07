@@ -6,7 +6,7 @@
       "thumb_width": 150,
       "all_Channels_Tab_Name": "",
       "main": {
-        "id": 12,
+        "id": 1,
         "name": "French Channels",
         "sub_name": "Channels",
         "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-france_748130.png",
@@ -14,18 +14,22 @@
           "sub_1": {
             "id": 1,
             "mode": "video",
-            "name": "France 24 French",
+            "name_original": "Fashion TV",
+            "name": "Channel 1",
             "sub_name": "",
-            "stream_video_url": "http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/france_24_french_img_2268.png"
+            "stream_video_url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.imgur.com/auHH1Ig.png"
           },
           "sub_2": {
             "id": 2,
             "mode": "video",
-            "name": "France 24 French",
+            "name_original": "Fashion TV",
+            "name": "Channel 2",
             "sub_name": "",
-            "stream_video_url": "https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/france_24_french_img_2268.png"
+            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.imgur.com/auHH1Ig.png"
           },
           "sub_3": {
             "id": 3,
@@ -41,18 +45,22 @@
           "sub_4": {
             "id": 4,
             "mode": "video",
-            "name": "France 24 French",
+            "name_original": "Fashion TV",
+            "name": "Channel 4",
             "sub_name": "",
-            "stream_video_url": "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/france_24_french_img_2268.png"
+            "stream_video_url": "https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.imgur.com/auHH1Ig.png"
           },
           "sub_5": {
             "id": 5,
             "mode": "video",
-            "name": "France 24 French",
+            "name_original": "Fashion TV",
+            "name": "Channel 5",
             "sub_name": "",
-            "stream_video_url": "https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/france_24_french_img_2268.png"
+            "stream_video_url": "https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.imgur.com/auHH1Ig.png"
           },
           "sub_6": {
             "id": 6,
@@ -68,18 +76,22 @@
           "sub_7": {
             "id": 7,
             "mode": "video",
-            "name": "TVR",
+            "name_original": "Fashion TV",
+            "name": "Channel 7",
             "sub_name": "",
-            "stream_video_url": "https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tvr_img_2292.png"
+            "stream_video_url": "https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.imgur.com/auHH1Ig.png"
           },
           "sub_8": {
             "id": 8,
             "mode": "video",
-            "name": "TVR",
+            "name_original": "Fashion TV",
+            "name": "Channel 8",
             "sub_name": "",
-            "stream_video_url": "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tvr_img_2292.png"
+            "stream_video_url": "https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.imgur.com/auHH1Ig.png"
           },
           "sub_9": {
             "id": 9,
@@ -95,18 +107,22 @@
           "sub_10": {
             "id": 10,
             "mode": "video",
-            "name": "BFM Grand Littoral",
+            "name_original": "BFM Grand Littoral",
+            "name": "Channel 10",
             "sub_name": "",
             "stream_video_url": "https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8",
-            "thumbnail_url": "https://media.info/i/lf/300/1580862490/7333.png"
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": ""
           },
           "sub_11": {
             "id": 11,
             "mode": "video",
-            "name": "Grand Lille TV",
+            "name_original": "BFM Lyon",
+            "name": "Channel 11",
             "sub_name": "",
-            "stream_video_url": "https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/grand_lille_tv_img_2270.png"
+            "stream_video_url": "https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": ""
           },
           "sub_12": {
             "id": 12,
@@ -122,18 +138,22 @@
           "sub_13": {
             "id": 13,
             "mode": "video",
-            "name": "Fashion TV",
+            "name_original": "BFM Lyon",
+            "name": "Channel 13",
             "sub_name": "",
-            "stream_video_url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8",
-            "thumbnail_url": "https://i.imgur.com/auHH1Ig.png"
+            "stream_video_url": "https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": ""
           },
           "sub_14": {
             "id": 14,
             "mode": "video",
-            "name": "Fashion TV",
+            "name_original": "BFM Paris",
+            "name": "Channel 14",
             "sub_name": "",
-            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8",
-            "thumbnail_url": "https://i.imgur.com/auHH1Ig.png"
+            "stream_video_url": "https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?rebase=on&sd=10",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.imgur.com/4buTOS3.png"
           },
           "sub_15": {
             "id": 15,
@@ -149,18 +169,22 @@
           "sub_16": {
             "id": 16,
             "mode": "video",
-            "name": "Fashion TV",
+            "name_original": "Clubbing TV",
+            "name": "Channel 16",
             "sub_name": "",
-            "stream_video_url": "https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
-            "thumbnail_url": "https://i.imgur.com/auHH1Ig.png"
+            "stream_video_url": "https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": ""
           },
           "sub_17": {
             "id": 17,
             "mode": "video",
-            "name": "Fashion TV",
+            "name_original": "Clubbing TV",
+            "name": "Channel 17",
             "sub_name": "",
-            "stream_video_url": "https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8",
-            "thumbnail_url": "https://i.imgur.com/auHH1Ig.png"
+            "stream_video_url": "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": ""
           },
           "sub_18": {
             "id": 18,
@@ -176,18 +200,22 @@
           "sub_19": {
             "id": 19,
             "mode": "video",
-            "name": "Fashion TV",
+            "name_original": "D5 TV",
+            "name": "Channel 19",
             "sub_name": "",
-            "stream_video_url": "https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8",
-            "thumbnail_url": "https://i.imgur.com/auHH1Ig.png"
+            "stream_video_url": "http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/d5_tv_img_2255.png"
           },
           "sub_20": {
             "id": 20,
             "mode": "video",
-            "name": "Fashion TV",
+            "name_original": "D5 TV",
+            "name": "Channel 20",
             "sub_name": "",
-            "stream_video_url": "https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8",
-            "thumbnail_url": "https://i.imgur.com/auHH1Ig.png"
+            "stream_video_url": "https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/d5_tv_img_2255.png"
           },
           "sub_21": {
             "id": 21,
@@ -203,18 +231,22 @@
           "sub_22": {
             "id": 22,
             "mode": "video",
-            "name": "Gulli",
+            "name_original": "DBM",
+            "name": "Channel 22",
             "sub_name": "",
-            "stream_video_url": "http://streaming-hub.com/stream/gulli.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/gulli_img_56.png"
+            "stream_video_url": "https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_23": {
             "id": 23,
             "mode": "video",
-            "name": "Gulli",
+            "name_original": "DBM",
+            "name": "Channel 23",
             "sub_name": "",
-            "stream_video_url": "https://s1.tntendirect.com/gulli/live/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/gulli_img_56.png"
+            "stream_video_url": "https://edge5.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_24": {
             "id": 24,
@@ -230,18 +262,22 @@
           "sub_25": {
             "id": 25,
             "mode": "video",
-            "name": "Gulli",
+            "name_original": "DBM TV",
+            "name": "Channel 25",
             "sub_name": "",
-            "stream_video_url": "https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/gulli_img_56.png"
+            "stream_video_url": "http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": ""
           },
           "sub_26": {
             "id": 26,
             "mode": "video",
-            "name": "Gulli",
+            "name_original": "EMCI TV",
+            "name": "Channel 26",
             "sub_name": "",
-            "stream_video_url": "http://flusonic-4.platinum-tv.com/Gulli/mono.m3u8?token=test",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/gulli_img_56.png"
+            "stream_video_url": "https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.imgur.com/avIsx8W.png"
           },
           "sub_27": {
             "id": 27,
@@ -257,18 +293,22 @@
           "sub_28": {
             "id": 28,
             "mode": "video",
-            "name": "Trace Urban",
+            "name_original": "Euronews Français",
+            "name": "Channel 28",
             "sub_name": "",
-            "stream_video_url": "https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/trace_urban_img_2284.png"
+            "stream_video_url": "https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png"
           },
           "sub_29": {
             "id": 29,
             "mode": "video",
-            "name": "Trace Urban",
+            "name_original": "Euronews Français",
+            "name": "Channel 29",
             "sub_name": "",
-            "stream_video_url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/trace_urban_img_2284.png"
+            "stream_video_url": "https://rakuten-euronews-2-be.samsung.wurl.com/manifest/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png"
           },
           "sub_30": {
             "id": 30,
@@ -284,18 +324,22 @@
           "sub_31": {
             "id": 31,
             "mode": "video",
-            "name": "Arte Deutsch",
+            "name_original": "Euronews Français",
+            "name": "Channel 31",
             "sub_name": "",
-            "stream_video_url": "https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8",
-            "thumbnail_url": "https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png"
+            "stream_video_url": "https://rakuten-euronews-2-lu.samsung.wurl.com/manifest/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png"
           },
           "sub_32": {
             "id": 32,
             "mode": "video",
-            "name": "BFM Lyon",
+            "name_original": "Fashion TV Midnite Secrets",
+            "name": "Channel 32",
             "sub_name": "",
-            "stream_video_url": "https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8",
-            "thumbnail_url": ""
+            "stream_video_url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_midnite_secrets_img_2231.png"
           },
           "sub_33": {
             "id": 33,
@@ -311,18 +355,22 @@
           "sub_34": {
             "id": 34,
             "mode": "video",
-            "name": "BFM Lyon",
+            "name_original": "Fashion TV Midnite Secrets",
+            "name": "Channel 34",
             "sub_name": "",
-            "stream_video_url": "https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8",
-            "thumbnail_url": ""
+            "stream_video_url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_midnite_secrets_img_2231.png"
           },
           "sub_35": {
             "id": 35,
             "mode": "video",
-            "name": "BFM Paris",
+            "name_original": "Fashion TV Midnite Secrets",
+            "name": "Channel 35",
             "sub_name": "",
-            "stream_video_url": "https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?rebase=on&sd=10",
-            "thumbnail_url": "https://i.imgur.com/4buTOS3.png"
+            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_midnite_secrets_img_2231.png"
           },
           "sub_36": {
             "id": 36,
@@ -338,18 +386,22 @@
           "sub_37": {
             "id": 37,
             "mode": "video",
-            "name": "Clubbing TV",
+            "name_original": "Fashion TV Midnite Secrets",
+            "name": "Channel 37",
             "sub_name": "",
-            "stream_video_url": "https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654",
-            "thumbnail_url": ""
+            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_midnite_secrets_img_2231.png"
           },
           "sub_38": {
             "id": 38,
             "mode": "video",
-            "name": "Clubbing TV",
+            "name_original": "Fashion TV Midnite Secrets",
+            "name": "Channel 38",
             "sub_name": "",
-            "stream_video_url": "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8",
-            "thumbnail_url": ""
+            "stream_video_url": "https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_midnite_secrets_img_2231.png"
           },
           "sub_39": {
             "id": 39,
@@ -365,18 +417,22 @@
           "sub_40": {
             "id": 40,
             "mode": "video",
-            "name": "D5 TV",
+            "name_original": "Fashion TV New York",
+            "name": "Channel 40",
             "sub_name": "",
-            "stream_video_url": "http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/d5_tv_img_2255.png"
+            "stream_video_url": "https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.imgur.com/auHH1Ig.png"
           },
           "sub_41": {
             "id": 41,
             "mode": "video",
-            "name": "D5 TV",
+            "name_original": "Fashion TV Paris",
+            "name": "Channel 41",
             "sub_name": "",
-            "stream_video_url": "https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/d5_tv_img_2255.png"
+            "stream_video_url": "http://bit.ly/2zOVkbF",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_paris_img_2230.png"
           },
           "sub_42": {
             "id": 42,
@@ -392,18 +448,22 @@
           "sub_43": {
             "id": 43,
             "mode": "video",
-            "name": "DBM",
+            "name_original": "Fashion TV Paris",
+            "name": "Channel 43",
             "sub_name": "",
-            "stream_video_url": "https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "stream_video_url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_paris_img_2230.png"
           },
           "sub_44": {
             "id": 44,
             "mode": "video",
-            "name": "DBM",
+            "name_original": "Fashion TV Paris",
+            "name": "Channel 44",
             "sub_name": "",
-            "stream_video_url": "http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "stream_video_url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_paris_img_2230.png"
           },
           "sub_45": {
             "id": 45,
@@ -419,18 +479,22 @@
           "sub_46": {
             "id": 46,
             "mode": "video",
-            "name": "DBM",
+            "name_original": "Fashion TV Paris",
+            "name": "Channel 46",
             "sub_name": "",
-            "stream_video_url": "https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_paris_img_2230.png"
           },
           "sub_47": {
             "id": 47,
             "mode": "video",
-            "name": "EMCI TV",
+            "name_original": "Fashion TV Paris",
+            "name": "Channel 47",
             "sub_name": "",
-            "stream_video_url": "https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8",
-            "thumbnail_url": "https://i.imgur.com/avIsx8W.png"
+            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_paris_img_2230.png"
           },
           "sub_48": {
             "id": 48,
@@ -446,18 +510,22 @@
           "sub_49": {
             "id": 49,
             "mode": "video",
-            "name": "Euronews Français",
+            "name_original": "Fashion TV PG13",
+            "name": "Channel 49",
             "sub_name": "",
-            "stream_video_url": "https://rakuten-euronews-2-be.samsung.wurl.com/manifest/playlist.m3u8",
-            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png"
+            "stream_video_url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_pg13_img_310.png"
           },
           "sub_50": {
             "id": 50,
             "mode": "video",
-            "name": "Euronews Français",
+            "name_original": "Fashion TV PG13",
+            "name": "Channel 50",
             "sub_name": "",
-            "stream_video_url": "https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8",
-            "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png"
+            "stream_video_url": "http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_pg13_img_310.png"
           },
           "sub_51": {
             "id": 51,
@@ -473,18 +541,22 @@
           "sub_52": {
             "id": 52,
             "mode": "video",
-            "name": "Fashion TV Midnite Secrets",
+            "name_original": "Fashion TV PG13",
+            "name": "Channel 52",
             "sub_name": "",
-            "stream_video_url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_midnite_secrets_img_2231.png"
+            "stream_video_url": "https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_pg13_img_310.png"
           },
           "sub_53": {
             "id": 53,
             "mode": "video",
-            "name": "Fashion TV Midnite Secrets",
+            "name_original": "Fashion TV PG16",
+            "name": "Channel 53",
             "sub_name": "",
-            "stream_video_url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_midnite_secrets_img_2231.png"
+            "stream_video_url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_pg16_img_2266.png"
           },
           "sub_54": {
             "id": 54,
@@ -500,18 +572,22 @@
           "sub_55": {
             "id": 55,
             "mode": "video",
-            "name": "Fashion TV Midnite Secrets",
+            "name_original": "Fashion TV PG16",
+            "name": "Channel 55",
             "sub_name": "",
-            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_midnite_secrets_img_2231.png"
+            "stream_video_url": "https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist_b4700000.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_pg16_img_2266.png"
           },
           "sub_56": {
             "id": 56,
             "mode": "video",
-            "name": "Fashion TV Midnite Secrets",
+            "name_original": "Fashion TV PG16",
+            "name": "Channel 56",
             "sub_name": "",
-            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_midnite_secrets_img_2231.png"
+            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_pg16_img_2266.png"
           },
           "sub_57": {
             "id": 57,
@@ -527,18 +603,22 @@
           "sub_58": {
             "id": 58,
             "mode": "video",
-            "name": "Fashion TV Midnite Secrets",
+            "name_original": "Fashion TV PG16",
+            "name": "Channel 58",
             "sub_name": "",
-            "stream_video_url": "https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_midnite_secrets_img_2231.png"
+            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_pg16_img_2266.png"
           },
           "sub_59": {
             "id": 59,
             "mode": "video",
-            "name": "Fashion TV Midnite Secrets",
+            "name_original": "Fashion TV PG16",
+            "name": "Channel 59",
             "sub_name": "",
-            "stream_video_url": "https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_midnite_secrets_img_2231.png"
+            "stream_video_url": "https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_pg16_img_2266.png"
           },
           "sub_60": {
             "id": 60,
@@ -554,18 +634,22 @@
           "sub_61": {
             "id": 61,
             "mode": "video",
-            "name": "Fashion TV Paris",
+            "name_original": "Fashion TV Singapore",
+            "name": "Channel 61",
             "sub_name": "",
-            "stream_video_url": "http://bit.ly/2zOVkbF",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_paris_img_2230.png"
+            "stream_video_url": "https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.imgur.com/auHH1Ig.png"
           },
           "sub_62": {
             "id": 62,
             "mode": "video",
-            "name": "Fashion TV Paris",
+            "name_original": "Fashion TV Tokyo",
+            "name": "Channel 62",
             "sub_name": "",
-            "stream_video_url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_paris_img_2230.png"
+            "stream_video_url": "https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.imgur.com/auHH1Ig.png"
           },
           "sub_63": {
             "id": 63,
@@ -581,18 +665,22 @@
           "sub_64": {
             "id": 64,
             "mode": "video",
-            "name": "Fashion TV Paris",
+            "name_original": "Fashion TV UHD",
+            "name": "Channel 64",
             "sub_name": "",
-            "stream_video_url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_paris_img_2230.png"
+            "stream_video_url": "https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.imgur.com/E38ZhCz.jpg"
           },
           "sub_65": {
             "id": 65,
             "mode": "video",
-            "name": "Fashion TV Paris",
+            "name_original": "FashionTV Czech&Slovak",
+            "name": "Channel 65",
             "sub_name": "",
-            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_paris_img_2230.png"
+            "stream_video_url": "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://seeklogo.com/images/F/fashion-tv-logo-B5EC11D82A-seeklogo.com.png"
           },
           "sub_66": {
             "id": 66,
@@ -608,18 +696,22 @@
           "sub_67": {
             "id": 67,
             "mode": "video",
-            "name": "Fashion TV Paris",
+            "name_original": "France 24 Français",
+            "name": "Channel 67",
             "sub_name": "",
-            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_paris_img_2230.png"
+            "stream_video_url": "https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.imgur.com/61MSiq9.png"
           },
           "sub_68": {
             "id": 68,
             "mode": "video",
-            "name": "Fashion TV Paris",
+            "name_original": "France 24 French",
+            "name": "Channel 68",
             "sub_name": "",
-            "stream_video_url": "http://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_paris_img_2230.png"
+            "stream_video_url": "http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/france_24_french_img_2268.png"
           },
           "sub_69": {
             "id": 69,
@@ -635,18 +727,22 @@
           "sub_70": {
             "id": 70,
             "mode": "video",
-            "name": "Fashion TV PG13",
+            "name_original": "France 24 French",
+            "name": "Channel 70",
             "sub_name": "",
-            "stream_video_url": "http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_pg13_img_310.png"
+            "stream_video_url": "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/france_24_french_img_2268.png"
           },
           "sub_71": {
             "id": 71,
             "mode": "video",
-            "name": "Fashion TV PG13",
+            "name_original": "France Info",
+            "name": "Channel 71",
             "sub_name": "",
-            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_pg13_img_310.png"
+            "stream_video_url": "https://stream-14.dc3.dailymotion.com/dm/3/x4rdeu6/live-3.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/france_info_img_136.png"
           },
           "sub_72": {
             "id": 72,
@@ -662,18 +758,22 @@
           "sub_73": {
             "id": 73,
             "mode": "video",
-            "name": "Fashion TV PG16",
+            "name_original": "France Info",
+            "name": "Channel 73",
             "sub_name": "",
-            "stream_video_url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_pg16_img_2266.png"
+            "stream_video_url": "http://direct.franceinfo.fr/live/franceinfo-lofi.mp3?ID=76zqey582k",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/france_info_img_136.png"
           },
           "sub_74": {
             "id": 74,
             "mode": "video",
-            "name": "Fashion TV PG16",
+            "name_original": "France Info",
+            "name": "Channel 74",
             "sub_name": "",
-            "stream_video_url": "http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_pg16_img_2266.png"
+            "stream_video_url": "https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/france_info_img_136.png"
           },
           "sub_75": {
             "id": 75,
@@ -689,18 +789,22 @@
           "sub_76": {
             "id": 76,
             "mode": "video",
-            "name": "Fashion TV PG16",
+            "name_original": "Grand Lille TV",
+            "name": "Channel 76",
             "sub_name": "",
-            "stream_video_url": "https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_pg16_img_2266.png"
+            "stream_video_url": "http://str81.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/grand_lille_tv_img_2270.png"
           },
           "sub_77": {
             "id": 77,
             "mode": "video",
-            "name": "Fashion TV PG16",
+            "name_original": "KTO",
+            "name": "Channel 77",
             "sub_name": "",
-            "stream_video_url": "https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_pg16_img_2266.png"
+            "stream_video_url": "https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/kto_img_1940.png"
           },
           "sub_78": {
             "id": 78,
@@ -716,18 +820,22 @@
           "sub_79": {
             "id": 79,
             "mode": "video",
-            "name": "Fashion TV PG16",
+            "name_original": "M6 International",
+            "name": "Channel 79",
             "sub_name": "",
-            "stream_video_url": "https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_pg16_img_2266.png"
+            "stream_video_url": "https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://static.epg.best/fr/M6.fr.png"
           },
           "sub_80": {
             "id": 80,
             "mode": "video",
-            "name": "Fashion TV PG16",
+            "name_original": "MDL",
+            "name": "Channel 80",
             "sub_name": "",
-            "stream_video_url": "http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fashion_tv_pg16_img_2266.png"
+            "stream_video_url": "http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.imgur.com/QjjVd1M.jpg"
           },
           "sub_81": {
             "id": 81,
@@ -743,18 +851,22 @@
           "sub_82": {
             "id": 82,
             "mode": "video",
-            "name": "Fashion TV Tokyo",
+            "name_original": "Radio Contact",
+            "name": "Channel 82",
             "sub_name": "",
-            "stream_video_url": "https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/playlist.m3u8",
-            "thumbnail_url": "https://i.imgur.com/auHH1Ig.png"
+            "stream_video_url": "https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/radio_contact_img_2276.png"
           },
           "sub_83": {
             "id": 83,
             "mode": "video",
-            "name": "Fashion TV Tokyo (PG13)",
+            "name_original": "Trace Sport Stars",
+            "name": "Channel 83",
             "sub_name": "",
-            "stream_video_url": "https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8",
-            "thumbnail_url": "https://i.imgur.com/auHH1Ig.png"
+            "stream_video_url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": ""
           },
           "sub_84": {
             "id": 84,
@@ -770,18 +882,22 @@
           "sub_85": {
             "id": 85,
             "mode": "video",
-            "name": "FashionTV Czech&Slovak",
+            "name_original": "Trace Urban",
+            "name": "Channel 85",
             "sub_name": "",
-            "stream_video_url": "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8",
-            "thumbnail_url": "https://seeklogo.com/images/F/fashion-tv-logo-B5EC11D82A-seeklogo.com.png"
+            "stream_video_url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/trace_urban_img_2284.png"
           },
           "sub_86": {
             "id": 86,
             "mode": "video",
-            "name": "M6 International",
+            "name_original": "TV5Monde Francia FR",
+            "name": "Channel 86",
             "sub_name": "",
-            "stream_video_url": "https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8",
-            "thumbnail_url": "https://static.epg.best/fr/M6.fr.png"
+            "stream_video_url": "https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i1.wp.com/mediterranee-audiovisuelle.com/wp-content/uploads/2019/03/tv5-monde.png?w=350&ssl=1"
           },
           "sub_87": {
             "id": 87,
@@ -797,18 +913,22 @@
           "sub_88": {
             "id": 88,
             "mode": "video",
-            "name": "Public Senat",
+            "name_original": "TV7 Colmar",
+            "name": "Channel 88",
             "sub_name": "",
-            "stream_video_url": "https://stream-03.ix7.dailymotion.com/dm/3/xkxbzc/live-2.m3u8",
-            "thumbnail_url": "https://seeklogo.com/images/P/public-senat-logo-5EAEBBF7B8-seeklogo.com.png"
+            "stream_video_url": "http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv7_colmar_img_2290.png"
           },
           "sub_89": {
             "id": 89,
             "mode": "video",
-            "name": "Public Senat",
+            "name_original": "TV7 Colmar",
+            "name": "Channel 89",
             "sub_name": "",
-            "stream_video_url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xkxbzc",
-            "thumbnail_url": "https://seeklogo.com/images/P/public-senat-logo-5EAEBBF7B8-seeklogo.com.png"
+            "stream_video_url": "https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tv7_colmar_img_2290.png"
           },
           "sub_90": {
             "id": 90,
@@ -824,18 +944,22 @@
           "sub_91": {
             "id": 91,
             "mode": "video",
-            "name": "Radio Contact",
+            "name_original": "viàMATÉLÉ",
+            "name": "Channel 91",
             "sub_name": "",
-            "stream_video_url": "https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/radio_contact_img_2276.png"
+            "stream_video_url": "https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.imgur.com/kmna9PU.png"
           },
           "sub_92": {
             "id": 92,
             "mode": "video",
-            "name": "Vià Occitanie",
+            "name_original": "viaMirabelle",
+            "name": "Channel 92",
             "sub_name": "",
-            "stream_video_url": "https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8",
-            "thumbnail_url": "https://w0rld.tv/wp-content/uploads/2020/09/viaoccitanie-pays-gardois-1.jpg"
+            "stream_video_url": "https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.imgur.com/YXUMEbi.png"
           },
           "sub_93": {
             "id": 93,
@@ -851,18 +975,22 @@
           "sub_94": {
             "id": 94,
             "mode": "video",
-            "name": "P2M TV",
+            "name_original": "ARTE Français",
+            "name": "Channel 94",
             "sub_name": "",
-            "stream_video_url": "https://panel.streamparis.fr:3743/stream/play.m3u8",
-            "thumbnail_url": "https://i.imgur.com/xc8EFmb.png"
+            "stream_video_url": "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png"
           },
           "sub_95": {
             "id": 95,
             "mode": "video",
-            "name": "TV8 Mont-Blanc",
+            "name_original": "Cnews",
+            "name": "Channel 95",
             "sub_name": "",
-            "stream_video_url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x71o73v",
-            "thumbnail_url": "https://i.postimg.cc/BQf9sDGK/8.png"
+            "stream_video_url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3b68jn",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.postimg.cc/vT6GMpCV/cnews.png"
           },
           "sub_96": {
             "id": 96,
@@ -873,6 +1001,68 @@
             "website_url": "https://333.game.qureka.com",
             "is_system_browser": true,
             "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_97": {
+            "id": 97,
+            "mode": "video",
+            "name_original": "Francophonie",
+            "name": "Channel 97",
+            "sub_name": "",
+            "stream_video_url": "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Francophonie24_275x275.png?raw=true"
+          },
+          "sub_98": {
+            "id": 98,
+            "mode": "video",
+            "name_original": "LCP",
+            "name": "Channel 98",
+            "sub_name": "",
+            "stream_video_url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xji3qy",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.postimg.cc/rwBVxjj2/lcp.png"
+          },
+          "sub_99": {
+            "id": 99,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_100": {
+            "id": 100,
+            "mode": "video",
+            "name_original": "TV8 Mont-Blanc",
+            "name": "Channel 100",
+            "sub_name": "",
+            "stream_video_url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x71o73v",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://i.postimg.cc/BQf9sDGK/8.png"
+          },
+          "sub_101": {
+            "id": 101,
+            "mode": "video",
+            "name_original": "viàOccitanie",
+            "name": "Channel 101",
+            "sub_name": "",
+            "stream_video_url": "https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/French.png",
+            "thumbnail_url_original": "https://viaoccitanie.tv/fileadmin/via_main/img/logos/viaOccitanie-header.png"
+          },
+          "sub_102": {
+            "id": 102,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
             "thumbnail_url_original": ""
           }
         }
