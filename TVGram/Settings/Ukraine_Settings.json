@@ -290,7 +290,7 @@
         "is_override" : true,
 
         "is_popup_dialog": true,
-        "is_update_require":true,
+        "is_update_require":false,
 
         "package_id":"com.tvgram.brazillivetv",
         "download_url":"",
