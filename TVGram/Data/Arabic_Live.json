@@ -6,730 +6,450 @@
       "thumb_width": 150,
       "all_Channels_Tab_Name": "",
       "main": {
-        "id": 0,
+        "id": 13,
         "name": "Arabic Channels",
         "sub_name": "Channels",
         "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-saudi-arabia_748010.png",
         "sub": {
-          "sub_0": {
-            "id": 0,
-            "mode": "video",
-            "name": "Channel 1",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/ajman_tv_arb_img_556.png"
-          },
           "sub_1": {
             "id": 1,
             "mode": "video",
-            "name": "Channel 2",
+            "name": "Abu Dhabi Sports",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/b4uaflam/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/b4u_aflam_arb_img_558.png"
+            "stream_video_url": "http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_sports_arb_img_551.png"
           },
           "sub_2": {
             "id": 2,
             "mode": "video",
-            "name": "Channel 3",
+            "name": "Abu Dhabi Sports",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/b4u_plus_arb_img_559.png"
+            "stream_video_url": "http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8?v=3157566659",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_sports_arb_img_551.png"
           },
           "sub_3": {
             "id": 3,
-            "mode": "video",
-            "name": "Channel 4",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/cin1/01.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/cinema_1_arb_img_560.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
           },
           "sub_4": {
             "id": 4,
             "mode": "video",
-            "name": "Channel 5",
+            "name": "Abu Dhabi Sports",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/cinema_1_arb_img_560.png"
+            "stream_video_url": "http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_sports_arb_img_551.png"
           },
           "sub_5": {
             "id": 5,
             "mode": "video",
-            "name": "Channel 6",
+            "name": "Abu Dhabi Sports",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/cinema_1_arb_img_560.png"
+            "stream_video_url": "http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_sports_arb_img_551.png"
           },
           "sub_6": {
             "id": 6,
-            "mode": "video",
-            "name": "Channel 7",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/cinema_1_arb_img_560.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
           },
           "sub_7": {
             "id": 7,
             "mode": "video",
-            "name": "Channel 8",
+            "name": "Abu Dhabi Sports",
             "sub_name": "",
-            "stream_video_url": "http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/dubai_racing_arb_img_562.png"
+            "stream_video_url": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_sports_arb_img_551.png"
           },
           "sub_8": {
             "id": 8,
             "mode": "video",
-            "name": "Channel 9",
+            "name": "Abu Dhabi Sports 1",
             "sub_name": "",
-            "stream_video_url": "http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/dubai_racing_arb_img_562.png"
+            "stream_video_url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_sports_1_img_3380.png"
           },
           "sub_9": {
             "id": 9,
-            "mode": "video",
-            "name": "Channel 10",
-            "sub_name": "",
-            "stream_video_url": "http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8?fluxustv.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/dubai_racing_arb_img_562.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
           },
           "sub_10": {
             "id": 10,
             "mode": "video",
-            "name": "Channel 11",
+            "name": "Abu Dhabi Sports 2",
             "sub_name": "",
-            "stream_video_url": "http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/dubai_racing_arb_img_562.png"
+            "stream_video_url": "http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_sports_2_img_3381.png"
           },
           "sub_11": {
             "id": 11,
             "mode": "video",
-            "name": "Channel 12",
+            "name": "Abu Dhabi Sports 2",
             "sub_name": "",
-            "stream_video_url": "http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/france_24_arabic_img_2267.png"
+            "stream_video_url": "http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8?v=3157566659",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_sports_2_img_3381.png"
           },
           "sub_12": {
             "id": 12,
-            "mode": "video",
-            "name": "Channel 13",
-            "sub_name": "",
-            "stream_video_url": "http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8?fluxustv.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/france_24_arabic_img_2267.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
           },
           "sub_13": {
             "id": 13,
             "mode": "video",
-            "name": "Channel 14",
+            "name": "Abu Dhabi Sports 2",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc1/02.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_1_arb_img_567.png"
+            "stream_video_url": "http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_sports_2_img_3381.png"
           },
           "sub_14": {
             "id": 14,
             "mode": "video",
-            "name": "Channel 15",
+            "name": "Abu Dhabi Sports 2",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc1/02.m3u8?sd=10&rebase=on",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_1_arb_img_567.png"
+            "stream_video_url": "http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_sports_2_img_3381.png"
           },
           "sub_15": {
             "id": 15,
-            "mode": "video",
-            "name": "Channel 16",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_1_arb_img_567.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
           },
           "sub_16": {
             "id": 16,
             "mode": "video",
-            "name": "Channel 17",
+            "name": "Abu Dhabi Sports 2",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_1_arb_img_567.png"
+            "stream_video_url": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_sports_2_img_3381.png"
           },
           "sub_17": {
             "id": 17,
             "mode": "video",
-            "name": "Channel 18",
+            "name": "Abu Dhabi Sports 2",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc1/05.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_1_arb_img_567.png"
+            "stream_video_url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_sports_2_img_3381.png"
           },
           "sub_18": {
             "id": 18,
-            "mode": "video",
-            "name": "Channel 19",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc1/index.m3u8?sd=10&rebase=on",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_1_arb_img_567.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
           },
           "sub_19": {
             "id": 19,
             "mode": "video",
-            "name": "Channel 20",
+            "name": "Abu Dhabi Sports 3",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_2_arb_img_568.png"
+            "stream_video_url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_sports_3_img_3382.png"
           },
           "sub_20": {
             "id": 20,
             "mode": "video",
-            "name": "Channel 21",
+            "name": "Abu Dhabi Sports 4",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_2_arb_img_568.png"
+            "stream_video_url": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_sports_4_img_3383.png"
           },
           "sub_21": {
             "id": 21,
-            "mode": "video",
-            "name": "Channel 22",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_2_arb_img_568.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
           },
           "sub_22": {
             "id": 22,
             "mode": "video",
-            "name": "Channel 23",
+            "name": "Abu Dhabi TV",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae:80/hls/mbc2/05.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_2_arb_img_568.png"
+            "stream_video_url": "https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_tv_img_3384.png"
           },
           "sub_23": {
             "id": 23,
             "mode": "video",
-            "name": "Channel 24",
+            "name": "Abu Dhabi TV ARB",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae:80/hls/mbc2/index.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_2_arb_img_568.png"
+            "stream_video_url": "http://adtv.ercdn.net/adaloula/adaloula.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_tv_arb_img_555.png"
           },
           "sub_24": {
             "id": 24,
-            "mode": "video",
-            "name": "Channel 25",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc3/02.m3u8?sd=10&rebase=on",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_3_arb_img_569.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
           },
           "sub_25": {
             "id": 25,
             "mode": "video",
-            "name": "Channel 26",
+            "name": "Abu Dhabi TV ARB",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc3/03.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_3_arb_img_569.png"
+            "stream_video_url": "http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_tv_arb_img_555.png"
           },
           "sub_26": {
             "id": 26,
             "mode": "video",
-            "name": "Channel 27",
+            "name": "Abu Dhabi TV ARB",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_3_arb_img_569.png"
+            "stream_video_url": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_tv_arb_img_555.png"
           },
           "sub_27": {
             "id": 27,
-            "mode": "video",
-            "name": "Channel 28",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_3_arb_img_569.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
           },
           "sub_28": {
             "id": 28,
             "mode": "video",
-            "name": "Channel 29",
+            "name": "Al Arabiya",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8?fluxustv.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_3_arb_img_569.png"
+            "stream_video_url": "https://shls-alarabiya-prod.shahid.net/alarabiya-prod.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/al_arabiya_img_3386.png"
           },
           "sub_29": {
             "id": 29,
             "mode": "video",
-            "name": "Channel 30",
+            "name": "Al Arabiya Al Hadath",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc3/index.m3u8?sd=10&rebase=on",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_3_arb_img_569.png"
+            "stream_video_url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/al_arabiya_al_hadath_img_3387.png"
           },
           "sub_30": {
             "id": 30,
-            "mode": "video",
-            "name": "Channel 31",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/mbc4/03.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_4_arb_img_570.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
           },
           "sub_31": {
             "id": 31,
             "mode": "video",
-            "name": "Channel 32",
+            "name": "Dubai Racing",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_4_arb_img_570.png"
+            "stream_video_url": "https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/dubai_racing_img_3390.png"
           },
           "sub_32": {
             "id": 32,
             "mode": "video",
-            "name": "Channel 33",
+            "name": "Dubai Racing 2",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_4_arb_img_570.png"
+            "stream_video_url": "https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/dubai_racing_2_img_3391.png"
           },
           "sub_33": {
             "id": 33,
-            "mode": "video",
-            "name": "Channel 34",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/mbc4/05.m3u8?fluxustv.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_4_arb_img_570.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
           },
           "sub_34": {
             "id": 34,
             "mode": "video",
-            "name": "Channel 35",
+            "name": "Dubai Racing ARB",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae:80/hls/mbc4/05.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_4_arb_img_570.png"
+            "stream_video_url": "http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/dubai_racing_arb_img_562.png"
           },
           "sub_35": {
             "id": 35,
             "mode": "video",
-            "name": "Channel 36",
+            "name": "Dubai Racing ARB",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae:80/hls/mbc4/index.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_4_arb_img_570.png"
+            "stream_video_url": "http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/dubai_racing_arb_img_562.png"
           },
           "sub_36": {
             "id": 36,
-            "mode": "video",
-            "name": "Channel 37",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_action_arb_img_571.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
           },
           "sub_37": {
             "id": 37,
             "mode": "video",
-            "name": "Channel 38",
+            "name": "Dubai Racing ARB",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8?sd=10&rebase=on",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_action_arb_img_571.png"
+            "stream_video_url": "http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/dubai_racing_arb_img_562.png"
           },
           "sub_38": {
             "id": 38,
             "mode": "video",
-            "name": "Channel 39",
+            "name": "Dubai Sports 1",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_action_arb_img_571.png"
+            "stream_video_url": "https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/dubai_sports_1_img_3393.png"
           },
           "sub_39": {
             "id": 39,
-            "mode": "video",
-            "name": "Channel 40",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_action_arb_img_571.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
           },
           "sub_40": {
             "id": 40,
             "mode": "video",
-            "name": "Channel 41",
+            "name": "Dubai Sports 3",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_action_arb_img_571.png"
+            "stream_video_url": "https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/dubai_sports_3_img_3395.png"
           },
           "sub_41": {
             "id": 41,
             "mode": "video",
-            "name": "Channel 42",
+            "name": "Dubai Zaman",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/05.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_action_arb_img_571.png"
+            "stream_video_url": "https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/dubai_zaman_img_3397.png"
           },
           "sub_42": {
             "id": 42,
-            "mode": "video",
-            "name": "Channel 43",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae:80/hls/mbcaction/index.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_action_arb_img_571.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
           },
           "sub_43": {
             "id": 43,
             "mode": "video",
-            "name": "Channel 44",
+            "name": "Noor Dubai ARB",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/02.m3u8?sd=10&rebase=on",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_bollywood_arb_img_572.png"
+            "stream_video_url": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/noor_dubai_arb_img_578.png"
           },
           "sub_44": {
             "id": 44,
             "mode": "video",
-            "name": "Channel 45",
+            "name": "Sharjah 2",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/03.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_bollywood_arb_img_572.png"
+            "stream_video_url": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/sharjah_2_img_3414.png"
           },
           "sub_45": {
             "id": 45,
-            "mode": "video",
-            "name": "Channel 46",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_bollywood_arb_img_572.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
           },
           "sub_46": {
             "id": 46,
             "mode": "video",
-            "name": "Channel 47",
+            "name": "Sharjah TV",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/05.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_bollywood_arb_img_572.png"
+            "stream_video_url": "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/sharjah_tv_img_3416.png"
           },
           "sub_47": {
             "id": 47,
             "mode": "video",
-            "name": "Channel 48",
+            "name": "Sharqiya from Kalba ARB",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_bollywood_arb_img_572.png"
+            "stream_video_url": "http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/sharqiya_from_kalba_arb_img_580.png"
           },
           "sub_48": {
             "id": 48,
-            "mode": "video",
-            "name": "Channel 49",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_bollywood_arb_img_572.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
           },
           "sub_49": {
             "id": 49,
             "mode": "video",
-            "name": "Channel 50",
+            "name": "Yas",
             "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_drama_arb_img_573.png"
-          },
-          "sub_50": {
-            "id": 50,
-            "mode": "video",
-            "name": "Channel 51",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_drama_arb_img_573.png"
-          },
-          "sub_51": {
-            "id": 51,
-            "mode": "video",
-            "name": "Channel 52",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc_drama/index.m3u8?sd=10&rebase=on",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_drama_arb_img_573.png"
-          },
-          "sub_52": {
-            "id": 52,
-            "mode": "video",
-            "name": "Channel 53",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_drama_arb_img_573.png"
-          },
-          "sub_53": {
-            "id": 53,
-            "mode": "video",
-            "name": "Channel 54",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/index.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_drama_arb_img_573.png"
-          },
-          "sub_54": {
-            "id": 54,
-            "mode": "video",
-            "name": "Channel 55",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8?sd=10&rebase=on",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_masr_1_arb_img_574.png"
-          },
-          "sub_55": {
-            "id": 55,
-            "mode": "video",
-            "name": "Channel 56",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_masr_1_arb_img_574.png"
-          },
-          "sub_56": {
-            "id": 56,
-            "mode": "video",
-            "name": "Channel 57",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_max_arb_img_575.png"
-          },
-          "sub_57": {
-            "id": 57,
-            "mode": "video",
-            "name": "Channel 58",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8?sd=10&rebase=on",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_max_arb_img_575.png"
-          },
-          "sub_58": {
-            "id": 58,
-            "mode": "video",
-            "name": "Channel 59",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_max_arb_img_575.png"
-          },
-          "sub_59": {
-            "id": 59,
-            "mode": "video",
-            "name": "Channel 60",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_max_arb_img_575.png"
-          },
-          "sub_60": {
-            "id": 60,
-            "mode": "video",
-            "name": "Channel 61",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_max_arb_img_575.png"
-          },
-          "sub_61": {
-            "id": 61,
-            "mode": "video",
-            "name": "Channel 62",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/05.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_max_arb_img_575.png"
-          },
-          "sub_62": {
-            "id": 62,
-            "mode": "video",
-            "name": "Channel 63",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh3.tvanywhere.ae:80/hls/mbcmax/index.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/mbc_max_arb_img_575.png"
-          },
-          "sub_63": {
-            "id": 63,
-            "mode": "video",
-            "name": "Channel 64",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/music_now/02.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/music_now_arb_img_576.png"
-          },
-          "sub_64": {
-            "id": 64,
-            "mode": "video",
-            "name": "Channel 65",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/music_now/03.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/music_now_arb_img_576.png"
-          },
-          "sub_65": {
-            "id": 65,
-            "mode": "video",
-            "name": "Channel 66",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/music_now_arb_img_576.png"
-          },
-          "sub_66": {
-            "id": 66,
-            "mode": "video",
-            "name": "Channel 67",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/music_now_arb_img_576.png"
-          },
-          "sub_67": {
-            "id": 67,
-            "mode": "video",
-            "name": "Channel 68",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/music_now_arb_img_576.png"
-          },
-          "sub_68": {
-            "id": 68,
-            "mode": "video",
-            "name": "Channel 69",
-            "sub_name": "",
-            "stream_video_url": "http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/noor_dubai_arb_img_578.png"
-          },
-          "sub_69": {
-            "id": 69,
-            "mode": "video",
-            "name": "Channel 70",
-            "sub_name": "",
-            "stream_video_url": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/noor_dubai_arb_img_578.png"
-          },
-          "sub_70": {
-            "id": 70,
-            "mode": "video",
-            "name": "Channel 71",
-            "sub_name": "",
-            "stream_video_url": "http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/sharqiya_from_kalba_arb_img_580.png"
-          },
-          "sub_71": {
-            "id": 71,
-            "mode": "video",
-            "name": "Channel 72",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/space_toon_arabic_arb_img_581.png"
-          },
-          "sub_72": {
-            "id": 72,
-            "mode": "video",
-            "name": "Channel 73",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/space_toon_arabic_arb_img_581.png"
-          },
-          "sub_73": {
-            "id": 73,
-            "mode": "video",
-            "name": "Channel 74",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/star_world/02.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/star_world_hd_middle_east_img_583.png"
-          },
-          "sub_74": {
-            "id": 74,
-            "mode": "video",
-            "name": "Channel 75",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/star_world_hd_middle_east_img_583.png"
-          },
-          "sub_75": {
-            "id": 75,
-            "mode": "video",
-            "name": "Channel 76",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/star_world_hd_middle_east_img_583.png"
-          },
-          "sub_76": {
-            "id": 76,
-            "mode": "video",
-            "name": "Channel 77",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/star_world_hd_middle_east_img_583.png"
-          },
-          "sub_77": {
-            "id": 77,
-            "mode": "video",
-            "name": "Channel 78",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/star_world_hd_middle_east_img_583.png"
-          },
-          "sub_78": {
-            "id": 78,
-            "mode": "video",
-            "name": "Channel 79",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/star_world_hd_middle_east_img_583.png"
-          },
-          "sub_79": {
-            "id": 79,
-            "mode": "video",
-            "name": "Channel 80",
-            "sub_name": "",
-            "stream_video_url": "http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8",
-            "thumbnail_url": ".pnggg",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/wanasah_arb_img_584.png"
+            "stream_video_url": "https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/yas_img_3419.png"
           }
         }
       }
