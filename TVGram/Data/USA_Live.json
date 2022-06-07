@@ -6,7 +6,7 @@
       "thumb_width": 150,
       "all_Channels_Tab_Name": "",
       "main": {
-        "id": 10,
+        "id": 1,
         "name": "USA Channels",
         "sub_name": "Channels",
         "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-usa_748050.png",
@@ -14,18 +14,22 @@
           "sub_1": {
             "id": 1,
             "mode": "video",
-            "name": "Newsy",
+            "name_original": "23 ABC (KERO)",
+            "name": "Channel 1",
             "sub_name": "",
-            "stream_video_url": "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/newsy_img_2711.png"
+            "stream_video_url": "https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_2": {
             "id": 2,
             "mode": "video",
-            "name": "Newsy",
+            "name_original": "3ABN KIDS TV",
+            "name": "Channel 2",
             "sub_name": "",
-            "stream_video_url": "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/newsy_img_2711.png"
+            "stream_video_url": "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": ""
           },
           "sub_3": {
             "id": 3,
@@ -41,18 +45,22 @@
           "sub_4": {
             "id": 4,
             "mode": "video",
-            "name": "Newsmax TV",
+            "name_original": "3ABN Latino",
+            "name": "Channel 4",
             "sub_name": "",
-            "stream_video_url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/newsmax_tv_img_2709.png"
+            "stream_video_url": "https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/3abn_latino_img_2474.png"
           },
           "sub_5": {
             "id": 5,
             "mode": "video",
-            "name": "Newsmax TV",
+            "name_original": "3News Now (KMTV-TV)",
+            "name": "Channel 5",
             "sub_name": "",
-            "stream_video_url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/newsmax_tv_img_2709.png"
+            "stream_video_url": "http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/3news_now_(kmtv-tv)_img_2475.png"
           },
           "sub_6": {
             "id": 6,
@@ -68,18 +76,22 @@
           "sub_7": {
             "id": 7,
             "mode": "video",
-            "name": "NRBTV",
+            "name_original": "7News Boston (WHDH)",
+            "name": "Channel 7",
             "sub_name": "",
-            "stream_video_url": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
-            "thumbnail_url": "https://i.ytimg.com/vi/I58WfFz271Y/mqdefault.jpg"
+            "stream_video_url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/7news_boston_(whdh)_img_2476.png"
           },
           "sub_8": {
             "id": 8,
             "mode": "video",
-            "name": "CBSN Minnesota",
+            "name_original": "7News Boston (WHDH)",
+            "name": "Channel 8",
             "sub_name": "",
-            "stream_video_url": "https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/cbsn_minnesota_img_3237.png"
+            "stream_video_url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/7news_boston_(whdh)_img_2476.png"
           },
           "sub_9": {
             "id": 9,
@@ -95,18 +107,22 @@
           "sub_10": {
             "id": 10,
             "mode": "video",
-            "name": "The Asylum",
+            "name_original": "ABC 2 Baton Rouge LA (WBRZ-HD)",
+            "name": "Channel 10",
             "sub_name": "",
-            "stream_video_url": "https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/the_asylum_img_2778.png"
+            "stream_video_url": "http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abc_2_baton_rouge_la_(wbrz-hd)_img_2478.png"
           },
           "sub_11": {
             "id": 11,
             "mode": "video",
-            "name": "3ABN KIDS TV",
+            "name_original": "ABC 2 Baton Rouge LA (WBRZ-HD)",
+            "name": "Channel 11",
             "sub_name": "",
-            "stream_video_url": "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8",
-            "thumbnail_url": ""
+            "stream_video_url": "http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abc_2_baton_rouge_la_(wbrz-hd)_img_2478.png"
           },
           "sub_12": {
             "id": 12,
@@ -122,18 +138,22 @@
           "sub_13": {
             "id": 13,
             "mode": "video",
-            "name": "Movie Kingdom",
+            "name_original": "Action News Jax (WJAX-TV)",
+            "name": "Channel 13",
             "sub_name": "",
-            "stream_video_url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/movie_kingdom_img_2676.png"
+            "stream_video_url": "https://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/action_news_jax_(wjax-tv)_img_2486.png"
           },
           "sub_14": {
             "id": 14,
             "mode": "video",
-            "name": "DC Council Channel",
+            "name_original": "Akaku 53 (Hawaii)",
+            "name": "Channel 14",
             "sub_name": "",
-            "stream_video_url": "http://video.oct.dc.gov/out/u/15_12.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "stream_video_url": "https://akaku.vod.castus.tv/live/ch1.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/akaku_53_(hawaii)_img_2490.png"
           },
           "sub_15": {
             "id": 15,
@@ -149,18 +169,22 @@
           "sub_16": {
             "id": 16,
             "mode": "video",
-            "name": "Bek Sports East",
+            "name_original": "Akaku 55 (Hawaii)",
+            "name": "Channel 16",
             "sub_name": "",
-            "stream_video_url": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/bek_sports_east_img_2511.png"
+            "stream_video_url": "https://akaku.vod.castus.tv/live/ch3.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/akaku_55_(hawaii)_img_2492.png"
           },
           "sub_17": {
             "id": 17,
             "mode": "video",
-            "name": "Bek Sports West",
+            "name_original": "AKC TV",
+            "name": "Channel 17",
             "sub_name": "",
-            "stream_video_url": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/bek_sports_west_img_2512.png"
+            "stream_video_url": "https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/akc_tv_img_2493.png"
           },
           "sub_18": {
             "id": 18,
@@ -176,18 +200,22 @@
           "sub_19": {
             "id": 19,
             "mode": "video",
-            "name": "BlazeTV",
+            "name_original": "AKC TV",
+            "name": "Channel 19",
             "sub_name": "",
-            "stream_video_url": "https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/blazetv_img_2521.png"
+            "stream_video_url": "https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/akc_tv_img_2493.png"
           },
           "sub_20": {
             "id": 20,
             "mode": "video",
-            "name": "AMG TV",
+            "name_original": "Aliento Vision",
+            "name": "Channel 20",
             "sub_name": "",
-            "stream_video_url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "stream_video_url": "http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/aliento_vision_img_2496.png"
           },
           "sub_21": {
             "id": 21,
@@ -203,18 +231,22 @@
           "sub_22": {
             "id": 22,
             "mode": "video",
-            "name": "Duck TV",
+            "name_original": "GOD TV",
+            "name": "Channel 22",
             "sub_name": "",
-            "stream_video_url": "https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/duck_tv_img_2588.png"
+            "stream_video_url": "https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/god_tv_img_2623.png"
           },
           "sub_23": {
             "id": 23,
             "mode": "video",
-            "name": "Black Cinema",
+            "name_original": "AMG TV",
+            "name": "Channel 23",
             "sub_name": "",
-            "stream_video_url": "https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/black_cinema_img_2519.png"
+            "stream_video_url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_24": {
             "id": 24,
@@ -230,18 +262,22 @@
           "sub_25": {
             "id": 25,
             "mode": "video",
-            "name": "LoveWorld USA",
+            "name_original": "Bek Sports West",
+            "name": "Channel 25",
             "sub_name": "",
-            "stream_video_url": "https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/loveworld_usa_img_2667.png"
+            "stream_video_url": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/bek_sports_west_img_2512.png"
           },
           "sub_26": {
             "id": 26,
             "mode": "video",
-            "name": "Leominster TV Public",
+            "name_original": "Beto TV",
+            "name": "Channel 26",
             "sub_name": "",
-            "stream_video_url": "http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/leominster_tv_public_img_2663.png"
+            "stream_video_url": "http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_27": {
             "id": 27,
@@ -257,18 +293,22 @@
           "sub_28": {
             "id": 28,
             "mode": "video",
-            "name": "Leominster TV Public",
+            "name_original": "Better Life TV",
+            "name": "Channel 28",
             "sub_name": "",
-            "stream_video_url": "http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/leominster_tv_public_img_2663.png"
+            "stream_video_url": "http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/better_life_tv_img_2516.png"
           },
           "sub_29": {
             "id": 29,
             "mode": "video",
-            "name": "Leominster TV Educational",
+            "name_original": "Duck TV",
+            "name": "Channel 29",
             "sub_name": "",
-            "stream_video_url": "http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/leominster_tv_educational_img_2661.png"
+            "stream_video_url": "http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/duck_tv_img_2588.png"
           },
           "sub_30": {
             "id": 30,
@@ -284,18 +324,22 @@
           "sub_31": {
             "id": 31,
             "mode": "video",
-            "name": "Leominster TV Educational",
+            "name_original": "Better Nature TV",
+            "name": "Channel 31",
             "sub_name": "",
-            "stream_video_url": "http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/leominster_tv_educational_img_2661.png"
+            "stream_video_url": "http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/better_nature_tv_img_2517.png"
           },
           "sub_32": {
             "id": 32,
             "mode": "video",
-            "name": "ET Live",
+            "name_original": "Bible Explorations",
+            "name": "Channel 32",
             "sub_name": "",
-            "stream_video_url": "https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/et_live_img_2594.png"
+            "stream_video_url": "http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/bible_explorations_img_2518.png"
           },
           "sub_33": {
             "id": 33,
@@ -311,18 +355,22 @@
           "sub_34": {
             "id": 34,
             "mode": "video",
-            "name": "Law And Crime Network",
+            "name_original": "BlazeTV",
+            "name": "Channel 34",
             "sub_name": "",
-            "stream_video_url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/law_and_crime_network_img_2660.png"
+            "stream_video_url": "https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/blazetv_img_2521.png"
           },
           "sub_35": {
             "id": 35,
             "mode": "video",
-            "name": "Stadium",
+            "name_original": "QVC",
+            "name": "Channel 35",
             "sub_name": "",
-            "stream_video_url": "https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/stadium_img_2768.png"
+            "stream_video_url": "https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_36": {
             "id": 36,
@@ -338,18 +386,22 @@
           "sub_37": {
             "id": 37,
             "mode": "video",
-            "name": "Stadium",
+            "name_original": "QVC",
+            "name": "Channel 37",
             "sub_name": "",
-            "stream_video_url": "https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/stadium_img_2768.png"
+            "stream_video_url": "https://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_38": {
             "id": 38,
             "mode": "video",
-            "name": "Stadium",
+            "name_original": "QVC",
+            "name": "Channel 38",
             "sub_name": "",
-            "stream_video_url": "https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/4.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/stadium_img_2768.png"
+            "stream_video_url": "https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_39": {
             "id": 39,
@@ -365,18 +417,22 @@
           "sub_40": {
             "id": 40,
             "mode": "video",
-            "name": "AKC TV",
+            "name_original": "C-Span 2",
+            "name": "Channel 40",
             "sub_name": "",
-            "stream_video_url": "https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/akc_tv_img_2493.png"
+            "stream_video_url": "https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/c-span_2_img_2537.png"
           },
           "sub_41": {
             "id": 41,
             "mode": "video",
-            "name": "AKC TV",
+            "name_original": "C-Span 3",
+            "name": "Channel 41",
             "sub_name": "",
-            "stream_video_url": "https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/akc_tv_img_2493.png"
+            "stream_video_url": "https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/c-span_3_img_2538.png"
           },
           "sub_42": {
             "id": 42,
@@ -392,18 +448,22 @@
           "sub_43": {
             "id": 43,
             "mode": "video",
-            "name": "GOD TV",
+            "name_original": "CBSN Minnesota",
+            "name": "Channel 43",
             "sub_name": "",
-            "stream_video_url": "https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/god_tv_img_2623.png"
+            "stream_video_url": "https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4128/CBS.MINN.OTT",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/cbsn_minnesota_img_3237.png"
           },
           "sub_44": {
             "id": 44,
             "mode": "video",
-            "name": "GOD TV",
+            "name_original": "CBSN Philly",
+            "name": "Channel 44",
             "sub_name": "",
-            "stream_video_url": "https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/god_tv_img_2623.png"
+            "stream_video_url": "https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/cbsn_philly_img_3238.png"
           },
           "sub_45": {
             "id": 45,
@@ -419,18 +479,22 @@
           "sub_46": {
             "id": 46,
             "mode": "video",
-            "name": "ABC 2 Baton Rouge LA (WBRZ-HD)",
+            "name_original": "Cerritos TV3",
+            "name": "Channel 46",
             "sub_name": "",
-            "stream_video_url": "http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abc_2_baton_rouge_la_(wbrz-hd)_img_2478.png"
+            "stream_video_url": "https://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_47": {
             "id": 47,
             "mode": "video",
-            "name": "ABC 2 Baton Rouge LA (WBRZ-HD)",
+            "name_original": "Christian Youth Channel",
+            "name": "Channel 47",
             "sub_name": "",
-            "stream_video_url": "http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abc_2_baton_rouge_la_(wbrz-hd)_img_2478.png"
+            "stream_video_url": "http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/christian_youth_channel_img_2559.png"
           },
           "sub_48": {
             "id": 48,
@@ -446,18 +510,22 @@
           "sub_49": {
             "id": 49,
             "mode": "video",
-            "name": "Better Nature TV",
+            "name_original": "CT-N Court Feed",
+            "name": "Channel 49",
             "sub_name": "",
-            "stream_video_url": "http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/better_nature_tv_img_2517.png"
+            "stream_video_url": "http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ct-n_court_feed_img_2570.png"
           },
           "sub_50": {
             "id": 50,
             "mode": "video",
-            "name": "Bible Explorations",
+            "name_original": "CT-N Court Feed",
+            "name": "Channel 50",
             "sub_name": "",
-            "stream_video_url": "http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/bible_explorations_img_2518.png"
+            "stream_video_url": "http://video.ct-n.com/live/ctnSupreme/chunklist_DVR.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ct-n_court_feed_img_2570.png"
           },
           "sub_51": {
             "id": 51,
@@ -473,18 +541,22 @@
           "sub_52": {
             "id": 52,
             "mode": "video",
-            "name": "C-Span 2",
+            "name_original": "CT-N Live Stream 2",
+            "name": "Channel 52",
             "sub_name": "",
-            "stream_video_url": "https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/c-span_2_img_2537.png"
+            "stream_video_url": "http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ct-n_live_stream_2_img_2573.png"
           },
           "sub_53": {
             "id": 53,
             "mode": "video",
-            "name": "C-Span 3",
+            "name_original": "CT-N Live Stream 2",
+            "name": "Channel 53",
             "sub_name": "",
-            "stream_video_url": "https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/c-span_3_img_2538.png"
+            "stream_video_url": "http://video.ct-n.com/live/web2stream/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ct-n_live_stream_2_img_2573.png"
           },
           "sub_54": {
             "id": 54,
@@ -500,18 +572,22 @@
           "sub_55": {
             "id": 55,
             "mode": "video",
-            "name": "Cerritos TV3",
+            "name_original": "CTN",
+            "name": "Channel 55",
             "sub_name": "",
-            "stream_video_url": "https://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "stream_video_url": "http://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w846886780_b1764000.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ctn_img_2574.png"
           },
           "sub_56": {
             "id": 56,
             "mode": "video",
-            "name": "Christian Youth Channel",
+            "name_original": "CTN",
+            "name": "Channel 56",
             "sub_name": "",
-            "stream_video_url": "http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/christian_youth_channel_img_2559.png"
+            "stream_video_url": "http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ctn_img_2574.png"
           },
           "sub_57": {
             "id": 57,
@@ -527,18 +603,22 @@
           "sub_58": {
             "id": 58,
             "mode": "video",
-            "name": "CT-N Court Feed",
+            "name_original": "CTNi",
+            "name": "Channel 58",
             "sub_name": "",
-            "stream_video_url": "http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ct-n_court_feed_img_2570.png"
+            "stream_video_url": "http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ctni_img_2575.png"
           },
           "sub_59": {
             "id": 59,
             "mode": "video",
-            "name": "CT-N Court Feed",
+            "name_original": "CTNi",
+            "name": "Channel 59",
             "sub_name": "",
-            "stream_video_url": "http://video.ct-n.com/live/ctnSupreme/chunklist_DVR.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ct-n_court_feed_img_2570.png"
+            "stream_video_url": "http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8?iptvgratis?chile.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ctni_img_2575.png"
           },
           "sub_60": {
             "id": 60,
@@ -554,18 +634,22 @@
           "sub_61": {
             "id": 61,
             "mode": "video",
-            "name": "CT-N Live Stream 2",
+            "name_original": "DC Council Channel",
+            "name": "Channel 61",
             "sub_name": "",
-            "stream_video_url": "http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ct-n_live_stream_2_img_2573.png"
+            "stream_video_url": "https://video.oct.dc.gov/out/u/15_12.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_62": {
             "id": 62,
             "mode": "video",
-            "name": "CT-N Live Stream 2",
+            "name_original": "Denver 8 TV",
+            "name": "Channel 62",
             "sub_name": "",
-            "stream_video_url": "http://video.ct-n.com/live/web2stream/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ct-n_live_stream_2_img_2573.png"
+            "stream_video_url": "http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/denver_8_tv_img_2580.png"
           },
           "sub_63": {
             "id": 63,
@@ -581,18 +665,22 @@
           "sub_64": {
             "id": 64,
             "mode": "video",
-            "name": "CTN",
+            "name_original": "District of Columbia Network",
+            "name": "Channel 64",
             "sub_name": "",
-            "stream_video_url": "http://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w846886780_b1764000.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ctn_img_2574.png"
+            "stream_video_url": "http://video.oct.dc.gov/out/u/DCN.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/district_of_columbia_network_img_2581.png"
           },
           "sub_65": {
             "id": 65,
             "mode": "video",
-            "name": "CTN",
+            "name_original": "District of Columbia Network",
+            "name": "Channel 65",
             "sub_name": "",
-            "stream_video_url": "http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ctn_img_2574.png"
+            "stream_video_url": "https://video.oct.dc.gov/out/u/DCN.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/district_of_columbia_network_img_2581.png"
           },
           "sub_66": {
             "id": 66,
@@ -608,18 +696,22 @@
           "sub_67": {
             "id": 67,
             "mode": "video",
-            "name": "CTNi",
+            "name_original": "Divine Vision",
+            "name": "Channel 67",
             "sub_name": "",
-            "stream_video_url": "http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ctni_img_2575.png"
+            "stream_video_url": "https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/divine_vision_img_2582.png"
           },
           "sub_68": {
             "id": 68,
             "mode": "video",
-            "name": "CTNi",
+            "name_original": "Dove Channel",
+            "name": "Channel 68",
             "sub_name": "",
-            "stream_video_url": "http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8?iptvgratis?chile.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ctni_img_2575.png"
+            "stream_video_url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/dove_channel_img_3239.png"
           },
           "sub_69": {
             "id": 69,
@@ -635,18 +727,22 @@
           "sub_70": {
             "id": 70,
             "mode": "video",
-            "name": "Denver 8 TV",
+            "name_original": "Dr. Gene Scott",
+            "name": "Channel 70",
             "sub_name": "",
-            "stream_video_url": "https://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/denver_8_tv_img_2580.png"
+            "stream_video_url": "https://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/dr._gene_scott_img_2586.png"
           },
           "sub_71": {
             "id": 71,
             "mode": "video",
-            "name": "District of Columbia Network",
+            "name_original": "ESNE TV",
+            "name": "Channel 71",
             "sub_name": "",
-            "stream_video_url": "http://video.oct.dc.gov/out/u/DCN.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/district_of_columbia_network_img_2581.png"
+            "stream_video_url": "https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/esne_tv_img_2593.png"
           },
           "sub_72": {
             "id": 72,
@@ -662,18 +758,22 @@
           "sub_73": {
             "id": 73,
             "mode": "video",
-            "name": "Divine Vision",
+            "name_original": "Fail Army",
+            "name": "Channel 73",
             "sub_name": "",
-            "stream_video_url": "http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/divine_vision_img_2582.png"
+            "stream_video_url": "https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fail_army_img_2595.png"
           },
           "sub_74": {
             "id": 74,
             "mode": "video",
-            "name": "Divine Vision",
+            "name_original": "FOX 23 Tulsa OK (KOKI-TV)",
+            "name": "Channel 74",
             "sub_name": "",
-            "stream_video_url": "https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/divine_vision_img_2582.png"
+            "stream_video_url": "http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_75": {
             "id": 75,
@@ -689,18 +789,22 @@
           "sub_76": {
             "id": 76,
             "mode": "video",
-            "name": "Dr. Gene Scott",
+            "name_original": "FOX 23 Tulsa OK (KOKI-TV)",
+            "name": "Channel 76",
             "sub_name": "",
-            "stream_video_url": "https://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/dr._gene_scott_img_2586.png"
+            "stream_video_url": "https://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_77": {
             "id": 77,
             "mode": "video",
-            "name": "Akaku 53 (Hawaii)",
+            "name_original": "FOX 28 Savannah GA (WTGS)",
+            "name": "Channel 77",
             "sub_name": "",
-            "stream_video_url": "https://akaku.vod.castus.tv/live/ch1.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/akaku_53_(hawaii)_img_2490.png"
+            "stream_video_url": "http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fox_28_savannah_ga_(wtgs)_img_2604.png"
           },
           "sub_78": {
             "id": 78,
@@ -716,18 +820,22 @@
           "sub_79": {
             "id": 79,
             "mode": "video",
-            "name": "FOX 28 Savannah GA (WTGS)",
+            "name_original": "FOX Boston-US",
+            "name": "Channel 79",
             "sub_name": "",
-            "stream_video_url": "https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fox_28_savannah_ga_(wtgs)_img_2604.png"
+            "stream_video_url": "http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fox_boston-us_img_319.png"
           },
           "sub_80": {
             "id": 80,
             "mode": "video",
-            "name": "Akaku 54 (Hawaii)",
+            "name_original": "FOX Boston-US",
+            "name": "Channel 80",
             "sub_name": "",
-            "stream_video_url": "https://akaku.vod.castus.tv/live/ch2.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/akaku_54_(hawaii)_img_2491.png"
+            "stream_video_url": "http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/fox_boston-us_img_319.png"
           },
           "sub_81": {
             "id": 81,
@@ -743,18 +851,22 @@
           "sub_82": {
             "id": 82,
             "mode": "video",
-            "name": "HSN",
+            "name_original": "HSN",
+            "name": "Channel 82",
             "sub_name": "",
-            "stream_video_url": "https://v-pi.mybtv.net/event/41.1/640x480?start_time=2019-12-20T23%3A45%3A00.000Z&end_time=2028&env=prd&uid=29375",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/hsn_img_2632.png"
+            "stream_video_url": "https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/hsn_img_2632.png"
           },
           "sub_83": {
             "id": 83,
             "mode": "video",
-            "name": "HSN",
+            "name_original": "HSN",
+            "name": "Channel 83",
             "sub_name": "",
-            "stream_video_url": "https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/hsn_img_2632.png"
+            "stream_video_url": "https://v-pi.mybtv.net/event/41.1/640x480?start_time=2019-12-20T23%3A45%3A00.000Z&end_time=2028&env=prd&uid=29375",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/hsn_img_2632.png"
           },
           "sub_84": {
             "id": 84,
@@ -770,18 +882,22 @@
           "sub_85": {
             "id": 85,
             "mode": "video",
-            "name": "Hunt Channel",
+            "name_original": "HSN",
+            "name": "Channel 85",
             "sub_name": "",
-            "stream_video_url": "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/hunt_channel_img_2633.png"
+            "stream_video_url": "https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8?b=728,1128",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/hsn_img_2632.png"
           },
           "sub_86": {
             "id": 86,
             "mode": "video",
-            "name": "Hunt Channel",
+            "name_original": "Hunt Channel",
+            "name": "Channel 86",
             "sub_name": "",
-            "stream_video_url": "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/hunt_channel_img_2633.png"
+            "stream_video_url": "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/hunt_channel_img_2633.png"
           },
           "sub_87": {
             "id": 87,
@@ -797,18 +913,22 @@
           "sub_88": {
             "id": 88,
             "mode": "video",
-            "name": "Inspiration TV",
+            "name_original": "Inspiration TV",
+            "name": "Channel 88",
             "sub_name": "",
-            "stream_video_url": "https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/inspiration_tv_img_2635.png"
+            "stream_video_url": "http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/inspiration_tv_img_2635.png"
           },
           "sub_89": {
             "id": 89,
             "mode": "video",
-            "name": "ISN",
+            "name_original": "Inspiration TV",
+            "name": "Channel 89",
             "sub_name": "",
-            "stream_video_url": "http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/isn_img_2637.png"
+            "stream_video_url": "https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/inspiration_tv_img_2635.png"
           },
           "sub_90": {
             "id": 90,
@@ -824,18 +944,22 @@
           "sub_91": {
             "id": 91,
             "mode": "video",
-            "name": "JBS",
+            "name_original": "Ion 8 Christiansted VI (WSVI-TV)",
+            "name": "Channel 91",
             "sub_name": "",
-            "stream_video_url": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/jbs_img_2639.png"
+            "stream_video_url": "https://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ion_8_christiansted_vi_(wsvi-tv)_img_2636.png"
           },
           "sub_92": {
             "id": 92,
             "mode": "video",
-            "name": "Key TV",
+            "name_original": "ISN",
+            "name": "Channel 92",
             "sub_name": "",
-            "stream_video_url": "http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/key_tv_img_2646.png"
+            "stream_video_url": "http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/isn_img_2637.png"
           },
           "sub_93": {
             "id": 93,
@@ -851,18 +975,22 @@
           "sub_94": {
             "id": 94,
             "mode": "video",
-            "name": "KOMO News (KOMO-TV)",
+            "name_original": "JBS",
+            "name": "Channel 94",
             "sub_name": "",
-            "stream_video_url": "https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/komo_news_(komo-tv)_img_2651.png"
+            "stream_video_url": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/jbs_img_2639.png"
           },
           "sub_95": {
             "id": 95,
             "mode": "video",
-            "name": "KTLA 5",
+            "name_original": "Jewelry Television",
+            "name": "Channel 95",
             "sub_name": "",
-            "stream_video_url": "https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/ktla_5_img_2201.png"
+            "stream_video_url": "http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/jewelry_television_img_2640.png"
           },
           "sub_96": {
             "id": 96,
@@ -878,18 +1006,22 @@
           "sub_97": {
             "id": 97,
             "mode": "video",
-            "name": "Leominster TV Government",
+            "name_original": "Jewish Life TV",
+            "name": "Channel 97",
             "sub_name": "",
-            "stream_video_url": "http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/leominster_tv_government_img_2662.png"
+            "stream_video_url": "http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/jewish_life_tv_img_2641.png"
           },
           "sub_98": {
             "id": 98,
             "mode": "video",
-            "name": "Leominster TV Government",
+            "name_original": "Jewish Life TV",
+            "name": "Channel 98",
             "sub_name": "",
-            "stream_video_url": "http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/leominster_tv_government_img_2662.png"
+            "stream_video_url": "https://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/jewish_life_tv_img_2641.png"
           },
           "sub_99": {
             "id": 99,
@@ -905,18 +1037,22 @@
           "sub_100": {
             "id": 100,
             "mode": "video",
-            "name": "Lex TV",
+            "name_original": "Key TV",
+            "name": "Channel 100",
             "sub_name": "",
-            "stream_video_url": "http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/lex_tv_img_2664.png"
+            "stream_video_url": "http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/key_tv_img_2646.png"
           },
           "sub_101": {
             "id": 101,
             "mode": "video",
-            "name": "Lex TV",
+            "name_original": "KIRO 7 News (KIRO-TV)",
+            "name": "Channel 101",
             "sub_name": "",
-            "stream_video_url": "http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/lex_tv_img_2664.png"
+            "stream_video_url": "http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/kiro_7_news_(kiro-tv)_img_2648.png"
           },
           "sub_102": {
             "id": 102,
@@ -932,18 +1068,22 @@
           "sub_103": {
             "id": 103,
             "mode": "video",
-            "name": "LifevisionTV",
+            "name_original": "KIRO 7 News (KIRO-TV)",
+            "name": "Channel 103",
             "sub_name": "",
-            "stream_video_url": "http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/lifevisiontv_img_2665.png"
+            "stream_video_url": "https://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/kiro_7_news_(kiro-tv)_img_2648.png"
           },
           "sub_104": {
             "id": 104,
             "mode": "video",
-            "name": "LifevisionTV",
+            "name_original": "KOMO News (KOMO-TV)",
+            "name": "Channel 104",
             "sub_name": "",
-            "stream_video_url": "https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/lifevisiontv_img_2665.png"
+            "stream_video_url": "https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/komo_news_(komo-tv)_img_2651.png"
           },
           "sub_105": {
             "id": 105,
@@ -959,18 +1099,22 @@
           "sub_106": {
             "id": 106,
             "mode": "video",
-            "name": "3News Now (KMTV-TV)",
+            "name_original": "Law And Crime Network",
+            "name": "Channel 106",
             "sub_name": "",
-            "stream_video_url": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/3news_now_(kmtv-tv)_img_2475.png"
+            "stream_video_url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/law_and_crime_network_img_2660.png"
           },
           "sub_107": {
             "id": 107,
             "mode": "video",
-            "name": "NBC 15 Madison WI (WMTVNBC)",
+            "name_original": "Leominster TV Educational",
+            "name": "Channel 107",
             "sub_name": "",
-            "stream_video_url": "http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/nbc_15_madison_wi_(wmtvnbc)_img_2690.png"
+            "stream_video_url": "http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/leominster_tv_educational_img_2661.png"
           },
           "sub_108": {
             "id": 108,
@@ -986,18 +1130,22 @@
           "sub_109": {
             "id": 109,
             "mode": "video",
-            "name": "NBC 26 (WGBA)",
+            "name_original": "Leominster TV Educational",
+            "name": "Channel 109",
             "sub_name": "",
-            "stream_video_url": "https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/nbc_26_(wgba)_img_2691.png"
+            "stream_video_url": "http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/leominster_tv_educational_img_2661.png"
           },
           "sub_110": {
             "id": 110,
             "mode": "video",
-            "name": "23 ABC (KERO)",
+            "name_original": "Leominster TV Government",
+            "name": "Channel 110",
             "sub_name": "",
-            "stream_video_url": "https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "stream_video_url": "http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/leominster_tv_government_img_2662.png"
           },
           "sub_111": {
             "id": 111,
@@ -1013,18 +1161,22 @@
           "sub_112": {
             "id": 112,
             "mode": "video",
-            "name": "Olelo 53",
+            "name_original": "Leominster TV Government",
+            "name": "Channel 112",
             "sub_name": "",
-            "stream_video_url": "http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "stream_video_url": "http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/leominster_tv_government_img_2662.png"
           },
           "sub_113": {
             "id": 113,
             "mode": "video",
-            "name": "Olelo 54",
+            "name_original": "Leominster TV Public",
+            "name": "Channel 113",
             "sub_name": "",
-            "stream_video_url": "http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "stream_video_url": "http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/leominster_tv_public_img_2663.png"
           },
           "sub_114": {
             "id": 114,
@@ -1040,18 +1192,22 @@
           "sub_115": {
             "id": 115,
             "mode": "video",
-            "name": "Olelo 55",
+            "name_original": "Leominster TV Public",
+            "name": "Channel 115",
             "sub_name": "",
-            "stream_video_url": "http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "stream_video_url": "http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/leominster_tv_public_img_2663.png"
           },
           "sub_116": {
             "id": 116,
             "mode": "video",
-            "name": "Olelo 55",
+            "name_original": "Lex TV",
+            "name": "Channel 116",
             "sub_name": "",
-            "stream_video_url": "https://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "stream_video_url": "http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/lex_tv_img_2664.png"
           },
           "sub_117": {
             "id": 117,
@@ -1067,18 +1223,22 @@
           "sub_118": {
             "id": 118,
             "mode": "video",
-            "name": "Orange TV",
+            "name_original": "Lex TV",
+            "name": "Channel 118",
             "sub_name": "",
-            "stream_video_url": "http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "stream_video_url": "https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/lex_tv_img_2664.png"
           },
           "sub_119": {
             "id": 119,
             "mode": "video",
-            "name": "QVC 2",
+            "name_original": "LifevisionTV",
+            "name": "Channel 119",
             "sub_name": "",
-            "stream_video_url": "https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "stream_video_url": "http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/lifevisiontv_img_2665.png"
           },
           "sub_120": {
             "id": 120,
@@ -1094,18 +1254,22 @@
           "sub_121": {
             "id": 121,
             "mode": "video",
-            "name": "QVC 3",
+            "name_original": "LoveWorld USA",
+            "name": "Channel 121",
             "sub_name": "",
-            "stream_video_url": "https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "stream_video_url": "https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/loveworld_usa_img_2667.png"
           },
           "sub_122": {
             "id": 122,
             "mode": "video",
-            "name": "QVC 3",
+            "name_original": "Mobcrush",
+            "name": "Channel 122",
             "sub_name": "",
-            "stream_video_url": "https://v-pi.mybtv.net/event/41.4/640x480?start_time=2019-12-13T21%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+            "stream_video_url": "https://ott.mobcrush.com/hls/0/ott.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/mobcrush_img_2674.png"
           },
           "sub_123": {
             "id": 123,
@@ -1121,18 +1285,22 @@
           "sub_124": {
             "id": 124,
             "mode": "video",
-            "name": "Revelation TV",
+            "name_original": "NBC 11 Pittsburgh PA (WPXI-HD)",
+            "name": "Channel 124",
             "sub_name": "",
-            "stream_video_url": "https://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/revelation_tv_img_2752.png"
+            "stream_video_url": "http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_125": {
             "id": 125,
             "mode": "video",
-            "name": "Shop HQ",
+            "name_original": "NBC 11 Pittsburgh PA (WPXI-HD)",
+            "name": "Channel 125",
             "sub_name": "",
-            "stream_video_url": "https://aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/shop_hq_img_2763.png"
+            "stream_video_url": "https://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_126": {
             "id": 126,
@@ -1148,18 +1316,22 @@
           "sub_127": {
             "id": 127,
             "mode": "video",
-            "name": "Shop HQ",
+            "name_original": "NBC 15 Madison WI (WMTVNBC)",
+            "name": "Channel 127",
             "sub_name": "",
-            "stream_video_url": "https://aos01-evine.secure.footprint.net/evine/cleanfeed/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/shop_hq_img_2763.png"
+            "stream_video_url": "https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/nbc_15_madison_wi_(wmtvnbc)_img_2690.png"
           },
           "sub_128": {
             "id": 128,
             "mode": "video",
-            "name": "TBD",
+            "name_original": "NBC 26 (WGBA)",
+            "name": "Channel 128",
             "sub_name": "",
-            "stream_video_url": "http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tbd_img_2773.png"
+            "stream_video_url": "https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/nbc_26_(wgba)_img_2691.png"
           },
           "sub_129": {
             "id": 129,
@@ -1175,18 +1347,22 @@
           "sub_130": {
             "id": 130,
             "mode": "video",
-            "name": "TBD",
+            "name_original": "Newsmax TV",
+            "name": "Channel 130",
             "sub_name": "",
-            "stream_video_url": "https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tbd_img_2773.png"
+            "stream_video_url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/newsmax_tv_img_2709.png"
           },
           "sub_131": {
             "id": 131,
             "mode": "video",
-            "name": "TBD",
+            "name_original": "Newsmax TV",
+            "name": "Channel 131",
             "sub_name": "",
-            "stream_video_url": "https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tbd_img_2773.png"
+            "stream_video_url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/newsmax_tv_img_2709.png"
           },
           "sub_132": {
             "id": 132,
@@ -1202,18 +1378,22 @@
           "sub_133": {
             "id": 133,
             "mode": "video",
-            "name": "Tempe 11",
+            "name_original": "Newsy",
+            "name": "Channel 133",
             "sub_name": "",
-            "stream_video_url": "https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tempe_11_img_2777.png"
+            "stream_video_url": "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/newsy_img_2711.png"
           },
           "sub_134": {
             "id": 134,
             "mode": "video",
-            "name": "The Now Network",
+            "name_original": "NRBTV",
+            "name": "Channel 134",
             "sub_name": "",
-            "stream_video_url": "https://link.frontlayer.com/services/hls2/fl619843/index.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/the_now_network_img_2784.png"
+            "stream_video_url": "http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_135": {
             "id": 135,
@@ -1229,18 +1409,22 @@
           "sub_136": {
             "id": 136,
             "mode": "video",
-            "name": "WCCA-TV (Worcester)",
+            "name_original": "Olelo 49",
+            "name": "Channel 136",
             "sub_name": "",
-            "stream_video_url": "http://worcester.vod.castus.tv/live/ch1.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/wcca-tv_(worcester)_img_2809.png"
+            "stream_video_url": "http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_137": {
             "id": 137,
             "mode": "video",
-            "name": "WCCA-TV (Worcester)",
+            "name_original": "Olelo 53",
+            "name": "Channel 137",
             "sub_name": "",
-            "stream_video_url": "https://worcester.vod.castus.tv/live/ch1.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/wcca-tv_(worcester)_img_2809.png"
+            "stream_video_url": "http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_138": {
             "id": 138,
@@ -1256,18 +1440,570 @@
           "sub_139": {
             "id": 139,
             "mode": "video",
-            "name": "3ABN Latino",
+            "name_original": "Olelo 54",
+            "name": "Channel 139",
             "sub_name": "",
-            "stream_video_url": "https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/3abn_latino_img_2474.png"
+            "stream_video_url": "https://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           },
           "sub_140": {
             "id": 140,
             "mode": "video",
-            "name": "WPEC CBS12 News",
+            "name_original": "Olelo 55",
+            "name": "Channel 140",
+            "sub_name": "",
+            "stream_video_url": "http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+          },
+          "sub_141": {
+            "id": 141,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_142": {
+            "id": 142,
+            "mode": "video",
+            "name_original": "Orange TV",
+            "name": "Channel 142",
+            "sub_name": "",
+            "stream_video_url": "http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+          },
+          "sub_143": {
+            "id": 143,
+            "mode": "video",
+            "name_original": "Orange TV",
+            "name": "Channel 143",
+            "sub_name": "",
+            "stream_video_url": "http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+          },
+          "sub_144": {
+            "id": 144,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_145": {
+            "id": 145,
+            "mode": "video",
+            "name_original": "QVC 2",
+            "name": "Channel 145",
+            "sub_name": "",
+            "stream_video_url": "https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+          },
+          "sub_146": {
+            "id": 146,
+            "mode": "video",
+            "name_original": "QVC 2",
+            "name": "Channel 146",
+            "sub_name": "",
+            "stream_video_url": "https://v-pi.mybtv.net/event/4.7/640x480?start_time=2019-12-13T21%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+          },
+          "sub_147": {
+            "id": 147,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_148": {
+            "id": 148,
+            "mode": "video",
+            "name_original": "QVC 3",
+            "name": "Channel 148",
+            "sub_name": "",
+            "stream_video_url": "https://v-pi.mybtv.net/event/41.4/640x480?start_time=2019-12-13T21%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+          },
+          "sub_149": {
+            "id": 149,
+            "mode": "video",
+            "name_original": "Radio y Televisión Martí",
+            "name": "Channel 149",
+            "sub_name": "",
+            "stream_video_url": "http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+          },
+          "sub_150": {
+            "id": 150,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_151": {
+            "id": 151,
+            "mode": "video",
+            "name_original": "Revelation TV",
+            "name": "Channel 151",
+            "sub_name": "",
+            "stream_video_url": "http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/revelation_tv_img_2752.png"
+          },
+          "sub_152": {
+            "id": 152,
+            "mode": "video",
+            "name_original": "Revelation TV",
+            "name": "Channel 152",
+            "sub_name": "",
+            "stream_video_url": "https://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/revelation_tv_img_2752.png"
+          },
+          "sub_153": {
+            "id": 153,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_154": {
+            "id": 154,
+            "mode": "video",
+            "name_original": "SBN",
+            "name": "Channel 154",
+            "sub_name": "",
+            "stream_video_url": "http://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/sbn_img_274.png"
+          },
+          "sub_155": {
+            "id": 155,
+            "mode": "video",
+            "name_original": "SBN",
+            "name": "Channel 155",
+            "sub_name": "",
+            "stream_video_url": "http://sonlife5-i.akamaihd.net/hls/live/584631/ch5/ch53/ch53.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/sbn_img_274.png"
+          },
+          "sub_156": {
+            "id": 156,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_157": {
+            "id": 157,
+            "mode": "video",
+            "name_original": "SBN",
+            "name": "Channel 157",
+            "sub_name": "",
+            "stream_video_url": "https://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/sbn_img_274.png"
+          },
+          "sub_158": {
+            "id": 158,
+            "mode": "video",
+            "name_original": "SBN Global",
+            "name": "Channel 158",
+            "sub_name": "",
+            "stream_video_url": "http://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+          },
+          "sub_159": {
+            "id": 159,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_160": {
+            "id": 160,
+            "mode": "video",
+            "name_original": "Shop HQ",
+            "name": "Channel 160",
+            "sub_name": "",
+            "stream_video_url": "https://aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/shop_hq_img_2763.png"
+          },
+          "sub_161": {
+            "id": 161,
+            "mode": "video",
+            "name_original": "Shop HQ",
+            "name": "Channel 161",
+            "sub_name": "",
+            "stream_video_url": "https://v-pi.mybtv.net/event/4.2/640x480?start_time=2019-12-13T20%3A45%3A00.000Z&end_time=2026&env=prd&uid=29375",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/shop_hq_img_2763.png"
+          },
+          "sub_162": {
+            "id": 162,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_163": {
+            "id": 163,
+            "mode": "video",
+            "name_original": "Stadium",
+            "name": "Channel 163",
+            "sub_name": "",
+            "stream_video_url": "https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/stadium_img_2768.png"
+          },
+          "sub_164": {
+            "id": 164,
+            "mode": "video",
+            "name_original": "Stadium",
+            "name": "Channel 164",
+            "sub_name": "",
+            "stream_video_url": "https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/stadium_img_2768.png"
+          },
+          "sub_165": {
+            "id": 165,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_166": {
+            "id": 166,
+            "mode": "video",
+            "name_original": "Stadium",
+            "name": "Channel 166",
+            "sub_name": "",
+            "stream_video_url": "https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/4.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/stadium_img_2768.png"
+          },
+          "sub_167": {
+            "id": 167,
+            "mode": "video",
+            "name_original": "TBD",
+            "name": "Channel 167",
+            "sub_name": "",
+            "stream_video_url": "http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tbd_img_2773.png"
+          },
+          "sub_168": {
+            "id": 168,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_169": {
+            "id": 169,
+            "mode": "video",
+            "name_original": "TBD",
+            "name": "Channel 169",
+            "sub_name": "",
+            "stream_video_url": "https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tbd_img_2773.png"
+          },
+          "sub_170": {
+            "id": 170,
+            "mode": "video",
+            "name_original": "TBD",
+            "name": "Channel 170",
+            "sub_name": "",
+            "stream_video_url": "https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tbd_img_2773.png"
+          },
+          "sub_171": {
+            "id": 171,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_172": {
+            "id": 172,
+            "mode": "video",
+            "name_original": "TCT",
+            "name": "Channel 172",
+            "sub_name": "",
+            "stream_video_url": "https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/playlist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tct_img_2774.png"
+          },
+          "sub_173": {
+            "id": 173,
+            "mode": "video",
+            "name_original": "TCT Kids",
+            "name": "Channel 173",
+            "sub_name": "",
+            "stream_video_url": "http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
+          },
+          "sub_174": {
+            "id": 174,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 20000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/2.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_175": {
+            "id": 175,
+            "mode": "video",
+            "name_original": "Tempe 11",
+            "name": "Channel 175",
+            "sub_name": "",
+            "stream_video_url": "http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tempe_11_img_2777.png"
+          },
+          "sub_176": {
+            "id": 176,
+            "mode": "video",
+            "name_original": "Tempe 11",
+            "name": "Channel 176",
+            "sub_name": "",
+            "stream_video_url": "https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/tempe_11_img_2777.png"
+          },
+          "sub_177": {
+            "id": 177,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 30000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/3.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_178": {
+            "id": 178,
+            "mode": "video",
+            "name_original": "The Now Network",
+            "name": "Channel 178",
+            "sub_name": "",
+            "stream_video_url": "https://link.frontlayer.com/services/hls2/fl619843/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/the_now_network_img_2784.png"
+          },
+          "sub_179": {
+            "id": 179,
+            "mode": "video",
+            "name_original": "Trinity Channel",
+            "name": "Channel 179",
+            "sub_name": "",
+            "stream_video_url": "http://rtmp1.abnsat.com/hls/trinity.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/trinity_channel_img_2794.png"
+          },
+          "sub_180": {
+            "id": 180,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 40000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/4.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_181": {
+            "id": 181,
+            "mode": "video",
+            "name_original": "VoA TV",
+            "name": "Channel 181",
+            "sub_name": "",
+            "stream_video_url": "http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/voa_tv_img_2806.png"
+          },
+          "sub_182": {
+            "id": 182,
+            "mode": "video",
+            "name_original": "VoA TV",
+            "name": "Channel 182",
+            "sub_name": "",
+            "stream_video_url": "https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/voa_tv_img_2806.png"
+          },
+          "sub_183": {
+            "id": 183,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 50000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/5.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_184": {
+            "id": 184,
+            "mode": "video",
+            "name_original": "VoA TV",
+            "name": "Channel 184",
+            "sub_name": "",
+            "stream_video_url": "https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/voa_tv_img_2806.png"
+          },
+          "sub_185": {
+            "id": 185,
+            "mode": "video",
+            "name_original": "VoA TV",
+            "name": "Channel 185",
+            "sub_name": "",
+            "stream_video_url": "https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/voa_tv_img_2806.png"
+          },
+          "sub_186": {
+            "id": 186,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 60000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/6.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_187": {
+            "id": 187,
+            "mode": "video",
+            "name_original": "WCCA-TV (Worcester)",
+            "name": "Channel 187",
+            "sub_name": "",
+            "stream_video_url": "http://worcester.vod.castus.tv/live/ch1.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/wcca-tv_(worcester)_img_2809.png"
+          },
+          "sub_188": {
+            "id": 188,
+            "mode": "video",
+            "name_original": "WCCA-TV (Worcester)",
+            "name": "Channel 188",
+            "sub_name": "",
+            "stream_video_url": "https://worcester.vod.castus.tv/live/ch1.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/wcca-tv_(worcester)_img_2809.png"
+          },
+          "sub_189": {
+            "id": 189,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 70000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/7.png",
+            "thumbnail_url_original": ""
+          },
+          "sub_190": {
+            "id": 190,
+            "mode": "video",
+            "name_original": "WHIO",
+            "name": "Channel 190",
+            "sub_name": "",
+            "stream_video_url": "http://svc-lvanvato-cxtv-whio.cmgvideo.com:80/whio/2596k/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/whio_img_2814.png"
+          },
+          "sub_191": {
+            "id": 191,
+            "mode": "video",
+            "name_original": "WHIO",
+            "name": "Channel 191",
+            "sub_name": "",
+            "stream_video_url": "https://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8",
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/whio_img_2814.png"
+          },
+          "sub_192": {
+            "id": 192,
+            "mode": "website",
+            "name_original": "",
+            "name": "Play",
+            "sub_name": "Win 10000",
+            "website_url": "https://333.game.qureka.com",
+            "is_system_browser": true,
+            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url_original": ""
+          },
+          "sub_193": {
+            "id": 193,
+            "mode": "video",
+            "name_original": "WPEC CBS12 News",
+            "name": "Channel 193",
             "sub_name": "",
             "stream_video_url": "https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8",
-            "thumbnail_url": ""
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/USA.png",
+            "thumbnail_url_original": ""
           }
         }
       }
