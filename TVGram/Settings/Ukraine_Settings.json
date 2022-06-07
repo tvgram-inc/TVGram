@@ -286,7 +286,7 @@
       "User_Community_Support": {
         "is_User_Community_Support": false
       },
-      "App_redirect_popup":{
+      "App_Redirect_Popup":{
         "is_override" : true,
 
         "is_popup_dialog": true,
