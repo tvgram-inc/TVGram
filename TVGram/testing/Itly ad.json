@@ -287,7 +287,7 @@
         "is_User_Community_Support": false
       },
 "App_Redirect_Popup": {
-        "is_override" : true,
+        "is_override" : false,
 
         "is_popup_dialog": false,
         "is_update_require":false,
@@ -313,7 +313,7 @@
         "package_id": "com.tvgram.italylivetv",
         "download_url": "",
         "website_url": "https://play.google.com/store/apps/details?id=com.tvgram.italylivetv",
-        "is_system_browser": true,
+        "is_system_browser": false,
         "is_User_Community_Support": false,
         "updated_version_code": 2,
         "filename": "Italy_Live_TV.apk",
