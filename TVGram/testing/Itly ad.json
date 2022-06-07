@@ -287,7 +287,7 @@
         "is_User_Community_Support": false
       },
 "App_Redirect_Popup": {
-        "is_override" : true,
+        "is_override" : false,
 
         "is_popup_dialog": true,
         "is_update_require":true,
