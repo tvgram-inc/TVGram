@@ -325,7 +325,7 @@
       },
       "App_Update_Information":
       {
-        "is_override" : false,
+        "is_override" : true,
 
         "is_popup_dialog": true,
         "is_update_require":true,
