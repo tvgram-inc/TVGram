@@ -287,10 +287,10 @@
         "is_User_Community_Support": false
       },
 "App_Redirect_Popup": {
-        "is_override" : false,
+        "is_override" : true,
 
-        "is_popup_dialog": false,
-        "is_update_require":false,
+        "is_popup_dialog": true,
+        "is_update_require":true,
 
         "package_id":"com.tvgram.brazillivetv",
         "download_url":"",
@@ -307,9 +307,9 @@
         "installing_message":"App Install"
       },
       "App_Update_Information": {
-        "is_override": true,
-        "is_popup_dialog": true,
-        "is_update_require": true,
+        "is_override": false,
+        "is_popup_dialog": false,
+        "is_update_require": false,
         "package_id": "com.tvgram.italylivetv",
         "download_url": "",
         "website_url": "https://play.google.com/store/apps/details?id=com.tvgram.italylivetv",
