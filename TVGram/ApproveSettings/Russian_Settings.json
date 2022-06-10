@@ -286,7 +286,7 @@
       "App_Redirect_Popup": {
         "is_override" : false,
 
-        "is_popup_dialog": false,
+        "is_popup_dialog": true,
         "is_update_require":false,
 
         "package_id":"com.tvgram.italylivetv",
