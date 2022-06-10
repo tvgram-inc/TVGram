@@ -283,6 +283,27 @@
       "User_Community_Support": {
         "is_User_Community_Support": false
       },
+      "App_Redirect_Popup": {
+        "is_override" : false,
+
+        "is_popup_dialog": false,
+        "is_update_require":false,
+
+        "package_id":"com.tvgram.italylivetv",
+        "download_url":"",
+        "website_url":"https://play.google.com/store/apps/details?id=com.tvgram.italylivetv",
+        "is_system_browser":true,
+         "is_User_Community_Support": false,
+        "updated_version_code":2,
+
+        "filename":"Italy_Live_TV.apk",
+        "title":"App Update",
+        "default_message":"Your App is Up to date.",
+        "log_message":"- Now become more powerfull IPTV Player",
+        "downloading_message":"App Downloading",
+        "installing_message":"App Install"
+      },
+      
       "App_Update_Information": {
         "is_override": false,
         "is_popup_dialog": false,
