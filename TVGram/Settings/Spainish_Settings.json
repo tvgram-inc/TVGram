@@ -113,7 +113,7 @@
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": true,
-          "visibility_percentage": 0
+          "visibility_percentage": 100
         },
         "unity_ads": {
           "is_debug_mode": false,
@@ -321,6 +321,26 @@
         }
       }, "User_Community_Support": {
          "is_User_Community_Support": false
+      },
+      "App_Redirect_Popup": {
+        "is_override" : true,
+
+        "is_popup_dialog": false,
+        "is_update_require":false,
+
+        "package_id":"com.tvgram.brazillivetv",
+        "download_url":"",
+        "website_url":"https://play.google.com/store/apps/details?id=com.tvgram.brazillivetv",
+        "is_system_browser":true,
+         "is_User_Community_Support": false,
+        "updated_version_code":2,
+
+        "filename":"Brazil_Live_TV.apk",
+        "title":"App Update",
+        "default_message":"Your App is Up to date.",
+        "log_message":"- Now become more powerfull IPTV Player",
+        "downloading_message":"App Downloading",
+        "installing_message":"App Install"
       },
       "App_Update_Information":
       {
