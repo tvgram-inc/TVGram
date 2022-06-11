@@ -113,7 +113,7 @@
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": true,
           "is_legal_banner_ads": true,
-          "visibility_percentage": 100
+          "visibility_percentage": 0
         },
         "unity_ads": {
           "is_debug_mode": false,
