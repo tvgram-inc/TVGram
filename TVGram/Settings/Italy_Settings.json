@@ -88,9 +88,9 @@
           "visibility_percentage": 100
         },
         "google_ads": {
-          "ads_app_id": "ca-app-pub-1867655643934057~7893256097",
-          "banner_ad_unit_id": "ca-app-pub-1867655643934057/4822609315",
-          "interstitial_ad_unit_id": "ca-app-pub-1867655643934057/9883364302",
+          "ads_app_id": "ca-app-pub-9002918408114140~8492340095",
+          "banner_ad_unit_id": "ca-app-pub-9002918408114140/7122035218",
+          "interstitial_ad_unit_id": "ca-app-pub-9002918408114140/4424817161",
           "ads_banner_clicks_per_duration_day": -1,
           "ads_interstitial_clicks_per_duration_day": -1,
           "ads_clicks_duration_day": 1,
@@ -107,8 +107,8 @@
           "is_initially_ads_container_visible": true,
           "is_load_default_ads_on_failed": false,
           "native_ad_unit_id": "ca-app-pub-1867655643934057/4439465932",
-          "rewarded_video_ad_unit_id": "ca-app-pub-1867655643934057/7376957172",
-          "open_ad_unit_id": "ca-app-pub-1867655643934057/9500220922",
+          "rewarded_video_ad_unit_id": "ca-app-pub-9002918408114140/1798653828",
+          "open_ad_unit_id": "ca-app-pub-9002918408114140/9556626862",
           "is_illegal_interstitial_ads": false,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": true,
