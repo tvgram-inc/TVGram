@@ -88,9 +88,9 @@
           "visibility_percentage": 100
         },
         "google_ads": {
-          "ads_app_id": "ca-app-pub-9002918408114140~7370830114",
-          "banner_ad_unit_id": "ca-app-pub-1867655643934057/5461101626",
-          "interstitial_ad_unit_id": "ca-app-pub-1867655643934057/2039913122",
+          "ads_app_id": "ca-app-pub-7045497377337250~8373672596",
+          "banner_ad_unit_id": "ca-app-pub-7045497377337250/1887051646",
+          "interstitial_ad_unit_id": "ca-app-pub-7045497377337250/4434427580",
           "ads_banner_clicks_per_duration_day" : -1,
           "ads_interstitial_clicks_per_duration_day" : -1,
           "ads_clicks_duration_day" : 1,
