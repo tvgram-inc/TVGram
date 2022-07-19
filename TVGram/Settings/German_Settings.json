@@ -322,8 +322,10 @@
         "website_url": "https://play.google.com/store/apps/details?id=com.tvgram.germanlivetv",
         "is_system_browser": true,
         "is_User_Community_Support": false,
-         "updated_version_code": 50,
+        
+        "updated_version_code": 2,
         "live_version_code": 14,
+        
         "filename": "German_Live_TV.apk",
         "title": "App Update",
         "default_message": "Your App is Up to date.",
