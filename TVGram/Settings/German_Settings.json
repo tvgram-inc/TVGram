@@ -17,6 +17,7 @@
         "is_analytics_flag": true,
         "geoedge_sdk_key": "755bfaf4-91f2-4843-85f1-527189ab389e",
         "ads_loading_text": "Ads will loading...",
+        
         "applovin_ads": {
           "ads_app_id": "WELTwtWXafsts82Q1HIQ2v7OeEHUtGHOUcsPTMx21owuxzIzEbNGUVf8kycbCu-hVr5zB10Dpx5luOh7-4NSZ2",
           "ads_banner_clicks_per_duration_day": 100,
@@ -321,8 +322,8 @@
         "website_url": "https://play.google.com/store/apps/details?id=com.tvgram.germanlivetv",
         "is_system_browser": true,
         "is_User_Community_Support": false,
-         "updated_version_code": 3,
-        "live_version_code": 15,
+         "updated_version_code": 50,
+        "live_version_code": 14,
         "filename": "German_Live_TV.apk",
         "title": "App Update",
         "default_message": "Your App is Up to date.",
