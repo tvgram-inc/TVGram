@@ -35,11 +35,12 @@
             "id": 3,
             "mode": "website",
             "name_original": "",
-            "name": "Play",
-            "sub_name": "Win 5,00,000",
-            "website_url": "https://333.game.qureka.com",
+            "name": "VidChat (Ad)",
+            "sub_name": "Live Random Video Chat",
+            "website_url": "https://play.google.com/store/apps/details?id=com.booya.videochat",
             "is_system_browser": true,
-            "thumbnail_url": "https://raw.githubusercontent.com/kp-bitcoding/ad-manager/main/Interstitial/1.jpg",
+            "thumbnail_url": "https://play-lh.googleusercontent.com/n1sM3AwQXpTAH3zvhxHypJ8-VbSCIcjsVWtu_ohDCEoYhOrEqTxKSoHbjMebbkO1Yg=w416-h235-rw",
+
             "thumbnail_url_original": ""
           },
           "sub_4": {
