@@ -62,8 +62,8 @@
 
           "visibility_percentage": 0
         },
-        "default_ads": "google_ads",
-        "final_default_ads":"facebook_ads",
+        "default_ads": "facebook_ads",
+        "final_default_ads":"google_ads",
         "facebook_ads": {
           "ads_app_id": "249157786143210",
           "banner_ad_unit_id": "249157786143210_249742439418078",
