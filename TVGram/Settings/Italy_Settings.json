@@ -62,8 +62,8 @@
 
           "visibility_percentage": 0
         },
-        "default_ads": "facebook_ads",
-        "final_default_ads":"google_ads",
+        "default_ads": "google_ads",
+        "final_default_ads":"facebook_ads",
         "facebook_ads": {
           "ads_app_id": "249157786143210",
           "banner_ad_unit_id": "249157786143210_249742439418078",
@@ -89,8 +89,8 @@
         },
         "google_ads": {
           "ads_app_id": "ca-app-pub-7045497377337250~9765541664",
-          "banner_ad_unit_id": "ca-app-pub-7045497377337250/3504489296",
-          "interstitial_ad_unit_id": "ca-app-pub-7045497377337250/7252162610",
+          "banner_ad_unit_id": "/21798997504/ace_app_bitcoding_com.tvgram.italylivetv_banner",
+          "interstitial_ad_unit_id": "/21798997504/ace_app_bitcoding_com.tvgram.italylivetv_interestitial",
           "ads_banner_clicks_per_duration_day": -1,
           "ads_interstitial_clicks_per_duration_day": -1,
           "ads_clicks_duration_day": 1,
@@ -106,9 +106,9 @@
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible": true,
           "is_load_default_ads_on_failed": false,
-          "native_ad_unit_id": "ca-app-pub-1867655643934057/4439465932",
+          "native_ad_unit_id": "/21798997504/ace_app_bitcoding_com.tvgram.italylivetv_native",
           "rewarded_video_ad_unit_id": "ca-app-pub-9002918408114140/1798653828",
-          "open_ad_unit_id": "ca-app-pub-1867655643934057/9896004803",
+          "open_ad_unit_id": "/21798997504/ace_app_bitcoding_com.tvgram.italylivetv_appopen",
           "is_illegal_interstitial_ads": false,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": true,
