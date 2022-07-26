@@ -62,8 +62,8 @@
 
           "visibility_percentage": 0
         },
-        "default_ads": "facebook_ads",
-        "final_default_ads":"google_ads",
+        "default_ads": "google_ads",
+        "final_default_ads":"facebook_ads",
         "facebook_ads": {
           "ads_app_id": "316254666416284",
           "banner_ad_unit_id": "124452629521515_124454002854711",
@@ -89,8 +89,8 @@
         },
         "google_ads": {
           "ads_app_id": "ca-app-pub-7045497377337250~9361382830",
-          "banner_ad_unit_id": "ca-app-pub-7045497377337250/1827627301",
-          "interstitial_ad_unit_id": "ca-app-pub-7045497377337250/9758088211",
+          "banner_ad_unit_id": "/21798997504/ace_app_bitcoding_com.tvgram.spanishlivetv_banner",
+          "interstitial_ad_unit_id": "/21798997504/ace_app_bitcoding_com.tvgram.spanishlivetv_interestitial",
           "ads_banner_clicks_per_duration_day": -1,
           "ads_interstitial_clicks_per_duration_day": -1,
           "ads_clicks_duration_day": 1,
@@ -106,9 +106,9 @@
           "is_stream_player_banner_ads": true,
           "is_initially_ads_container_visible": true,
           "is_load_default_ads_on_failed": false,
-          "native_ad_unit_id": "ca-app-pub-1867655643934057/1047015830",
+          "native_ad_unit_id": "/21798997504/ace_app_bitcoding_com.tvgram.spanishlivetv_native",
           "rewarded_video_ad_unit_id": "ca-app-pub-9002918408114140/2728592118",
-          "open_ad_unit_id": "ca-app-pub-1867655643934057/7895693270",
+          "open_ad_unit_id": "/21798997504/ace_app_bitcoding_com.tvgram.spanishlivetv_appopen",
           "is_illegal_interstitial_ads": false,
           "is_legal_interstitial_ads": true,
           "is_illegal_banner_ads": true,
