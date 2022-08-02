@@ -6,136 +6,126 @@
       "thumb_width": 150,
       "all_Channels_Tab_Name": "",
       "main": {
-        "id": 0,
+        "id": 7,
         "name": "Portuguese Channels",
         "sub_name": "Channels",
         "thumbnail_url": "https://www.iptv-updated.com/wp-content/uploads/2019/12/iconfinder_flag-portugal_748139.png",
         "sub": {
-          "sub_0": {
-            "id": 0,
-            "mode": "video",
-            "name": "Channel 1",
-            "sub_name": "",
-            "stream_video_url": "https://cdn039.fractalmedia.es/hls/caz_pt_high.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/caca_vision_img_2833.png"
-          },
           "sub_1": {
             "id": 1,
             "mode": "video",
-            "name": "Channel 2",
+            "name": "Kurakios TV",
             "sub_name": "",
-            "stream_video_url": "https://cdn039.fractalmedia.es/hls/caz_pt_low.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/caca_vision_img_2833.png"
+            "stream_video_url": "http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/kurakios_tv_img_278.png"
           },
           "sub_2": {
             "id": 2,
             "mode": "video",
-            "name": "Channel 3",
+            "name": "Kurakios TV",
             "sub_name": "",
-            "stream_video_url": "https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/caca_vision_img_2833.png"
+            "stream_video_url": "http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/kurakios_tv_img_278.png"
           },
           "sub_3": {
             "id": 3,
-            "mode": "video",
-            "name": "Channel 4",
-            "sub_name": "",
-            "stream_video_url": "http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/kurakios_tv_img_278.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "VidChat : Live",
+            "sub_name": "Random Video Chat (Ad)",
+            "website_url": "https://play.google.com/store/apps/details?id=com.booya.videochat",
+            "is_system_browser": true,
+            "thumbnail_url": "https://play-lh.googleusercontent.com/OwvRNTvvyUo8g9MQUdJJBGT_cL4S7ObS_xCyzwHYTS-rLrapbZzD1cQYowyHy-uVgw=w240-h480-rw",
+            "thumbnail_url_original": ""
           },
           "sub_4": {
             "id": 4,
             "mode": "video",
-            "name": "Channel 5",
+            "name": "Kuriakos Cine",
             "sub_name": "",
-            "stream_video_url": "http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/kurakios_tv_img_278.png"
+            "stream_video_url": "http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/kuriakos_cine_img_2835.png"
           },
           "sub_5": {
             "id": 5,
             "mode": "video",
-            "name": "Channel 6",
+            "name": "Kuriakos Kids",
             "sub_name": "",
-            "stream_video_url": "http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/kuriakos_cine_img_2835.png"
+            "stream_video_url": "http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/kuriakos_kids_img_2836.png"
           },
           "sub_6": {
             "id": 6,
-            "mode": "video",
-            "name": "Channel 7",
-            "sub_name": "",
-            "stream_video_url": "http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/kuriakos_kids_img_2836.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "World IPTV",
+            "sub_name": "IPTV m3u Playlists(Ad)",
+            "website_url": "https://play.google.com/store/apps/details?id=com.iptv.m3u.playlists",
+            "is_system_browser": true,
+            "thumbnail_url": "https://play-lh.googleusercontent.com/8mPNKodK65zCjQHS8aqF4o0cX9YlKZYN-3qYCd9oMlcTkGaAf_3AxB0vnE9Kud6bPw=w240-h480-rw",
+            "thumbnail_url_original": ""
           },
           "sub_7": {
             "id": 7,
             "mode": "video",
-            "name": "Channel 8",
+            "name": "Kuriakos Music",
             "sub_name": "",
             "stream_video_url": "http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8?fluxustv.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/kuriakos_music_img_2837.png"
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/kuriakos_music_img_2837.png"
           },
           "sub_8": {
             "id": 8,
             "mode": "video",
-            "name": "Channel 9",
+            "name": "Kuriakos Music",
             "sub_name": "",
-            "stream_video_url": "http://210.210.155.35/qwr9ew/s/s38/index.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/rtp_1_pt_img_308.png"
+            "stream_video_url": "http://c2.manasat.com:1935/kmusic/kmusic3/FluxusTV.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/kuriakos_music_img_2837.png"
           },
           "sub_9": {
             "id": 9,
-            "mode": "video",
-            "name": "Channel 10",
-            "sub_name": "",
-            "stream_video_url": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/sobrenatural_tv_img_2844.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "India Live Tv",
+            "sub_name": "Live Tv channels (Ad)",
+            "website_url": "https://play.google.com/store/apps/details?id=com.tvgram.indialivetv",
+            "is_system_browser": true,
+            "thumbnail_url": "https://i.postimg.cc/Gm3YYCdq/India-Tv.png",
+            "thumbnail_url_original": ""
           },
           "sub_10": {
             "id": 10,
             "mode": "video",
-            "name": "Channel 11",
+            "name": "Sobrenatural TV",
             "sub_name": "",
-            "stream_video_url": "http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w476474449.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/sobrenatural_tv_img_2844.png"
+            "stream_video_url": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/sobrenatural_tv_img_2844.png"
           },
           "sub_11": {
             "id": 11,
             "mode": "video",
-            "name": "Channel 12",
+            "name": "Sobrenatural TV",
             "sub_name": "",
-            "stream_video_url": "http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+            "stream_video_url": "http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w476474449.m3u8",
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/sobrenatural_tv_img_2844.png"
           },
           "sub_12": {
             "id": 12,
-            "mode": "video",
-            "name": "Channel 13",
-            "sub_name": "",
-            "stream_video_url": "https://streamer-b02.videos.sapo.pt/live/santuario.stream/chunklist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+            "mode": "website",
+            "name_original": "",
+            "name": "YoYo Video Calls",
+            "sub_name": "Live Random Video Chat (Ad)",
+            "website_url": "https://play.google.com/store/apps/details?id=com.yoyolive.llc",
+            "is_system_browser": true,
+            "thumbnail_url": "https://i.postimg.cc/KvDBRzS1/YOYO.png",
+            "thumbnail_url_original": ""
           },
           "sub_13": {
             "id": 13,
             "mode": "video",
-            "name": "Channel 14",
+            "name": "TV Maná Córdoba",
             "sub_name": "",
             "stream_video_url": "http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8",
-            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/Portuguese.png",
-            "thumbnail_url_original": "https://www.iptv-updated.com/uploaded_images/default_img.png"
+            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/default_img.png"
           }
         }
       }
