@@ -17,7 +17,7 @@
             "name": "Abu Dhabi Sports",
             "sub_name": "",
             "stream_video_url": "http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_sports_arb_img_551.png"
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/German.png"
           },
           "sub_2": {
             "id": 2,
@@ -25,7 +25,7 @@
             "name": "Abu Dhabi Sports",
             "sub_name": "",
             "stream_video_url": "http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8?v=3157566659",
-            "thumbnail_url": "https://www.iptv-updated.com/wp-content/themes/shootingstar-child/uploaded_images/abu_dhabi_sports_arb_img_551.png"
+            "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/German.png"
           }
         }
       }
