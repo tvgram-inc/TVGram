@@ -16,7 +16,7 @@
             "mode": "video",
             "name": "IPTV 1",
             "sub_name": "",
-            "stream_video_url": "http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8",
+            "stream_video_url": "http://adtv.ercdn.net/adsprt1/adsport1_360p.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/German.png"
           },
           "sub_2": {
@@ -24,7 +24,7 @@
             "mode": "video",
             "name": "IPTV 2",
             "sub_name": "",
-            "stream_video_url": "http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8?v=3157566659",
+            "stream_video_url": "http://adtv.ercdn.net/adsport1/adsort1_360p.m3u8?v=3157566659",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/German.png"
           }
         }
