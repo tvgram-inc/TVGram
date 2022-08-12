@@ -14,7 +14,7 @@
           "sub_1": {
             "id": 1,
             "mode": "video",
-            "name": "Abu Dhabi Sports",
+            "name": "IPTV 1",
             "sub_name": "",
             "stream_video_url": "http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/German.png"
@@ -22,7 +22,7 @@
           "sub_2": {
             "id": 2,
             "mode": "video",
-            "name": "Abu Dhabi Sports",
+            "name": "IPTV 2",
             "sub_name": "",
             "stream_video_url": "http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8?v=3157566659",
             "thumbnail_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/ChannelsLogo/German.png"
