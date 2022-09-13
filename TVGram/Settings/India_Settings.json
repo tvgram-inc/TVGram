@@ -488,7 +488,7 @@
         "playlist_message": "Please contact your India Live TV provider to get M3U, M3U8, PLS, RUTU or XSPF playlist with TV Channels",
         "is_system_browser": false,
         "playlist_web_search": "",
-        "default_playlist_url": "https://raw.githubusercontent.com/tvgram-inc/TVGram/master/TVGram/Data/India_Live.json",
+        "default_playlist_url": "https://gitlab.com/bitcodingsolutions/TVGram/-/raw/master/TVGram/Data/India_Live.json",
         "default_playlist_url1": "https://raw.githubusercontent.com/theantiqa/Pocket-TV/Final-Apps/TVGram/Common/World_Live.json"
       },
       "About_App": {
