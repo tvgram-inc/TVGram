@@ -133,7 +133,6 @@
             "website_url": "https://play.google.com/store/apps/details?id=com.yoyolive.llc",
             "is_system_browser": true,
             "thumbnail_url": "https://i.postimg.cc/KvDBRzS1/YOYO.png",
-
             "thumbnail_url_original": ""
           },
           "sub_13": {
@@ -196,7 +195,6 @@
             "website_url": "https://play.google.com/store/apps/details?id=com.bitlinks.india.iptv.m3ulist",
             "is_system_browser": true,
             "thumbnail_url": "https://play-lh.googleusercontent.com/l3rJ2qzJtRFzqUzr55ano_WEhcDx5YznwIpd7uRVxooEbOW5444QY8HeeZbiZhd4Ayc=w240-h480-rw",
-
             "thumbnail_url_original": ""
           },
           "sub_19": {
@@ -223,8 +221,8 @@
             "id": 21,
             "mode": "website",
             "name_original": "",
-                "name": "Cash Counter",
-            "sub_name": "Cash Calculator",
+            "name": "Cash Counter",
+            "sub_name": "Cash Calculator (Ad)",
             "website_url": "https://play.google.com/store/apps/details?id=com.money_count_save",
             "is_system_browser": true,
             "thumbnail_url": "https://play-lh.googleusercontent.com/kB7MXSAbO8vKrfbnM8QrzIcNbNm2tWH8rImp5xsIZY1lwKqK3FkNkEFRQpyskJliEbQ=w240-h480-rw",
@@ -409,7 +407,7 @@
             "id": 39,
             "mode": "website",
             "name_original": "",
-           "name": "Pocket IPTV",
+            "name": "Pocket IPTV",
             "sub_name": "IPTV Player (Ad)",
             "website_url": "https://play.google.com/store/apps/details?id=com.pocketiptv",
             "is_system_browser": true,
@@ -440,7 +438,7 @@
             "id": 42,
             "mode": "website",
             "name_original": "",
-             "name": "Sexy video calls",
+            "name": "Sexy video calls",
             "sub_name": "Random Video Chat (Ad)",
             "website_url": "https://play.google.com/store/apps/details?id=com.minichat.lyubimiy.videochat",
             "is_system_browser": true,
@@ -502,7 +500,7 @@
             "id": 48,
             "mode": "website",
             "name_original": "",
-           "name": "Habibi Video Chat",
+            "name": "Habibi Video Chat",
             "sub_name": "Random Video Chat (Ad)",
             "website_url": "https://play.google.com/store/apps/details?id=com.minichat.habibi.fidyu.haya",
             "is_system_browser": true,
@@ -626,7 +624,7 @@
             "id": 60,
             "mode": "website",
             "name_original": "",
-           "name": "Spanish Live TV",
+            "name": "Spanish Live TV",
             "sub_name": "Live Tv Channels (Ad)",
             "website_url": "https://play.google.com/store/apps/details?id=com.tvgram.spanishlivetv",
             "is_system_browser": true,
@@ -719,7 +717,7 @@
             "id": 69,
             "mode": "website",
             "name_original": "",
-           "name": "VidChat : Live",
+            "name": "VidChat : Live",
             "sub_name": "Random Video Chat (Ad)",
             "website_url": "https://play.google.com/store/apps/details?id=com.booya.videochat",
             "is_system_browser": true,
@@ -755,7 +753,6 @@
             "website_url": "https://play.google.com/store/apps/details?id=com.iptv.m3u.playlists",
             "is_system_browser": true,
             "thumbnail_url": "https://play-lh.googleusercontent.com/8mPNKodK65zCjQHS8aqF4o0cX9YlKZYN-3qYCd9oMlcTkGaAf_3AxB0vnE9Kud6bPw=w240-h480-rw",
-
             "thumbnail_url_original": ""
           },
           "sub_73": {
@@ -782,12 +779,11 @@
             "id": 75,
             "mode": "website",
             "name_original": "",
-             "name": "India Live Tv",
+            "name": "India Live Tv",
             "sub_name": "Live Tv channels (Ad)",
             "website_url": "https://play.google.com/store/apps/details?id=com.tvgram.indialivetv",
             "is_system_browser": true,
             "thumbnail_url": "https://i.postimg.cc/Gm3YYCdq/India-Tv.png",
-
             "thumbnail_url_original": ""
           },
           "sub_76": {
@@ -819,7 +815,6 @@
             "website_url": "https://play.google.com/store/apps/details?id=com.yoyolive.llc",
             "is_system_browser": true,
             "thumbnail_url": "https://i.postimg.cc/KvDBRzS1/YOYO.png",
-
             "thumbnail_url_original": ""
           },
           "sub_79": {
@@ -908,8 +903,8 @@
             "id": 87,
             "mode": "website",
             "name_original": "",
-           "name": "Cash Counter",
-            "sub_name": "Cash Calculator",
+            "name": "Cash Counter",
+            "sub_name": "Cash Calculator (Ad)",
             "website_url": "https://play.google.com/store/apps/details?id=com.money_count_save",
             "is_system_browser": true,
             "thumbnail_url": "https://play-lh.googleusercontent.com/kB7MXSAbO8vKrfbnM8QrzIcNbNm2tWH8rImp5xsIZY1lwKqK3FkNkEFRQpyskJliEbQ=w240-h480-rw",
@@ -939,12 +934,11 @@
             "id": 90,
             "mode": "website",
             "name_original": "",
-           "name": "German Live Tv",
+            "name": "German Live Tv",
             "sub_name": "Live Tv Channels (Ad)",
             "website_url": "https://play.google.com/store/apps/details?id=com.tvgram.germanlivetv",
             "is_system_browser": true,
             "thumbnail_url": "https://i.postimg.cc/tJHng0Bd/German-TV.png",
-
             "thumbnail_url_original": ""
           },
           "sub_91": {
@@ -971,7 +965,7 @@
             "id": 93,
             "mode": "website",
             "name_original": "",
-             "name": "Loveme video Chat",
+            "name": "Loveme video Chat",
             "sub_name": "Random Video Chat (Ad)",
             "website_url": "https://play.google.com/store/apps/details?id=com.minichat.loveme.randome.videochat",
             "is_system_browser": true,
@@ -1002,12 +996,11 @@
             "id": 96,
             "mode": "website",
             "name_original": "",
-             "name": "Dream 11",
+            "name": "Dream 11",
             "sub_name": "Live Scricket Score (Ad)",
             "website_url": "https://play.google.com/store/apps/details?id=com.bitmedia.ipl2k22",
             "is_system_browser": true,
             "thumbnail_url": "https://play-lh.googleusercontent.com/yAiVkEdk1YbKEvZf6SLujni0dQgA9U2_B86aqt0_k-b2_ASEWjnqdeL-UyNq-GWx1Jc=w240-h480-rw",
-
             "thumbnail_url_original": ""
           },
           "sub_97": {
@@ -1163,7 +1156,6 @@
             "website_url": "https://play.google.com/store/apps/details?id=com.tvgram.italylivetv",
             "is_system_browser": true,
             "thumbnail_url": "https://i.postimg.cc/nrYjjdWy/Italy-Tv.png",
-
             "thumbnail_url_original": ""
           },
           "sub_112": {
@@ -1221,7 +1213,7 @@
             "id": 117,
             "mode": "website",
             "name_original": "",
-           "name": "Sound Prank",
+            "name": "Sound Prank",
             "sub_name": "Air Horn Sound Prank (Ad)",
             "website_url": "https://i.postimg.cc/ZqBWFYgF/Horn-Prank.png",
             "is_system_browser": true,
@@ -1314,7 +1306,7 @@
             "id": 126,
             "mode": "website",
             "name_original": "",
-           "name": "Spanish Live TV",
+            "name": "Spanish Live TV",
             "sub_name": "Live Tv Channels (Ad)",
             "website_url": "https://play.google.com/store/apps/details?id=com.tvgram.spanishlivetv",
             "is_system_browser": true,
@@ -1381,7 +1373,6 @@
             "website_url": "https://play.google.com/store/apps/details?id=com.tvgram.francelivetv",
             "is_system_browser": true,
             "thumbnail_url": "https://i.postimg.cc/7ZQC2JBZ/France-Tv.png",
-
             "thumbnail_url_original": ""
           },
           "sub_133": {
@@ -1537,7 +1528,6 @@
             "website_url": "https://play.google.com/store/apps/details?id=com.tvgram.usalivetv",
             "is_system_browser": true,
             "thumbnail_url": "https://i.postimg.cc/gJh6dcHk/USA-Tv.png",
-
             "thumbnail_url_original": ""
           },
           "sub_148": {
@@ -1596,7 +1586,7 @@
             "mode": "website",
             "name_original": "",
             "name": "Cash Counter",
-            "sub_name": "Cash Calculator",
+            "sub_name": "Cash Calculator (Ad) (Ad)",
             "website_url": "https://play.google.com/store/apps/details?id=com.money_count_save",
             "is_system_browser": true,
             "thumbnail_url": "https://play-lh.googleusercontent.com/kB7MXSAbO8vKrfbnM8QrzIcNbNm2tWH8rImp5xsIZY1lwKqK3FkNkEFRQpyskJliEbQ=w240-h480-rw",
@@ -1626,7 +1616,7 @@
             "id": 156,
             "mode": "website",
             "name_original": "",
-             "name": "German Live Tv",
+            "name": "German Live Tv",
             "sub_name": "Live Tv Channels (Ad)",
             "website_url": "https://play.google.com/store/apps/details?id=com.tvgram.germanlivetv",
             "is_system_browser": true,
@@ -1972,7 +1962,6 @@
             "website_url": "https://play.google.com/store/apps/details?id=com.bitlinks.arebic.iptv.m3ulist",
             "is_system_browser": true,
             "thumbnail_url": "https://play-lh.googleusercontent.com/sGSMoSuytTPbNuMjKFU0omN7y814nhnqYxEHDtwSPNkrAiqCLuH_asc06xb52U5tAoo=w240-h480-rw",
-
             "thumbnail_url_original": ""
           },
           "sub_190": {
